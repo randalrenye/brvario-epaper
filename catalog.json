@@ -1,13 +1,13 @@
 [
   {
     "id": "palmopolis",
-    "name": "Palmopolis Relief E-Ink Bold",
+    "name": "Palmopolis Relief E-Ink Local",
     "file": "regions/palmopolis.brmap",
-    "size": 698386,
+    "size": 464350,
     "version": 2,
-    "latMin": -16.795,
-    "latMax": -16.675,
-    "lonMin": -40.515,
-    "lonMax": -40.335
+    "latMin": -16.765,
+    "latMax": -16.71,
+    "lonMin": -40.48,
+    "lonMax": -40.39
   }
 ]
