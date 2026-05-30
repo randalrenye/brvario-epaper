@@ -1,13 +1,17 @@
 [
   {
-    "id": "palmopolis",
-    "name": "Palmopolis Relief E-Ink Local",
-    "file": "regions/palmopolis.brmap",
-    "size": 464350,
+    "id": "mg_001",
+    "name": "Minas Gerais 001",
+    "state": "MG",
+    "file": "regions/mg_001.brmap",
+    "size": 301593,
     "version": 2,
-    "latMin": -16.765,
-    "latMax": -16.71,
-    "lonMin": -40.48,
-    "lonMax": -40.39
+    "radiusKm": 100,
+    "centerLat": -22.64469,
+    "centerLon": -50.551527,
+    "latMin": -22.9052,
+    "latMax": -22.38418,
+    "lonMin": -51.0382,
+    "lonMax": -50.064854
   }
 ]
