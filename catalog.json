@@ -1,0 +1,13 @@
+[
+  {
+    "id": "palmopolis",
+    "name": "Palmopolis Experimental",
+    "file": "regions/palmopolis.brmap",
+    "size": 535,
+    "version": 1,
+    "latMin": -16.755,
+    "latMax": -16.719,
+    "lonMin": -40.465,
+    "lonMax": -40.392
+  }
+]
