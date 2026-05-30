@@ -1,7 +1,7 @@
 [
   {
     "id": "palmopolis",
-    "name": "Palmopolis GIS Hillshade Volume",
+    "name": "Palmopolis DEM First Terrain",
     "file": "regions/palmopolis.brmap",
     "size": 917102,
     "version": 2,
