@@ -1,13 +1,13 @@
 [
   {
     "id": "palmopolis",
-    "name": "Palmopolis XC Light 25m",
+    "name": "Palmopolis Wide Lite 25m",
     "file": "regions/palmopolis.brmap",
-    "size": 403786,
+    "size": 922978,
     "version": 2,
-    "latMin": -16.78,
-    "latMax": -16.69,
-    "lonMin": -40.49,
-    "lonMax": -40.36
+    "latMin": -16.795,
+    "latMax": -16.675,
+    "lonMin": -40.515,
+    "lonMax": -40.335
   }
 ]
