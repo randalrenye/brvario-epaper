@@ -1,9 +1,9 @@
 [
   {
     "id": "palmopolis",
-    "name": "Palmopolis DEM Hillshade 25m",
+    "name": "Palmopolis GIS Hillshade Volume",
     "file": "regions/palmopolis.brmap",
-    "size": 922978,
+    "size": 917102,
     "version": 2,
     "latMin": -16.795,
     "latMax": -16.675,
