@@ -1,7 +1,7 @@
 [
   {
     "id": "palmopolis",
-    "name": "Palmopolis Terrain Geometry 25m",
+    "name": "Palmopolis DEM Hillshade 25m",
     "file": "regions/palmopolis.brmap",
     "size": 922978,
     "version": 2,
