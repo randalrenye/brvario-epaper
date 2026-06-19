@@ -1,1 +1,10 @@
-
+{
+  "schema": "brvario.flight-sites.catalog",
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "updatedAt": "2026-06-19",
+  "siteCount": 1,
+  "sites": [
+    {"id":1,"name":"PEDRA GRANDE","city":"ATIBAIA","state":"SP","latitudeE7":-231687110,"longitudeE7":-465287090,"altitudeM":1382,"windQuadrants":["N","NE","NW"],"detail":"sites/00001.json","source":"BRVARIO"}
+  ]
+}
