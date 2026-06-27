@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 1743,
+  "slug": "alagoa-grande-rampa-do-galeguinho-pb",
+  "name": "RAMPA DO GALEGUINHO",
+  "city": "ALAGOA GRANDE",
+  "state": "PB",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -70452890,
+    "longitudeE7": -356449160
+  },
+  "terrain": {
+    "altitudeM": 280,
+    "verticalDropM": 150
+  },
+  "windQuadrants": [
+    "E",
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/alagoa-grande-rampa-do-galeguinho-pb/",
+    "referenceUrl": "https://guia4ventos.com.br/alagoa-grande-rampa-do-galeguinho-pb/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2375,
+  "slug": "beberibe-rampa-do-morro-branco-ce",
+  "name": "RAMPA DO MORRO BRANCO",
+  "city": "BEBERIBE",
+  "state": "CE",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -41707300,
+    "longitudeE7": -380935910
+  },
+  "terrain": {
+    "altitudeM": 30,
+    "verticalDropM": 30
+  },
+  "windQuadrants": [
+    "N",
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/beberibe-rampa-do-morro-branco-ce/",
+    "referenceUrl": "https://guia4ventos.com.br/beberibe-rampa-do-morro-branco-ce/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

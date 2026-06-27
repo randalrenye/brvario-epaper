@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3867,
+  "slug": "alagoa-rampa-do-condado-mg",
+  "name": "RAMPA DO CONDADO",
+  "city": "ALAGOA",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -221667000,
+    "longitudeE7": -446333000
+  },
+  "terrain": {
+    "altitudeM": 1825,
+    "verticalDropM": 520
+  },
+  "windQuadrants": [
+    "N",
+    "NW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/alagoa-rampa-do-condado-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/alagoa-rampa-do-condado-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

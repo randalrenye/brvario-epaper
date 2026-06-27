@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2086,
+  "slug": "baixo-guandu-rampa-da-pedra-da-galinha-es",
+  "name": "RAMPA DA PEDRA DA GALINHA",
+  "city": "BAIXO GUANDU",
+  "state": "ES",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -197362910,
+    "longitudeE7": -409965560
+  },
+  "terrain": {
+    "altitudeM": 730,
+    "verticalDropM": 584
+  },
+  "windQuadrants": [
+    "N",
+    "NE",
+    "NW",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/baixo-guandu-rampa-da-pedra-da-galinha-es/",
+    "referenceUrl": "https://guia4ventos.com.br/baixo-guandu-rampa-da-pedra-da-galinha-es/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

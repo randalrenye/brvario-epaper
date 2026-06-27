@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3275,
+  "slug": "pocos-de-caldas-rampa-do-cristo-mg",
+  "name": "RAMPA DO CRISTO",
+  "city": "POÇOS DE CALDAS",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -217745550,
+    "longitudeE7": -465763770
+  },
+  "terrain": {
+    "altitudeM": 1550,
+    "verticalDropM": 400
+  },
+  "windQuadrants": [
+    "N",
+    "NE",
+    "NW",
+    "S"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/pocos-de-caldas-rampa-do-cristo-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/pocos-de-caldas-rampa-do-cristo-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

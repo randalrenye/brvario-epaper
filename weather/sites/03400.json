@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3400,
+  "slug": "almenara-rampa-do-morro-do-cruzeiro-mg",
+  "name": "RAMPA DO MORRO DO CRUZEIRO",
+  "city": "ALMENARA",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -161953880,
+    "longitudeE7": -406852910
+  },
+  "terrain": {
+    "altitudeM": 740,
+    "verticalDropM": 560
+  },
+  "windQuadrants": [
+    "E",
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/almenara-rampa-do-morro-do-cruzeiro-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/almenara-rampa-do-morro-do-cruzeiro-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

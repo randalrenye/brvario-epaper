@@ -1,0 +1,34 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3806,
+  "slug": "rampa-escada-da-penitencia-mg",
+  "name": "RAMPA ESCADA DA PENITÊNCIA",
+  "city": "SANTA BÁRBARA DO TUGÚRIO",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -212150910,
+    "longitudeE7": -435810890
+  },
+  "terrain": {
+    "altitudeM": 1146,
+    "verticalDropM": 461
+  },
+  "windQuadrants": [
+    "E",
+    "S",
+    "SE",
+    "SW",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/rampa-escada-da-penitencia-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/rampa-escada-da-penitencia-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

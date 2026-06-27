@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2710,
+  "slug": "tibagi-rampa-da-comuna-pr",
+  "name": "RAMPA DA COMUNA",
+  "city": "TIBAGI",
+  "state": "PR",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -245872460,
+    "longitudeE7": -504764610
+  },
+  "terrain": {
+    "altitudeM": 1011,
+    "verticalDropM": 230
+  },
+  "windQuadrants": [
+    "N",
+    "NW",
+    "SW",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/tibagi-rampa-da-comuna-pr/",
+    "referenceUrl": "https://guia4ventos.com.br/tibagi-rampa-da-comuna-pr/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

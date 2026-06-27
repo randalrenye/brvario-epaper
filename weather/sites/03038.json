@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3038,
+  "slug": "urubici-rampa-do-morro-do-oderdeng-sc",
+  "name": "RAMPA DO MORRO DO ODERDENG",
+  "city": "URUBICI",
+  "state": "SC",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -280090700,
+    "longitudeE7": -495726470
+  },
+  "terrain": {
+    "altitudeM": 1370,
+    "verticalDropM": 420
+  },
+  "windQuadrants": [
+    "N",
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/urubici-rampa-do-morro-do-oderdeng-sc/",
+    "referenceUrl": "https://guia4ventos.com.br/urubici-rampa-do-morro-do-oderdeng-sc/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

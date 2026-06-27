@@ -1,0 +1,30 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2496,
+  "slug": "santa-maria-rampa-de-santa-maria-rs",
+  "name": "RAMPA DE SANTA MARIA",
+  "city": "SANTA MARIA",
+  "state": "RS",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -296547100,
+    "longitudeE7": -538341780
+  },
+  "terrain": {
+    "altitudeM": 510,
+    "verticalDropM": 360
+  },
+  "windQuadrants": [
+    "E"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/santa-maria-rampa-de-santa-maria-rs/",
+    "referenceUrl": "https://guia4ventos.com.br/santa-maria-rampa-de-santa-maria-rs/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2143,
+  "slug": "venda-nova-do-imigrante-rampa-no-morro-do-filetti-es",
+  "name": "RAMPA NO MORRO DO FILETTI",
+  "city": "VENDA NOVA DO IMIGRANTE",
+  "state": "ES",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -203505220,
+    "longitudeE7": -411126640
+  },
+  "terrain": {
+    "altitudeM": 1100,
+    "verticalDropM": 400
+  },
+  "windQuadrants": [
+    "N",
+    "NE",
+    "NW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/venda-nova-do-imigrante-rampa-no-morro-do-filetti-es/",
+    "referenceUrl": "https://guia4ventos.com.br/venda-nova-do-imigrante-rampa-no-morro-do-filetti-es/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

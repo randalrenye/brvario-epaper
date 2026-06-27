@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2640,
+  "slug": "terra-rica-rampa-dos-tres-morrinhos-pr",
+  "name": "RAMPA DOS TRÊS MORRINHOS",
+  "city": "TERRA RICA",
+  "state": "PR",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -227826660,
+    "longitudeE7": -526501760
+  },
+  "terrain": {
+    "altitudeM": 742,
+    "verticalDropM": 252
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/terra-rica-rampa-dos-tres-morrinhos-pr/",
+    "referenceUrl": "https://guia4ventos.com.br/terra-rica-rampa-dos-tres-morrinhos-pr/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2611,
+  "slug": "rampa-do-mirante-da-lagoa-da-harmonia-rs",
+  "name": "RAMPA DO MIRANTE DA LAGOA DA HARMONIA",
+  "city": "TEUTÔNIA",
+  "state": "RS",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -294024660,
+    "longitudeE7": -518012250
+  },
+  "terrain": {
+    "altitudeM": 585,
+    "verticalDropM": 455
+  },
+  "windQuadrants": [
+    "E",
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/rampa-do-mirante-da-lagoa-da-harmonia-rs/",
+    "referenceUrl": "https://guia4ventos.com.br/rampa-do-mirante-da-lagoa-da-harmonia-rs/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

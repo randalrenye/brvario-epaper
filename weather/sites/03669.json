@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3669,
+  "slug": "boa-esperanca-rampa-do-alvinho-mg",
+  "name": "RAMPA DO ALVINHO",
+  "city": "BOA ESPERANÇA",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -209822770,
+    "longitudeE7": -456284650
+  },
+  "terrain": {
+    "altitudeM": 1130,
+    "verticalDropM": 450
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/boa-esperanca-rampa-do-alvinho-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/boa-esperanca-rampa-do-alvinho-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

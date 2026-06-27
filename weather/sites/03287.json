@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3287,
+  "slug": "salto-da-divisa-rampa-na-serra-do-bodoco-mg",
+  "name": "RAMPA NA SERRA DO BODOCÓ",
+  "city": "SALTO DA DIVISA",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -160277270,
+    "longitudeE7": -399231060
+  },
+  "terrain": {
+    "altitudeM": 280,
+    "verticalDropM": 250
+  },
+  "windQuadrants": [
+    "N",
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/salto-da-divisa-rampa-na-serra-do-bodoco-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/salto-da-divisa-rampa-na-serra-do-bodoco-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2362,
+  "slug": "tiangua-sitio-do-bosco-ce",
+  "name": "SITIO DO BOSCO",
+  "city": "TIANGUÁ",
+  "state": "CE",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -36642830,
+    "longitudeE7": -409600680
+  },
+  "terrain": {
+    "altitudeM": 775,
+    "verticalDropM": 550
+  },
+  "windQuadrants": [
+    "E",
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/tiangua-sitio-do-bosco-ce/",
+    "referenceUrl": "https://guia4ventos.com.br/tiangua-sitio-do-bosco-ce/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4457,
+  "slug": "rampa-santa-cruz-da-serra-rj",
+  "name": "RAMPA DE SANTA CRUZ DA SERRA / JAÚ RAMP",
+  "city": "DUQUE DE CAXIAS",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -226104000,
+    "longitudeE7": -432583000
+  },
+  "terrain": {
+    "altitudeM": 520,
+    "verticalDropM": 500
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/rampa-santa-cruz-da-serra-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/rampa-santa-cruz-da-serra-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

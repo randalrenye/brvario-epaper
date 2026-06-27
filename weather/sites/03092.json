@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3092,
+  "slug": "witmarsum-rampa-villa-nova-sc",
+  "name": "RAMPA VILLA NOVA",
+  "city": "WITMARSUM",
+  "state": "SC",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -269128620,
+    "longitudeE7": -497796010
+  },
+  "terrain": {
+    "altitudeM": 650,
+    "verticalDropM": 250
+  },
+  "windQuadrants": [
+    "SW",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/witmarsum-rampa-villa-nova-sc/",
+    "referenceUrl": "https://guia4ventos.com.br/witmarsum-rampa-villa-nova-sc/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

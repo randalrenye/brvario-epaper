@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2745,
+  "slug": "ilha-do-mel-rampa-do-morro-do-sabao-pr",
+  "name": "RAMPA DO MORRO DO SABÃO",
+  "city": "ILHA DO MEL",
+  "state": "PR",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -255646653,
+    "longitudeE7": -483013058
+  },
+  "terrain": {
+    "altitudeM": 60,
+    "verticalDropM": 60
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/ilha-do-mel-rampa-do-morro-do-sabao-pr/",
+    "referenceUrl": "https://guia4ventos.com.br/ilha-do-mel-rampa-do-morro-do-sabao-pr/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

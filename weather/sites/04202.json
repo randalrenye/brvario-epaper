@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4202,
+  "slug": "petropolis-rampa-da-simeria-rj",
+  "name": "RAMPA DA SIMÉRIA",
+  "city": "PETRÓPOLIS",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -225463010,
+    "longitudeE7": -432029120
+  },
+  "terrain": {
+    "altitudeM": 900,
+    "verticalDropM": 850
+  },
+  "windQuadrants": [
+    "S",
+    "SE",
+    "SW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/petropolis-rampa-da-simeria-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/petropolis-rampa-da-simeria-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

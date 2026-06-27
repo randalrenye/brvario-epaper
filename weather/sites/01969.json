@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 1969,
+  "slug": "formosa-rampa-do-sargento-morro-do-urubu-go",
+  "name": "RAMPA DO SARGENTO - MORRO DO URUBU",
+  "city": "FORMOSA",
+  "state": "GO",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -155119790,
+    "longitudeE7": -472927000
+  },
+  "terrain": {
+    "altitudeM": 1240,
+    "verticalDropM": 220
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/formosa-rampa-do-sargento-morro-do-urubu-go/",
+    "referenceUrl": "https://guia4ventos.com.br/formosa-rampa-do-sargento-morro-do-urubu-go/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

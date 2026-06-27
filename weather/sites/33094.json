@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 33094,
+  "slug": "rampa-da-pedra-bonita-sao-conrado-rj",
+  "name": "RAMPA DA PEDRA BONITA SÃO CONRADO",
+  "city": "RIO DE JANEIRO",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -229882310,
+    "longitudeE7": -432786710
+  },
+  "terrain": {
+    "altitudeM": 520,
+    "verticalDropM": 520
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "S"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/rampa-da-pedra-bonita-sao-conrado-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/rampa-da-pedra-bonita-sao-conrado-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

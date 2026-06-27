@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3598,
+  "slug": "capitao-eneas-rampa-burarama-mg",
+  "name": "RAMPA BURARAMA",
+  "city": "CAPITÃO ENÉAS",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -163775650,
+    "longitudeE7": -436863510
+  },
+  "terrain": {
+    "altitudeM": 950,
+    "verticalDropM": 360
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/capitao-eneas-rampa-burarama-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/capitao-eneas-rampa-burarama-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

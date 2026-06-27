@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4063,
+  "slug": "limeira-morro-azul-sp",
+  "name": "MORRO AZUL",
+  "city": "LIMEIRA",
+  "state": "SP",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -225373260,
+    "longitudeE7": -474648000
+  },
+  "terrain": {
+    "altitudeM": 770,
+    "verticalDropM": 150
+  },
+  "windQuadrants": [
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/limeira-morro-azul-sp/",
+    "referenceUrl": "https://guia4ventos.com.br/limeira-morro-azul-sp/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

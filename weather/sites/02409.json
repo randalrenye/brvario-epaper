@@ -1,0 +1,30 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2409,
+  "slug": "juazeiro-do-norte-rampa-do-horto-ce",
+  "name": "RAMPA DO HORTO",
+  "city": "JUAZEIRO DO NORTE",
+  "state": "CE",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -71716820,
+    "longitudeE7": -393203550
+  },
+  "terrain": {
+    "altitudeM": 590,
+    "verticalDropM": 160
+  },
+  "windQuadrants": [
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/juazeiro-do-norte-rampa-do-horto-ce/",
+    "referenceUrl": "https://guia4ventos.com.br/juazeiro-do-norte-rampa-do-horto-ce/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

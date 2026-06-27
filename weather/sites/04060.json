@@ -1,0 +1,35 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4060,
+  "slug": "silveiras-rampa-do-pietro-sp",
+  "name": "RAMPA DO PIETRO",
+  "city": "SILVEIRAS",
+  "state": "SP",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -228110860,
+    "longitudeE7": -447930740
+  },
+  "terrain": {
+    "altitudeM": 1567,
+    "verticalDropM": 500
+  },
+  "windQuadrants": [
+    "N",
+    "NE",
+    "NW",
+    "S",
+    "SW",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/silveiras-rampa-do-pietro-sp/",
+    "referenceUrl": "https://guia4ventos.com.br/silveiras-rampa-do-pietro-sp/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

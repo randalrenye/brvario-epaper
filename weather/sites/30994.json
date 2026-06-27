@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 30994,
+  "slug": "ouro-branco-rampa-serra-de-ouro-branco-mg",
+  "name": "RAMPA SERRA DE OURO BRANCO",
+  "city": "OURO BRANCO",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -205015270,
+    "longitudeE7": -436851070
+  },
+  "terrain": {
+    "altitudeM": 1320,
+    "verticalDropM": 320
+  },
+  "windQuadrants": [
+    "S",
+    "SE",
+    "SW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/ouro-branco-rampa-serra-de-ouro-branco-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/ouro-branco-rampa-serra-de-ouro-branco-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

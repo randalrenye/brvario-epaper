@@ -1,0 +1,100 @@
+{
+  "type": "FeatureCollection",
+  "name": "palmopolis_experimental",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "type": "contour", "name": "900m" },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-40.4550, -16.7550],
+          [-40.4480, -16.7480],
+          [-40.4395, -16.7460],
+          [-40.4310, -16.7500],
+          [-40.4210, -16.7470],
+          [-40.4110, -16.7520],
+          [-40.4020, -16.7490]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "type": "contour", "name": "850m" },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-40.4580, -16.7350],
+          [-40.4490, -16.7290],
+          [-40.4380, -16.7310],
+          [-40.4290, -16.7240],
+          [-40.4160, -16.7280],
+          [-40.4060, -16.7210],
+          [-40.3960, -16.7270]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "type": "river", "name": "Corrego" },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-40.4620, -16.7190],
+          [-40.4520, -16.7250],
+          [-40.4430, -16.7240],
+          [-40.4330, -16.7315],
+          [-40.4210, -16.7330],
+          [-40.4100, -16.7400],
+          [-40.3980, -16.7420]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "type": "road", "name": "Estrada" },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-40.4650, -16.7440],
+          [-40.4520, -16.7410],
+          [-40.4410, -16.7360],
+          [-40.4290, -16.7360],
+          [-40.4170, -16.7320],
+          [-40.4050, -16.7340],
+          [-40.3920, -16.7300]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "type": "trail", "name": "Trilha" },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-40.4360, -16.7480],
+          [-40.4330, -16.7430],
+          [-40.4310, -16.7390],
+          [-40.4295, -16.7360],
+          [-40.4270, -16.7310],
+          [-40.4240, -16.7270]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "type": "ramp", "name": "Rampa" },
+      "geometry": { "type": "Point", "coordinates": [-40.4290, -16.7360] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "type": "city", "name": "Palmopolis" },
+      "geometry": { "type": "Point", "coordinates": [-40.4230, -16.7350] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "type": "waypoint", "name": "Pouso" },
+      "geometry": { "type": "Point", "coordinates": [-40.4140, -16.7420] }
+    }
+  ]
+}

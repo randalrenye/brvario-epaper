@@ -1,0 +1,34 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4251,
+  "slug": "japeri-rampa-do-pico-da-coragem-rj",
+  "name": "RAMPA DO PICO DA CORAGEM",
+  "city": "JAPERI",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -226246280,
+    "longitudeE7": -436279960
+  },
+  "terrain": {
+    "altitudeM": 430,
+    "verticalDropM": 380
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "S",
+    "SE",
+    "SW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/japeri-rampa-do-pico-da-coragem-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/japeri-rampa-do-pico-da-coragem-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

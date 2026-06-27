@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 1698,
+  "slug": "araruna-tacima-rampa-de-tacima-pb",
+  "name": "TACIMA - RAMPA DE TACIMA",
+  "city": "ARARUNA",
+  "state": "PB",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -65063680,
+    "longitudeE7": -356653670
+  },
+  "terrain": {
+    "altitudeM": 368,
+    "verticalDropM": 200
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/araruna-tacima-rampa-de-tacima-pb/",
+    "referenceUrl": "https://guia4ventos.com.br/araruna-tacima-rampa-de-tacima-pb/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

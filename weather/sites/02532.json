@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2532,
+  "slug": "encantado-morro-do-paraglider-rs",
+  "name": "MORRO DO PARAGLIDER",
+  "city": "ENCANTADO",
+  "state": "RS",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": 292724840,
+    "longitudeE7": -518956590
+  },
+  "terrain": {
+    "altitudeM": 411,
+    "verticalDropM": 368
+  },
+  "windQuadrants": [
+    "S",
+    "SE",
+    "SW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/encantado-morro-do-paraglider-rs/",
+    "referenceUrl": "https://guia4ventos.com.br/encantado-morro-do-paraglider-rs/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3074,
+  "slug": "rio-do-sul-morro-do-tshumi-bela-alianca-sc",
+  "name": "MORRO DO TSHUMI - BELA ALIANÇA",
+  "city": "RIO DO SUL",
+  "state": "SC",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -271939670,
+    "longitudeE7": -495653890
+  },
+  "terrain": {
+    "altitudeM": 680,
+    "verticalDropM": 325
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE",
+    "NW",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/rio-do-sul-morro-do-tshumi-bela-alianca-sc/",
+    "referenceUrl": "https://guia4ventos.com.br/rio-do-sul-morro-do-tshumi-bela-alianca-sc/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

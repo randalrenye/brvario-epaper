@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3968,
+  "slug": "santa-rita-do-passa-quatro-rampa-do-ciroca-sp",
+  "name": "RAMPA DO CIROCA",
+  "city": "SANTA RITA DO PASSA QUATRO",
+  "state": "SP",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -216824680,
+    "longitudeE7": -474241510
+  },
+  "terrain": {
+    "altitudeM": 1050,
+    "verticalDropM": 220
+  },
+  "windQuadrants": [
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/santa-rita-do-passa-quatro-rampa-do-ciroca-sp/",
+    "referenceUrl": "https://guia4ventos.com.br/santa-rita-do-passa-quatro-rampa-do-ciroca-sp/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 1677,
+  "slug": "vicencia-rampa-de-vicencia-pe",
+  "name": "RAMPA DE VICÊNCIA",
+  "city": "VICÊNCIA",
+  "state": "PE",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -76222360,
+    "longitudeE7": -353278600
+  },
+  "terrain": {
+    "altitudeM": 450,
+    "verticalDropM": 310
+  },
+  "windQuadrants": [
+    "N",
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/vicencia-rampa-de-vicencia-pe/",
+    "referenceUrl": "https://guia4ventos.com.br/vicencia-rampa-de-vicencia-pe/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3769,
+  "slug": "albertina-rampa-de-albertina-mg",
+  "name": "RAMPA DE ALBERTINA",
+  "city": "ALBERTINA",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -222114720,
+    "longitudeE7": -466308430
+  },
+  "terrain": {
+    "altitudeM": 1350,
+    "verticalDropM": 260
+  },
+  "windQuadrants": [
+    "N",
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/albertina-rampa-de-albertina-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/albertina-rampa-de-albertina-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

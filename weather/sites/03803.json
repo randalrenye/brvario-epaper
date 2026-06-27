@@ -1,0 +1,34 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3803,
+  "slug": "caputira-rampa-do-fie-mg",
+  "name": "RAMPA DO FIÉ",
+  "city": "CAPUTIRA",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -202154650,
+    "longitudeE7": -422208060
+  },
+  "terrain": {
+    "altitudeM": 1183,
+    "verticalDropM": 531
+  },
+  "windQuadrants": [
+    "N",
+    "NE",
+    "NW",
+    "SW",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/caputira-rampa-do-fie-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/caputira-rampa-do-fie-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

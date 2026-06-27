@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 39284,
+  "slug": "abaira-rampa-da-chapada-diamantina-ba",
+  "name": "RAMPA INTERNACIONAL DA CHAPADA DIAMANTI",
+  "city": "ABAÍRA",
+  "state": "BA",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -132885110,
+    "longitudeE7": -416480250
+  },
+  "terrain": {
+    "altitudeM": 1256,
+    "verticalDropM": 450
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/abaira-rampa-da-chapada-diamantina-ba/",
+    "referenceUrl": "https://guia4ventos.com.br/abaira-rampa-da-chapada-diamantina-ba/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

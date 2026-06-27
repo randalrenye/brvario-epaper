@@ -1,0 +1,30 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2518,
+  "slug": "torres-rampa-do-morro-do-farol-rs",
+  "name": "RAMPA DO MORRO DO FAROL",
+  "city": "TORRES",
+  "state": "RS",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -293453950,
+    "longitudeE7": -497281130
+  },
+  "terrain": {
+    "altitudeM": 80,
+    "verticalDropM": 79
+  },
+  "windQuadrants": [
+    "E"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/torres-rampa-do-morro-do-farol-rs/",
+    "referenceUrl": "https://guia4ventos.com.br/torres-rampa-do-morro-do-farol-rs/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

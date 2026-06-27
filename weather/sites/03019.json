@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3019,
+  "slug": "timbo-rampa-de-arapongas-sc",
+  "name": "RAMPA DE ARAPONGAS",
+  "city": "TIMBÓ",
+  "state": "SC",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -268468170,
+    "longitudeE7": -493016620
+  },
+  "terrain": {
+    "altitudeM": 470,
+    "verticalDropM": 420
+  },
+  "windQuadrants": [
+    "E",
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/timbo-rampa-de-arapongas-sc/",
+    "referenceUrl": "https://guia4ventos.com.br/timbo-rampa-de-arapongas-sc/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

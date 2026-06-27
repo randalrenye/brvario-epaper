@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4323,
+  "slug": "angra-dos-reis-abraao-ilha-grande-rampa-mauricio-klabin-rj",
+  "name": "ABRAÃO - ILHA GRANDE - RAMPA MAURÍCIO K",
+  "city": "ANGRA DOS REIS",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -231371730,
+    "longitudeE7": -441724470
+  },
+  "terrain": {
+    "altitudeM": 135,
+    "verticalDropM": 135
+  },
+  "windQuadrants": [
+    "E",
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/angra-dos-reis-abraao-ilha-grande-rampa-mauricio-klabin-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/angra-dos-reis-abraao-ilha-grande-rampa-mauricio-klabin-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

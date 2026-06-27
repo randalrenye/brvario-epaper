@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4465,
+  "slug": "mangaratiba-conceicao-de-jacarei-rj",
+  "name": "CONCEIÇÃO DE JACAREÍ (HOTEL PORTO REAL)",
+  "city": "MANGARATIBA",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -230279630,
+    "longitudeE7": -441410708
+  },
+  "terrain": {
+    "altitudeM": 270,
+    "verticalDropM": 270
+  },
+  "windQuadrants": [
+    "S",
+    "SE",
+    "SW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/mangaratiba-conceicao-de-jacarei-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/mangaratiba-conceicao-de-jacarei-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

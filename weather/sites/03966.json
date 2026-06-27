@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3966,
+  "slug": "mogi-das-cruzes-rampa-no-pico-do-urubu-sp",
+  "name": "RAMPA NO PICO DO URUBU",
+  "city": "MOGI DAS CRUZES",
+  "state": "SP",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -234848590,
+    "longitudeE7": -462071440
+  },
+  "terrain": {
+    "altitudeM": 1140,
+    "verticalDropM": 370
+  },
+  "windQuadrants": [
+    "N",
+    "S"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/mogi-das-cruzes-rampa-no-pico-do-urubu-sp/",
+    "referenceUrl": "https://guia4ventos.com.br/mogi-das-cruzes-rampa-no-pico-do-urubu-sp/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

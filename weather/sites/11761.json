@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 11761,
+  "slug": "jandaia-rampa-de-jandaia-go",
+  "name": "RAMPA DE JANDAIA",
+  "city": "JANDAIA",
+  "state": "GO",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -170484830,
+    "longitudeE7": -501132250
+  },
+  "terrain": {
+    "altitudeM": 866,
+    "verticalDropM": 300
+  },
+  "windQuadrants": [
+    "S",
+    "SE",
+    "SW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/jandaia-rampa-de-jandaia-go/",
+    "referenceUrl": "https://guia4ventos.com.br/jandaia-rampa-de-jandaia-go/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

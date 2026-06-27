@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3672,
+  "slug": "bocaina-de-minas-rampa-do-mirante-mg",
+  "name": "RAMPA DO MIRANTE",
+  "city": "BOCAINA DE MINAS",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -221787220,
+    "longitudeE7": -445178260
+  },
+  "terrain": {
+    "altitudeM": 1180,
+    "verticalDropM": 510
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/bocaina-de-minas-rampa-do-mirante-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/bocaina-de-minas-rampa-do-mirante-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

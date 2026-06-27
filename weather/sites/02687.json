@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2687,
+  "slug": "rio-branco-do-sul-cordilheira-do-santana-pr",
+  "name": "RAMPA CORDILHEIRA DO SANTANA",
+  "city": "RIO BRANCO DO SUL",
+  "state": "PR",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -251147570,
+    "longitudeE7": -491764730
+  },
+  "terrain": {
+    "altitudeM": 1080,
+    "verticalDropM": 180
+  },
+  "windQuadrants": [
+    "N",
+    "NE",
+    "NW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/rio-branco-do-sul-cordilheira-do-santana-pr/",
+    "referenceUrl": "https://guia4ventos.com.br/rio-branco-do-sul-cordilheira-do-santana-pr/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

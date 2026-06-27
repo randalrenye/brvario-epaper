@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4316,
+  "slug": "visconde-de-maua-rampa-da-pedra-selada-rj",
+  "name": "RAMPA DA PEDRA SELADA",
+  "city": "VISCONDE DE MAUÁ",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -223407520,
+    "longitudeE7": -445244450
+  },
+  "terrain": {
+    "altitudeM": 1290,
+    "verticalDropM": 790
+  },
+  "windQuadrants": [
+    "S",
+    "SE",
+    "SW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/visconde-de-maua-rampa-da-pedra-selada-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/visconde-de-maua-rampa-da-pedra-selada-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

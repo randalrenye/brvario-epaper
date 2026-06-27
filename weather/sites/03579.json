@@ -1,0 +1,35 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3579,
+  "slug": "astolfo-dutra-rampa-de-astolfo-dutra-mg",
+  "name": "RAMPA DE ASTOLFO DUTRA",
+  "city": "ASTOLFO DUTRA",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -213218600,
+    "longitudeE7": -428875890
+  },
+  "terrain": {
+    "altitudeM": 620,
+    "verticalDropM": 420
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE",
+    "NW",
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/astolfo-dutra-rampa-de-astolfo-dutra-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/astolfo-dutra-rampa-de-astolfo-dutra-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

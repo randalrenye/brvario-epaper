@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3801,
+  "slug": "patrocinio-rampa-do-cristo-mg",
+  "name": "RAMPA DO CRISTO",
+  "city": "PATROCÍNIO",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -189105190,
+    "longitudeE7": -470035560
+  },
+  "terrain": {
+    "altitudeM": 1100,
+    "verticalDropM": 121
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/patrocinio-rampa-do-cristo-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/patrocinio-rampa-do-cristo-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

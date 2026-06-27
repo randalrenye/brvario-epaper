@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3435,
+  "slug": "carlos-chagas-rampa-da-pedra-da-baleia-mg",
+  "name": "RAMPA DA PEDRA DA BALEIA",
+  "city": "CARLOS CHAGAS",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -178179880,
+    "longitudeE7": -410027040
+  },
+  "terrain": {
+    "altitudeM": 602,
+    "verticalDropM": 350
+  },
+  "windQuadrants": [
+    "N",
+    "SW",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/carlos-chagas-rampa-da-pedra-da-baleia-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/carlos-chagas-rampa-da-pedra-da-baleia-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

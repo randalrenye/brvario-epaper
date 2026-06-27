@@ -1,0 +1,35 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4314,
+  "slug": "conceicao-de-macabu-rampa-da-carrapeta-rj",
+  "name": "RAMPA DA CARRAPETA",
+  "city": "CONCEIÇÃO DE MACABU",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -221527590,
+    "longitudeE7": -418473850
+  },
+  "terrain": {
+    "altitudeM": 480,
+    "verticalDropM": 460
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE",
+    "NW",
+    "S",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/conceicao-de-macabu-rampa-da-carrapeta-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/conceicao-de-macabu-rampa-da-carrapeta-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

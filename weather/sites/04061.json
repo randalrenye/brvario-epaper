@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4061,
+  "slug": "miracatu-pico-do-bodao-sp",
+  "name": "PICO DO BODÃO",
+  "city": "MIRACATU",
+  "state": "SP",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -242986100,
+    "longitudeE7": -474356798
+  },
+  "terrain": {
+    "altitudeM": 520,
+    "verticalDropM": 480
+  },
+  "windQuadrants": [
+    "N",
+    "NE",
+    "NW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/miracatu-pico-do-bodao-sp/",
+    "referenceUrl": "https://guia4ventos.com.br/miracatu-pico-do-bodao-sp/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

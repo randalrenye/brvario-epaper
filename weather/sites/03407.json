@@ -1,0 +1,30 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3407,
+  "slug": "conselheiro-pena-rampa-da-torre-da-vale-mg",
+  "name": "RAMPA DA TORRE DA VALE",
+  "city": "CONSELHEIRO PENA",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -191895500,
+    "longitudeE7": -413694500
+  },
+  "terrain": {
+    "altitudeM": 550,
+    "verticalDropM": 375
+  },
+  "windQuadrants": [
+    "E"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/conselheiro-pena-rampa-da-torre-da-vale-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/conselheiro-pena-rampa-da-torre-da-vale-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

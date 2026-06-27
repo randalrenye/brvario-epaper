@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2576,
+  "slug": "bento-goncalves-rampa-de-bento-goncalves-rs",
+  "name": "RAMPA DE BENTO GONÇALVES",
+  "city": "BENTO GONÇALVES",
+  "state": "RS",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -291600316,
+    "longitudeE7": -515424442
+  },
+  "terrain": {
+    "altitudeM": 530,
+    "verticalDropM": 450
+  },
+  "windQuadrants": [
+    "N",
+    "NE",
+    "NW",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/bento-goncalves-rampa-de-bento-goncalves-rs/",
+    "referenceUrl": "https://guia4ventos.com.br/bento-goncalves-rampa-de-bento-goncalves-rs/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

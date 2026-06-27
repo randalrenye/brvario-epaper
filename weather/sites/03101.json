@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3101,
+  "slug": "chapeco-rampa-de-indios-sc",
+  "name": "RAMPA DE ÍNDIOS",
+  "city": "CHAPECÓ",
+  "state": "SC",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -270771631,
+    "longitudeE7": -524200630
+  },
+  "terrain": {
+    "altitudeM": 848,
+    "verticalDropM": 230
+  },
+  "windQuadrants": [
+    "N",
+    "NW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/chapeco-rampa-de-indios-sc/",
+    "referenceUrl": "https://guia4ventos.com.br/chapeco-rampa-de-indios-sc/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

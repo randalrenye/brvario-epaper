@@ -1,0 +1,36 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3866,
+  "slug": "conselheiro-pena-rampa-da-bela-mg",
+  "name": "RAMPA DA BELA",
+  "city": "CONSELHEIRO PENA",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -193369146,
+    "longitudeE7": -415489880
+  },
+  "terrain": {
+    "altitudeM": 1130,
+    "verticalDropM": 760
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE",
+    "NW",
+    "S",
+    "SW",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/conselheiro-pena-rampa-da-bela-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/conselheiro-pena-rampa-da-bela-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

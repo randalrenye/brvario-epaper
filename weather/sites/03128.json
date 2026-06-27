@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3128,
+  "slug": "rampa-do-farol-de-santa-marta-sc",
+  "name": "RAMPA DO FAROL DE SANTA MARTA",
+  "city": "LAGUNA",
+  "state": "SC",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -285941700,
+    "longitudeE7": -488177160
+  },
+  "terrain": {
+    "altitudeM": 50,
+    "verticalDropM": 50
+  },
+  "windQuadrants": [
+    "E",
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/rampa-do-farol-de-santa-marta-sc/",
+    "referenceUrl": "https://guia4ventos.com.br/rampa-do-farol-de-santa-marta-sc/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2018,
+  "slug": "sao-gabriel-do-oeste-rampa-joao-guimaraes-ms",
+  "name": "RAMPA JOÃO GUIMARÃES",
+  "city": "SÃO GABRIEL DO OESTE",
+  "state": "MS",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -194316292,
+    "longitudeE7": -547922516
+  },
+  "terrain": {
+    "altitudeM": 634,
+    "verticalDropM": 155
+  },
+  "windQuadrants": [
+    "E",
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/sao-gabriel-do-oeste-rampa-joao-guimaraes-ms/",
+    "referenceUrl": "https://guia4ventos.com.br/sao-gabriel-do-oeste-rampa-joao-guimaraes-ms/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

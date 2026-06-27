@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3386,
+  "slug": "extrema-rampa-na-serra-do-lopo-mg",
+  "name": "RAMPA NA SERRA DO LOPO",
+  "city": "EXTREMA",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -228885500,
+    "longitudeE7": -463180090
+  },
+  "terrain": {
+    "altitudeM": 1556,
+    "verticalDropM": 580
+  },
+  "windQuadrants": [
+    "N",
+    "NW",
+    "S"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/extrema-rampa-na-serra-do-lopo-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/extrema-rampa-na-serra-do-lopo-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

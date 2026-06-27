@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 1921,
+  "slug": "porto-nacional-rampa-morro-sao-joao-to",
+  "name": "RAMPA MORRO SÃO JOÃO",
+  "city": "PORTO NACIONAL",
+  "state": "TO",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -106993111,
+    "longitudeE7": -483102358
+  },
+  "terrain": {
+    "altitudeM": 614,
+    "verticalDropM": 402
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/porto-nacional-rampa-morro-sao-joao-to/",
+    "referenceUrl": "https://guia4ventos.com.br/porto-nacional-rampa-morro-sao-joao-to/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

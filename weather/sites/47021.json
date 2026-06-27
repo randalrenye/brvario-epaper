@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 47021,
+  "slug": "jacobina-rampa-do-felipe-ba",
+  "name": "RAMPA DO FELIPE",
+  "city": "JACOBINA",
+  "state": "BA",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -112718670,
+    "longitudeE7": -404318170
+  },
+  "terrain": {
+    "altitudeM": 670,
+    "verticalDropM": 180
+  },
+  "windQuadrants": [
+    "E",
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/jacobina-rampa-do-felipe-ba/",
+    "referenceUrl": "https://guia4ventos.com.br/jacobina-rampa-do-felipe-ba/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

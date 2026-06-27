@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3606,
+  "slug": "rampa-de-senador-jose-bento-mg",
+  "name": "RAMPA DE SENADOR JOSÉ BENTO",
+  "city": "SENADOR JOSÉ BENTO",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -222039700,
+    "longitudeE7": -461593420
+  },
+  "terrain": {
+    "altitudeM": 1323,
+    "verticalDropM": 0
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/rampa-de-senador-jose-bento-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/rampa-de-senador-jose-bento-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

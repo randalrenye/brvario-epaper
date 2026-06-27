@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4459,
+  "slug": "nova-friburgo-rampa-do-mirante-rj",
+  "name": "RAMPA DO MIRANTE",
+  "city": "NOVA FRIBURGO",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -221531417,
+    "longitudeE7": -425469195
+  },
+  "terrain": {
+    "altitudeM": 1070,
+    "verticalDropM": 230
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE",
+    "NW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/nova-friburgo-rampa-do-mirante-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/nova-friburgo-rampa-do-mirante-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

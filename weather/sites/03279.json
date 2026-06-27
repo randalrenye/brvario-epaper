@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3279,
+  "slug": "raul-soares-rampa-da-pedra-do-boacha-mg",
+  "name": "RAMPA DA PEDRA DO BOACHÁ",
+  "city": "RAUL SOARES",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -200647490,
+    "longitudeE7": -423880330
+  },
+  "terrain": {
+    "altitudeM": 790,
+    "verticalDropM": 680
+  },
+  "windQuadrants": [
+    "N",
+    "NW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/raul-soares-rampa-da-pedra-do-boacha-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/raul-soares-rampa-da-pedra-do-boacha-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

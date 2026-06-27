@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3313,
+  "slug": "itinga-rampa-do-cabure-mg",
+  "name": "RAMPA DO CABURÉ",
+  "city": "ITINGA",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -166015460,
+    "longitudeE7": -418062440
+  },
+  "terrain": {
+    "altitudeM": 555,
+    "verticalDropM": 260
+  },
+  "windQuadrants": [
+    "E",
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/itinga-rampa-do-cabure-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/itinga-rampa-do-cabure-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

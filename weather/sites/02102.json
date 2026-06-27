@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2102,
+  "slug": "rio-bananal-rampa-do-cleiton-es",
+  "name": "RAMPA DO CLEITON",
+  "city": "RIO BANANAL",
+  "state": "ES",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -192818640,
+    "longitudeE7": -404105240
+  },
+  "terrain": {
+    "altitudeM": 522,
+    "verticalDropM": 414
+  },
+  "windQuadrants": [
+    "E",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/rio-bananal-rampa-do-cleiton-es/",
+    "referenceUrl": "https://guia4ventos.com.br/rio-bananal-rampa-do-cleiton-es/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

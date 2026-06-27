@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4203,
+  "slug": "porciuncula-rampa-do-morro-da-antena-rj",
+  "name": "RAMPA DO MORRO DA ANTENA",
+  "city": "PORCIÚNCULA",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -210142090,
+    "longitudeE7": -420770040
+  },
+  "terrain": {
+    "altitudeM": 760,
+    "verticalDropM": 500
+  },
+  "windQuadrants": [
+    "N",
+    "NE",
+    "NW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/porciuncula-rampa-do-morro-da-antena-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/porciuncula-rampa-do-morro-da-antena-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

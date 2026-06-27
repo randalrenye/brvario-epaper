@@ -1,0 +1,35 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2109,
+  "slug": "barra-de-sao-francisco-vargem-alegre-es",
+  "name": "VARGEM ALEGRE",
+  "city": "BARRA DE SÃO FRANCISCO",
+  "state": "ES",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -188492450,
+    "longitudeE7": -408501050
+  },
+  "terrain": {
+    "altitudeM": 590,
+    "verticalDropM": 250
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE",
+    "NW",
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/barra-de-sao-francisco-vargem-alegre-es/",
+    "referenceUrl": "https://guia4ventos.com.br/barra-de-sao-francisco-vargem-alegre-es/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

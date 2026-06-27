@@ -1,0 +1,35 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2490,
+  "slug": "rolante-rampa-de-rolante-rs",
+  "name": "PARQUE DA ASA DELTA",
+  "city": "ROLANTE",
+  "state": "RS",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -295880690,
+    "longitudeE7": -505303110
+  },
+  "terrain": {
+    "altitudeM": 841,
+    "verticalDropM": 750
+  },
+  "windQuadrants": [
+    "E",
+    "NW",
+    "S",
+    "SE",
+    "SW",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/rolante-rampa-de-rolante-rs/",
+    "referenceUrl": "https://guia4ventos.com.br/rolante-rampa-de-rolante-rs/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

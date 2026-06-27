@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2971,
+  "slug": "gaspar-rampa-do-pelado-morro-da-cruz-sc",
+  "name": "RAMPA DO PELADO - MORRO DA CRUZ",
+  "city": "GASPAR",
+  "state": "SC",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -269586973,
+    "longitudeE7": -489117014
+  },
+  "terrain": {
+    "altitudeM": 270,
+    "verticalDropM": 230
+  },
+  "windQuadrants": [
+    "N",
+    "NW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/gaspar-rampa-do-pelado-morro-da-cruz-sc/",
+    "referenceUrl": "https://guia4ventos.com.br/gaspar-rampa-do-pelado-morro-da-cruz-sc/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

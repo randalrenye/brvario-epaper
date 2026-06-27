@@ -1,0 +1,36 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 18883,
+  "slug": "jose-boiteux-rampa-tatu-sc",
+  "name": "RAMPA TATU",
+  "city": "JOSÉ BOITEUX",
+  "state": "SC",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -269793730,
+    "longitudeE7": -496196400
+  },
+  "terrain": {
+    "altitudeM": 460,
+    "verticalDropM": 200
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE",
+    "NW",
+    "S",
+    "SE",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/jose-boiteux-rampa-tatu-sc/",
+    "referenceUrl": "https://guia4ventos.com.br/jose-boiteux-rampa-tatu-sc/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

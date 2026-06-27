@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3864,
+  "slug": "carmo-da-mata-rampa-dos-periquitos-mg",
+  "name": "RAMPA DOS PERIQUITOS",
+  "city": "CARMO DA MATA",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -205914100,
+    "longitudeE7": -449074500
+  },
+  "terrain": {
+    "altitudeM": 1150,
+    "verticalDropM": 280
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/carmo-da-mata-rampa-dos-periquitos-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/carmo-da-mata-rampa-dos-periquitos-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

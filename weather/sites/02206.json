@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2206,
+  "slug": "santa-teresa-rampa-do-caravaggio-es",
+  "name": "RAMPA DO CARAVAGGIO",
+  "city": "SANTA TERESA",
+  "state": "ES",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -199087250,
+    "longitudeE7": -406542370
+  },
+  "terrain": {
+    "altitudeM": 915,
+    "verticalDropM": 280
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE",
+    "NW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/santa-teresa-rampa-do-caravaggio-es/",
+    "referenceUrl": "https://guia4ventos.com.br/santa-teresa-rampa-do-caravaggio-es/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

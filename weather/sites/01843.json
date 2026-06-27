@@ -1,0 +1,30 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 1843,
+  "slug": "itacare-rampa-do-pompilho-ba",
+  "name": "RAMPA DO POMPILHO",
+  "city": "ITACARÉ",
+  "state": "BA",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -144581190,
+    "longitudeE7": -390279570
+  },
+  "terrain": {
+    "altitudeM": 80,
+    "verticalDropM": 80
+  },
+  "windQuadrants": [
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/itacare-rampa-do-pompilho-ba/",
+    "referenceUrl": "https://guia4ventos.com.br/itacare-rampa-do-pompilho-ba/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

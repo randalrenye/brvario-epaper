@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3097,
+  "slug": "barra-bonita-torre-dos-ventos-sc",
+  "name": "TORRE DOS VENTOS",
+  "city": "BARRA BONITA",
+  "state": "SC",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -266397920,
+    "longitudeE7": -534275920
+  },
+  "terrain": {
+    "altitudeM": 600,
+    "verticalDropM": 250
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/barra-bonita-torre-dos-ventos-sc/",
+    "referenceUrl": "https://guia4ventos.com.br/barra-bonita-torre-dos-ventos-sc/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 15324,
+  "slug": "fundao-rampa-do-goiapaba-acu-es",
+  "name": "RAMPA DO GOIAPABA-AÇU",
+  "city": "FUNDÃO",
+  "state": "ES",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -199251482,
+    "longitudeE7": -404565934
+  },
+  "terrain": {
+    "altitudeM": 840,
+    "verticalDropM": 707
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "S",
+    "SE",
+    "SW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/fundao-rampa-do-goiapaba-acu-es/",
+    "referenceUrl": "https://guia4ventos.com.br/fundao-rampa-do-goiapaba-acu-es/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

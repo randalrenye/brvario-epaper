@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3068,
+  "slug": "timbe-do-sul-rampa-da-serrinha-sc",
+  "name": "RAMPA DA SERRINHA",
+  "city": "TIMBÉ DO SUL",
+  "state": "SC",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -288010160,
+    "longitudeE7": -499522960
+  },
+  "terrain": {
+    "altitudeM": 620,
+    "verticalDropM": 579
+  },
+  "windQuadrants": [
+    "E",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/timbe-do-sul-rampa-da-serrinha-sc/",
+    "referenceUrl": "https://guia4ventos.com.br/timbe-do-sul-rampa-da-serrinha-sc/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

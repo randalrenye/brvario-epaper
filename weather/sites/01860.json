@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 1860,
+  "slug": "jequie-rampa-victor-stock-ba",
+  "name": "RAMPA VICTOR STOCK",
+  "city": "JEQUIÉ",
+  "state": "BA",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -139598330,
+    "longitudeE7": -401846390
+  },
+  "terrain": {
+    "altitudeM": 750,
+    "verticalDropM": 450
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/jequie-rampa-victor-stock-ba/",
+    "referenceUrl": "https://guia4ventos.com.br/jequie-rampa-victor-stock-ba/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

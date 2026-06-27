@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3026,
+  "slug": "rio-dos-cedros-rampa-do-morro-sao-bernardo-sc",
+  "name": "RAMPA DO MORRO SÃO BERNARDO",
+  "city": "RIO DOS CEDROS",
+  "state": "SC",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -267461040,
+    "longitudeE7": -493048070
+  },
+  "terrain": {
+    "altitudeM": 520,
+    "verticalDropM": 470
+  },
+  "windQuadrants": [
+    "N",
+    "NE",
+    "S",
+    "SW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/rio-dos-cedros-rampa-do-morro-sao-bernardo-sc/",
+    "referenceUrl": "https://guia4ventos.com.br/rio-dos-cedros-rampa-do-morro-sao-bernardo-sc/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

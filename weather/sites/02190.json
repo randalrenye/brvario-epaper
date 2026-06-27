@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2190,
+  "slug": "viana-rampa-do-urubu-es",
+  "name": "RAMPA DO URUBU",
+  "city": "VIANA",
+  "state": "ES",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -203655340,
+    "longitudeE7": -404578350
+  },
+  "terrain": {
+    "altitudeM": 300,
+    "verticalDropM": 295
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/viana-rampa-do-urubu-es/",
+    "referenceUrl": "https://guia4ventos.com.br/viana-rampa-do-urubu-es/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

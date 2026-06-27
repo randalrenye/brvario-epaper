@@ -1,0 +1,34 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3002,
+  "slug": "rampa-morro-boa-vista-morro-das-antenas-sc",
+  "name": "RAMPA MORRO BOA VISTA / MORRO DAS ANTEN",
+  "city": "JARAGUÁ DO SUL",
+  "state": "SC",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -265158000,
+    "longitudeE7": -490532360
+  },
+  "terrain": {
+    "altitudeM": 870,
+    "verticalDropM": 840
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE",
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/rampa-morro-boa-vista-morro-das-antenas-sc/",
+    "referenceUrl": "https://guia4ventos.com.br/rampa-morro-boa-vista-morro-das-antenas-sc/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

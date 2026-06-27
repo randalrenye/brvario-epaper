@@ -1,0 +1,35 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4315,
+  "slug": "mangaratiba-rampa-da-serra-do-piloto-rj",
+  "name": "RAMPA DA SERRA DO PILOTO",
+  "city": "MANGARATIBA",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -229304130,
+    "longitudeE7": -440613560
+  },
+  "terrain": {
+    "altitudeM": 950,
+    "verticalDropM": 948
+  },
+  "windQuadrants": [
+    "N",
+    "NE",
+    "NW",
+    "S",
+    "SE",
+    "SW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/mangaratiba-rampa-da-serra-do-piloto-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/mangaratiba-rampa-da-serra-do-piloto-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

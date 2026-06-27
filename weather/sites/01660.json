@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 1660,
+  "slug": "moita-bonita-rampa-da-serra-do-machado-se",
+  "name": "RAMPA DA SERRA DO MACHADO",
+  "city": "MOITA BONITA",
+  "state": "SE",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -105699520,
+    "longitudeE7": -373796780
+  },
+  "terrain": {
+    "altitudeM": 400,
+    "verticalDropM": 220
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/moita-bonita-rampa-da-serra-do-machado-se/",
+    "referenceUrl": "https://guia4ventos.com.br/moita-bonita-rampa-da-serra-do-machado-se/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

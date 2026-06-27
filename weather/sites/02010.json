@@ -1,0 +1,34 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2010,
+  "slug": "sidrolandia-rampa-do-italiano-ms",
+  "name": "RAMPA DO ITALIANO",
+  "city": "SIDROLÂNDIA",
+  "state": "MS",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -208653885,
+    "longitudeE7": -549580765
+  },
+  "terrain": {
+    "altitudeM": 580,
+    "verticalDropM": 200
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "NW",
+    "SE",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/sidrolandia-rampa-do-italiano-ms/",
+    "referenceUrl": "https://guia4ventos.com.br/sidrolandia-rampa-do-italiano-ms/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

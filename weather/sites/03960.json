@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3960,
+  "slug": "sao-pedro-rampa-de-sao-pedro-sp",
+  "name": "RAMPA DE SÃO PEDRO",
+  "city": "SÃO PEDRO",
+  "state": "SP",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -225093260,
+    "longitudeE7": -478981590
+  },
+  "terrain": {
+    "altitudeM": 820,
+    "verticalDropM": 330
+  },
+  "windQuadrants": [
+    "E",
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/sao-pedro-rampa-de-sao-pedro-sp/",
+    "referenceUrl": "https://guia4ventos.com.br/sao-pedro-rampa-de-sao-pedro-sp/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

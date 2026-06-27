@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3666,
+  "slug": "santa-rita-de-ibitipoca-agua-santa-moreiras-mg",
+  "name": "ÁGUA SANTA - MOREIRAS",
+  "city": "SANTA RITA DE IBITIPOCA",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -216204390,
+    "longitudeE7": -439232020
+  },
+  "terrain": {
+    "altitudeM": 1220,
+    "verticalDropM": 400
+  },
+  "windQuadrants": [
+    "E",
+    "S",
+    "SE",
+    "SW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/santa-rita-de-ibitipoca-agua-santa-moreiras-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/santa-rita-de-ibitipoca-agua-santa-moreiras-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

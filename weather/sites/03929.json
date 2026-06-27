@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3929,
+  "slug": "congonhal-rampa-de-sao-domingos-mg",
+  "name": "RAMPA DE SÃO DOMINGOS",
+  "city": "CONGONHAL",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -221224740,
+    "longitudeE7": -460327680
+  },
+  "terrain": {
+    "altitudeM": 1400,
+    "verticalDropM": 530
+  },
+  "windQuadrants": [
+    "S",
+    "SE",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/congonhal-rampa-de-sao-domingos-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/congonhal-rampa-de-sao-domingos-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3865,
+  "slug": "pequi-serra-do-peixe-rampa-do-ponto-chic-mg",
+  "name": "SERRA DO PEIXE - RAMPA DO PONTO CHIQUE",
+  "city": "PEQUI",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -196503528,
+    "longitudeE7": -446823635
+  },
+  "terrain": {
+    "altitudeM": 1152,
+    "verticalDropM": 250
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/pequi-serra-do-peixe-rampa-do-ponto-chic-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/pequi-serra-do-peixe-rampa-do-ponto-chic-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

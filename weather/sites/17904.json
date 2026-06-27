@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 17904,
+  "slug": "agua-branca-rampa-da-serra-do-paraiso-al",
+  "name": "RAMPA DA SERRA DO PARAÍSO",
+  "city": "ÁGUA BRANCA",
+  "state": "AL",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -92981840,
+    "longitudeE7": -379154720
+  },
+  "terrain": {
+    "altitudeM": 495,
+    "verticalDropM": 193
+  },
+  "windQuadrants": [
+    "E",
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/agua-branca-rampa-da-serra-do-paraiso-al/",
+    "referenceUrl": "https://guia4ventos.com.br/agua-branca-rampa-da-serra-do-paraiso-al/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

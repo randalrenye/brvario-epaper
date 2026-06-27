@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3415,
+  "slug": "berizal-rampa-na-serra-do-anastacio-mg",
+  "name": "RAMPA NA SERRA DO ANASTÁCIO",
+  "city": "BERIZAL",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -157590940,
+    "longitudeE7": -417823760
+  },
+  "terrain": {
+    "altitudeM": 1450,
+    "verticalDropM": 570
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE",
+    "NW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/berizal-rampa-na-serra-do-anastacio-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/berizal-rampa-na-serra-do-anastacio-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

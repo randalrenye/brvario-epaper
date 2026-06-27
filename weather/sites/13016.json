@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 13016,
+  "slug": "taquaritinga-do-norte-rampa-do-pepe-pe",
+  "name": "RAMPA DO PEPÊ",
+  "city": "TAQUARITINGA DO NORTE",
+  "state": "PE",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -79078800,
+    "longitudeE7": -360192120
+  },
+  "terrain": {
+    "altitudeM": 785,
+    "verticalDropM": 385
+  },
+  "windQuadrants": [
+    "E",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/taquaritinga-do-norte-rampa-do-pepe-pe/",
+    "referenceUrl": "https://guia4ventos.com.br/taquaritinga-do-norte-rampa-do-pepe-pe/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 43050,
+  "slug": "alto-jequitiba-rampa-dos-tavares-mg",
+  "name": "RAMPA DOS TAVARES",
+  "city": "ALTO JEQUITIBÁ",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -204437630,
+    "longitudeE7": -419214750
+  },
+  "terrain": {
+    "altitudeM": 1230,
+    "verticalDropM": 400
+  },
+  "windQuadrants": [
+    "N",
+    "NE",
+    "NW",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/alto-jequitiba-rampa-dos-tavares-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/alto-jequitiba-rampa-dos-tavares-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

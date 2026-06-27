@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4320,
+  "slug": "macae-rampa-de-castelinho-bicuda-pequena-rj",
+  "name": "RAMPA DE CASTELINHO - BICUDA PEQUENA",
+  "city": "MACAÉ",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -223578550,
+    "longitudeE7": -421444130
+  },
+  "terrain": {
+    "altitudeM": 400,
+    "verticalDropM": 320
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/macae-rampa-de-castelinho-bicuda-pequena-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/macae-rampa-de-castelinho-bicuda-pequena-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

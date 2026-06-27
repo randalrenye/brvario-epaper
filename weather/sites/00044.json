@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 44,
+  "slug": "marica-rampa-de-marica-rj",
+  "name": "RAMPA DE MARICÁ",
+  "city": "MARICÁ",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -228888064,
+    "longitudeE7": -428633144
+  },
+  "terrain": {
+    "altitudeM": 350,
+    "verticalDropM": 315
+  },
+  "windQuadrants": [
+    "E",
+    "S",
+    "SE",
+    "SW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/marica-rampa-de-marica-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/marica-rampa-de-marica-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

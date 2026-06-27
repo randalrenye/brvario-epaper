@@ -1,0 +1,35 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3759,
+  "slug": "lambari-morro-do-selado-mg",
+  "name": "MORRO DO SELADO",
+  "city": "LAMBARI",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -219882040,
+    "longitudeE7": -453175670
+  },
+  "terrain": {
+    "altitudeM": 1180,
+    "verticalDropM": 180
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE",
+    "NW",
+    "S",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/lambari-morro-do-selado-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/lambari-morro-do-selado-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

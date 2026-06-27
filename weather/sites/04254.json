@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4254,
+  "slug": "paraty-rampa-da-pedra-da-macela-rj",
+  "name": "RAMPA DA PEDRA DA MACELA",
+  "city": "PARATY",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -231401390,
+    "longitudeE7": -448135750
+  },
+  "terrain": {
+    "altitudeM": 1830,
+    "verticalDropM": 1830
+  },
+  "windQuadrants": [
+    "E",
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/paraty-rampa-da-pedra-da-macela-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/paraty-rampa-da-pedra-da-macela-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4141,
+  "slug": "santo-antonio-do-pinhal-rampa-do-pico-agudo-sp",
+  "name": "RAMPA DO PICO AGUDO",
+  "city": "SANTO ANTÔNIO DO PINHAL",
+  "state": "SP",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -228636800,
+    "longitudeE7": -456508400
+  },
+  "terrain": {
+    "altitudeM": 1634,
+    "verticalDropM": 982
+  },
+  "windQuadrants": [
+    "N",
+    "NW",
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/santo-antonio-do-pinhal-rampa-do-pico-agudo-sp/",
+    "referenceUrl": "https://guia4ventos.com.br/santo-antonio-do-pinhal-rampa-do-pico-agudo-sp/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

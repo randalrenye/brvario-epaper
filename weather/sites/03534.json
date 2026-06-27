@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3534,
+  "slug": "mariana-rampa-no-pico-da-cartucha-mg",
+  "name": "RAMPA NO PICO DA CARTUCHA",
+  "city": "MARIANA",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -204002560,
+    "longitudeE7": -433901220
+  },
+  "terrain": {
+    "altitudeM": 1330,
+    "verticalDropM": 605
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/mariana-rampa-no-pico-da-cartucha-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/mariana-rampa-no-pico-da-cartucha-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

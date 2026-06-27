@@ -1,0 +1,30 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2283,
+  "slug": "vicosa-do-ceara-rampa-de-itaruma-ce",
+  "name": "RAMPA DE ITARUMÃ",
+  "city": "VIÇOSA DO CEARÁ",
+  "state": "CE",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -35939040,
+    "longitudeE7": -410575600
+  },
+  "terrain": {
+    "altitudeM": 695,
+    "verticalDropM": 540
+  },
+  "windQuadrants": [
+    "E"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/vicosa-do-ceara-rampa-de-itaruma-ce/",
+    "referenceUrl": "https://guia4ventos.com.br/vicosa-do-ceara-rampa-de-itaruma-ce/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

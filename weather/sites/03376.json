@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3376,
+  "slug": "rampa-da-pedra-da-baleia-mg",
+  "name": "RAMPA DA PEDRA DA BALEIA",
+  "city": "SÃO DOMINGOS DO PRATA",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -198235680,
+    "longitudeE7": -429371560
+  },
+  "terrain": {
+    "altitudeM": 577,
+    "verticalDropM": 381
+  },
+  "windQuadrants": [
+    "NW",
+    "S",
+    "SW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/rampa-da-pedra-da-baleia-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/rampa-da-pedra-da-baleia-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

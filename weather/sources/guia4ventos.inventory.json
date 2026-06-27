@@ -1,0 +1,2554 @@
+{
+  "schema": "brvario.source-inventory",
+  "schemaVersion": 1,
+  "source": "Guia 4 Ventos",
+  "sourceUrl": "https://guia4ventos.com.br/rampas-de-voo-livre/",
+  "retrievedAt": "2026-06-20T00:01:25+00:00",
+  "recordCount": 363,
+  "redistributionAuthorized": false,
+  "factualImportOnly": true,
+  "editorialContentIncluded": false,
+  "records": [
+    {
+      "sourceId": 44,
+      "title": "Maricá – Rampa de Maricá – RJ",
+      "slug": "marica-rampa-de-marica-rj",
+      "url": "https://guia4ventos.com.br/marica-rampa-de-marica-rj/",
+      "modified": "2025-03-18T17:44:39"
+    },
+    {
+      "sourceId": 205,
+      "title": "Niterói – Rampa do Parque da Cidade – RJ",
+      "slug": "niteroi-rampa-do-parque-da-cidade-rj",
+      "url": "https://guia4ventos.com.br/niteroi-rampa-do-parque-da-cidade-rj/",
+      "modified": "2024-12-29T10:14:19"
+    },
+    {
+      "sourceId": 213,
+      "title": "Rio de Janeiro – Rampa de Grumari – RJ",
+      "slug": "rio-de-janeiro-rampa-de-grumari-rj",
+      "url": "https://guia4ventos.com.br/rio-de-janeiro-rampa-de-grumari-rj/",
+      "modified": "2024-12-29T10:14:14"
+    },
+    {
+      "sourceId": 219,
+      "title": "Saquarema – Rampas de Sampaio Correia – RJ",
+      "slug": "saquarema-rampas-de-sampaio-correia-rj",
+      "url": "https://guia4ventos.com.br/saquarema-rampas-de-sampaio-correia-rj/",
+      "modified": "2024-12-29T10:14:08"
+    },
+    {
+      "sourceId": 369,
+      "title": "São Vicente / Santos – Rampa do Morro do Votoruá / Itararé – SP",
+      "slug": "sao-vicente-santos-rampa-do-morro-do-votorua-itarare-sp",
+      "url": "https://guia4ventos.com.br/sao-vicente-santos-rampa-do-morro-do-votorua-itarare-sp/",
+      "modified": "2024-12-29T10:40:09"
+    },
+    {
+      "sourceId": 372,
+      "title": "Atibaia – Rampa da Pedra Grande – SP",
+      "slug": "atibaia-rampa-da-pedra-grande-sp",
+      "url": "https://guia4ventos.com.br/atibaia-rampa-da-pedra-grande-sp/",
+      "modified": "2025-02-08T12:57:13"
+    },
+    {
+      "sourceId": 417,
+      "title": "São Bento do Sapucaí – Rampa da Pedra do Baú – SP",
+      "slug": "sao-bento-do-sapucai-rampa-da-pedra-do-bau-sp",
+      "url": "https://guia4ventos.com.br/sao-bento-do-sapucai-rampa-da-pedra-do-bau-sp/",
+      "modified": "2025-02-23T17:39:48"
+    },
+    {
+      "sourceId": 1480,
+      "title": "Barra do Garças – Rampa Norte – MT",
+      "slug": "rampa-barra-do-garcas-mt",
+      "url": "https://guia4ventos.com.br/rampa-barra-do-garcas-mt/",
+      "modified": "2025-08-10T12:35:05"
+    },
+    {
+      "sourceId": 1495,
+      "title": "Nobres – Rampa de Nobres – MT",
+      "slug": "nobres-rampa-de-nobres-mt",
+      "url": "https://guia4ventos.com.br/nobres-rampa-de-nobres-mt/",
+      "modified": "2024-12-15T17:47:06"
+    },
+    {
+      "sourceId": 1503,
+      "title": "Chapada dos Guimarães – Rampa do Mirante Geodésico – MT",
+      "slug": "chapada-dos-guimaraes-rampa-do-mirante-geodesico-mt",
+      "url": "https://guia4ventos.com.br/chapada-dos-guimaraes-rampa-do-mirante-geodesico-mt/",
+      "modified": "2024-12-15T17:42:59"
+    },
+    {
+      "sourceId": 1523,
+      "title": "Cuiabá – Rampa da Represa de Manso – Morro do Chapéu – MT",
+      "slug": "cuiaba-rampa-da-represa-de-manso-morro-do-chapeu-mt",
+      "url": "https://guia4ventos.com.br/cuiaba-rampa-da-represa-de-manso-morro-do-chapeu-mt/",
+      "modified": "2024-12-15T17:41:19"
+    },
+    {
+      "sourceId": 1530,
+      "title": "Barra do Garças – Rampa Sul – MT",
+      "slug": "barra-do-garcas-rampa-de-barra-do-garcas-rampa-sul-mt",
+      "url": "https://guia4ventos.com.br/barra-do-garcas-rampa-de-barra-do-garcas-rampa-sul-mt/",
+      "modified": "2025-08-10T12:46:55"
+    },
+    {
+      "sourceId": 1537,
+      "title": "Conquista D’Oeste – Rampa Paraíso – MT",
+      "slug": "conquista-doeste-rampa-paraiso-mt",
+      "url": "https://guia4ventos.com.br/conquista-doeste-rampa-paraiso-mt/",
+      "modified": "2024-12-15T17:37:59"
+    },
+    {
+      "sourceId": 1542,
+      "title": "Cáceres – Rampa do Pico Dourado – MT",
+      "slug": "caceres-rampa-do-pico-dourado-mt",
+      "url": "https://guia4ventos.com.br/caceres-rampa-do-pico-dourado-mt/",
+      "modified": "2024-12-15T17:35:11"
+    },
+    {
+      "sourceId": 1576,
+      "title": "Boa Vista – Rampa da Serra da Moça – RR",
+      "slug": "boa-vista-rampa-da-serra-da-moca-rr",
+      "url": "https://guia4ventos.com.br/boa-vista-rampa-da-serra-da-moca-rr/",
+      "modified": "2024-12-21T12:34:51"
+    },
+    {
+      "sourceId": 1589,
+      "title": "Ouro Preto do Oeste – Rampa no Morro Chico Mendes – RO",
+      "slug": "ouro-preto-do-oeste-rampa-no-morro-chico-mendes-ro",
+      "url": "https://guia4ventos.com.br/ouro-preto-do-oeste-rampa-no-morro-chico-mendes-ro/",
+      "modified": "2024-12-25T11:15:27"
+    },
+    {
+      "sourceId": 1594,
+      "title": "Presidente Médici – Rampa de Presidente Médici – RO",
+      "slug": "presidente-medici-rampa-de-presidente-medici-ro",
+      "url": "https://guia4ventos.com.br/presidente-medici-rampa-de-presidente-medici-ro/",
+      "modified": "2024-12-21T12:30:51"
+    },
+    {
+      "sourceId": 1603,
+      "title": "Pindoba – Rampa de Pindoba – AL",
+      "slug": "pindoba-rampa-de-pindoba-al",
+      "url": "https://guia4ventos.com.br/pindoba-rampa-de-pindoba-al/",
+      "modified": "2024-12-04T15:06:50"
+    },
+    {
+      "sourceId": 1610,
+      "title": "Tanque D’Arca – Rampa de Tanque D’Arca – AL",
+      "slug": "tanque-darca-rampa-de-tanque-darca-al",
+      "url": "https://guia4ventos.com.br/tanque-darca-rampa-de-tanque-darca-al/",
+      "modified": "2024-12-04T15:07:09"
+    },
+    {
+      "sourceId": 1616,
+      "title": "São José de Ribamar – Rampa de Panaquatira – Paço do Lumiar – MA",
+      "slug": "sao-jose-de-ribamar-rampa-de-panaquatira-paco-do-lumiar-ma",
+      "url": "https://guia4ventos.com.br/sao-jose-de-ribamar-rampa-de-panaquatira-paco-do-lumiar-ma/",
+      "modified": "2024-12-15T17:33:39"
+    },
+    {
+      "sourceId": 1621,
+      "title": "São Luis – Rampa Marafolia – Praia do Calhau – MA",
+      "slug": "sao-luis-rampa-marafolia-praia-do-calhau-ma",
+      "url": "https://guia4ventos.com.br/sao-luis-rampa-marafolia-praia-do-calhau-ma/",
+      "modified": "2024-12-15T17:31:10"
+    },
+    {
+      "sourceId": 1626,
+      "title": "Açailândia – Escolinha de Voo Livre em Açailândia – MA",
+      "slug": "acailandia-escolinha-de-voo-livre-em-acailandia-ma",
+      "url": "https://guia4ventos.com.br/acailandia-escolinha-de-voo-livre-em-acailandia-ma/",
+      "modified": "2024-12-15T17:24:17"
+    },
+    {
+      "sourceId": 1634,
+      "title": "Patu – Rampa de Patu – RN",
+      "slug": "patu-rampa-de-patu-rn",
+      "url": "https://guia4ventos.com.br/patu-rampa-de-patu-rn/",
+      "modified": "2025-01-13T19:22:20"
+    },
+    {
+      "sourceId": 1639,
+      "title": "Tibau do Sul – Praia da Pipa – RN",
+      "slug": "tibau-do-sul-praia-da-pipa-rn",
+      "url": "https://guia4ventos.com.br/tibau-do-sul-praia-da-pipa-rn/",
+      "modified": "2024-12-21T15:22:05"
+    },
+    {
+      "sourceId": 1645,
+      "title": "Areia Branca – Rampa da Praia da Ponta do Mel – RN",
+      "slug": "areia-branca-rampa-da-praia-da-ponta-do-mel-rn",
+      "url": "https://guia4ventos.com.br/areia-branca-rampa-da-praia-da-ponta-do-mel-rn/",
+      "modified": "2024-12-21T15:19:57"
+    },
+    {
+      "sourceId": 1654,
+      "title": "Aracaju – Rampa no Morro do Urubu – SE",
+      "slug": "aracaju-rampa-no-morro-do-urubu-se",
+      "url": "https://guia4ventos.com.br/aracaju-rampa-no-morro-do-urubu-se/",
+      "modified": "2024-12-21T12:43:47"
+    },
+    {
+      "sourceId": 1660,
+      "title": "Moita Bonita – Rampa da Serra do Machado – SE",
+      "slug": "moita-bonita-rampa-da-serra-do-machado-se",
+      "url": "https://guia4ventos.com.br/moita-bonita-rampa-da-serra-do-machado-se/",
+      "modified": "2024-12-21T12:41:47"
+    },
+    {
+      "sourceId": 1665,
+      "title": "Areia Branca – Rampa da Serra Comprida – SE",
+      "slug": "areia-branca-rampa-da-serra-comprida-se",
+      "url": "https://guia4ventos.com.br/areia-branca-rampa-da-serra-comprida-se/",
+      "modified": "2024-12-21T12:40:05"
+    },
+    {
+      "sourceId": 1677,
+      "title": "Vicência – Rampa de Vicência – PE",
+      "slug": "vicencia-rampa-de-vicencia-pe",
+      "url": "https://guia4ventos.com.br/vicencia-rampa-de-vicencia-pe/",
+      "modified": "2024-12-21T15:13:19"
+    },
+    {
+      "sourceId": 1689,
+      "title": "Riacho das Almas – Rampa de Riacho das Almas – PE",
+      "slug": "riacho-das-almas-rampa-de-riacho-das-almas-pe",
+      "url": "https://guia4ventos.com.br/riacho-das-almas-rampa-de-riacho-das-almas-pe/",
+      "modified": "2024-12-21T15:11:09"
+    },
+    {
+      "sourceId": 1698,
+      "title": "Araruna – Tacima – Rampa de Tacima – PB",
+      "slug": "araruna-tacima-rampa-de-tacima-pb",
+      "url": "https://guia4ventos.com.br/araruna-tacima-rampa-de-tacima-pb/",
+      "modified": "2025-01-13T19:51:28"
+    },
+    {
+      "sourceId": 1703,
+      "title": "João Pessoa – Rampa da Praia do Sol – PB",
+      "slug": "joao-pessoa-rampa-da-praia-do-sol-pb",
+      "url": "https://guia4ventos.com.br/joao-pessoa-rampa-da-praia-do-sol-pb/",
+      "modified": "2024-12-21T12:12:27"
+    },
+    {
+      "sourceId": 1714,
+      "title": "Maturéia – Rampa do Pico do Jabre – PB",
+      "slug": "matureia-rampa-do-pico-do-jabre-pb",
+      "url": "https://guia4ventos.com.br/matureia-rampa-do-pico-do-jabre-pb/",
+      "modified": "2024-12-21T12:10:15"
+    },
+    {
+      "sourceId": 1723,
+      "title": "Baia da Traição – Rampa da Praia das Cardosas – PB",
+      "slug": "baia-da-traicao-rampa-da-praia-das-cardosas-pb",
+      "url": "https://guia4ventos.com.br/baia-da-traicao-rampa-da-praia-das-cardosas-pb/",
+      "modified": "2024-12-21T12:08:24"
+    },
+    {
+      "sourceId": 1732,
+      "title": "Guarabira – Rampa do Memorial Frei Damião – PB",
+      "slug": "guarabira-rampa-do-memorial-frei-damiao-pb",
+      "url": "https://guia4ventos.com.br/guarabira-rampa-do-memorial-frei-damiao-pb/",
+      "modified": "2024-12-21T12:05:53"
+    },
+    {
+      "sourceId": 1743,
+      "title": "Alagoa Grande – Rampa do Galeguinho – PB",
+      "slug": "alagoa-grande-rampa-do-galeguinho-pb",
+      "url": "https://guia4ventos.com.br/alagoa-grande-rampa-do-galeguinho-pb/",
+      "modified": "2024-12-21T12:03:58"
+    },
+    {
+      "sourceId": 1769,
+      "title": "Conceição da Feira – Serra da Putuma – BA",
+      "slug": "conceicao-da-feira-serra-da-putuma-ba",
+      "url": "https://guia4ventos.com.br/conceicao-da-feira-serra-da-putuma-ba/",
+      "modified": "2024-12-04T15:26:55"
+    },
+    {
+      "sourceId": 1777,
+      "title": "Lençóis – Rampa de Pai Inácio – BA",
+      "slug": "lencois-rampa-de-pai-inacio-ba",
+      "url": "https://guia4ventos.com.br/lencois-rampa-de-pai-inacio-ba/",
+      "modified": "2024-12-27T11:41:40"
+    },
+    {
+      "sourceId": 1783,
+      "title": "Jacobina – Rampa Gezer Cerqueira – BA",
+      "slug": "jacobina-rampa-gezer-cerqueira-ba",
+      "url": "https://guia4ventos.com.br/jacobina-rampa-gezer-cerqueira-ba/",
+      "modified": "2024-12-27T11:41:24"
+    },
+    {
+      "sourceId": 1796,
+      "title": "Arraial D’Ajuda – Rampa de Taípe / Pitinga – BA",
+      "slug": "arraial-dajuda-rampa-de-taipe-pitinga-ba",
+      "url": "https://guia4ventos.com.br/arraial-dajuda-rampa-de-taipe-pitinga-ba/",
+      "modified": "2024-12-04T15:15:32"
+    },
+    {
+      "sourceId": 1805,
+      "title": "Prado – Rampa da Praia da Paixão – BA",
+      "slug": "prado-rampa-da-praia-da-paixao-ba",
+      "url": "https://guia4ventos.com.br/prado-rampa-da-praia-da-paixao-ba/",
+      "modified": "2024-12-15T09:37:08"
+    },
+    {
+      "sourceId": 1811,
+      "title": "Santa Teresinha – Serra da Jibóia – Pedra Branca – BA",
+      "slug": "serra-da-jiboia-pedra-branca-ba",
+      "url": "https://guia4ventos.com.br/serra-da-jiboia-pedra-branca-ba/",
+      "modified": "2025-02-08T11:07:00"
+    },
+    {
+      "sourceId": 1825,
+      "title": "Ilhéus – Rampa de Serra Grande – BA",
+      "slug": "ilheus-rampa-de-serra-grande-ba",
+      "url": "https://guia4ventos.com.br/ilheus-rampa-de-serra-grande-ba/",
+      "modified": "2024-12-15T10:04:54"
+    },
+    {
+      "sourceId": 1834,
+      "title": "Santa Teresinha – Rampa do Boqueirão – BA",
+      "slug": "santa-teresinha-rampa-do-boqueirao-ba",
+      "url": "https://guia4ventos.com.br/santa-teresinha-rampa-do-boqueirao-ba/",
+      "modified": "2024-12-15T10:02:03"
+    },
+    {
+      "sourceId": 1843,
+      "title": "Itacaré – Rampa do Pompilho – BA",
+      "slug": "itacare-rampa-do-pompilho-ba",
+      "url": "https://guia4ventos.com.br/itacare-rampa-do-pompilho-ba/",
+      "modified": "2024-12-15T09:53:15"
+    },
+    {
+      "sourceId": 1850,
+      "title": "Mucuri – Falésias de Costa Dourada – BA",
+      "slug": "mucuri-falesias-de-costa-dourada-ba",
+      "url": "https://guia4ventos.com.br/mucuri-falesias-de-costa-dourada-ba/",
+      "modified": "2024-12-15T09:48:43"
+    },
+    {
+      "sourceId": 1860,
+      "title": "Jequié – Rampa Victor Stock – BA",
+      "slug": "jequie-rampa-victor-stock-ba",
+      "url": "https://guia4ventos.com.br/jequie-rampa-victor-stock-ba/",
+      "modified": "2024-12-15T09:44:23"
+    },
+    {
+      "sourceId": 1872,
+      "title": "Valença – Rampa da Serra do Abiá – BA",
+      "slug": "valenca-rampa-da-serra-do-abia-ba",
+      "url": "https://guia4ventos.com.br/valenca-rampa-da-serra-do-abia-ba/",
+      "modified": "2024-12-04T15:33:35"
+    },
+    {
+      "sourceId": 1879,
+      "title": "Feira de Santana – Morro São José – BA",
+      "slug": "feira-de-santana-morro-sao-jose-ba",
+      "url": "https://guia4ventos.com.br/feira-de-santana-morro-sao-jose-ba/",
+      "modified": "2024-12-25T11:00:59"
+    },
+    {
+      "sourceId": 1891,
+      "title": "Candiba – Rampa do Mirante – BA",
+      "slug": "candiba-rampa-do-mirante-ba",
+      "url": "https://guia4ventos.com.br/candiba-rampa-do-mirante-ba/",
+      "modified": "2024-12-04T15:20:10"
+    },
+    {
+      "sourceId": 1898,
+      "title": "Palmas – Rampa de Palmas – TO",
+      "slug": "palmas-rampa-de-palmas-to",
+      "url": "https://guia4ventos.com.br/palmas-rampa-de-palmas-to/",
+      "modified": "2024-12-21T12:55:09"
+    },
+    {
+      "sourceId": 1904,
+      "title": "Axixá do Tocantins – Rampa de Axixá do Tocantins – TO",
+      "slug": "axixa-do-tocantins-rampa-de-axixa-do-tocantins-to",
+      "url": "https://guia4ventos.com.br/axixa-do-tocantins-rampa-de-axixa-do-tocantins-to/",
+      "modified": "2024-12-21T12:49:07"
+    },
+    {
+      "sourceId": 1910,
+      "title": "Babaçulândia – Rampa de Babaçulândia – TO",
+      "slug": "babaculandia-rampa-de-babaculandia-to",
+      "url": "https://guia4ventos.com.br/babaculandia-rampa-de-babaculandia-to/",
+      "modified": "2025-04-08T17:45:27"
+    },
+    {
+      "sourceId": 1921,
+      "title": "Porto Nacional – Rampa Morro São João – TO",
+      "slug": "porto-nacional-rampa-morro-sao-joao-to",
+      "url": "https://guia4ventos.com.br/porto-nacional-rampa-morro-sao-joao-to/",
+      "modified": "2025-04-08T16:56:15"
+    },
+    {
+      "sourceId": 1933,
+      "title": "Iporá – Rampa do Morro do Macaco – GO",
+      "slug": "ipora-rampa-do-morro-do-macaco-go",
+      "url": "https://guia4ventos.com.br/ipora-rampa-do-morro-do-macaco-go/",
+      "modified": "2024-12-15T17:18:54"
+    },
+    {
+      "sourceId": 1938,
+      "title": "Jaraguá – Rampa de Jaraguá – GO",
+      "slug": "jaragua-rampa-de-jaragua-go",
+      "url": "https://guia4ventos.com.br/jaragua-rampa-de-jaragua-go/",
+      "modified": "2024-12-15T17:15:22"
+    },
+    {
+      "sourceId": 1944,
+      "title": "Portelândia – Rampa de Miltolândia – GO",
+      "slug": "portelandia-rampa-de-miltolandia-go",
+      "url": "https://guia4ventos.com.br/portelandia-rampa-de-miltolandia-go/",
+      "modified": "2024-12-15T17:15:52"
+    },
+    {
+      "sourceId": 1950,
+      "title": "Formosa – Rampa do Vale do Paranã – GO",
+      "slug": "formosa-rampa-do-vale-do-parana-go",
+      "url": "https://guia4ventos.com.br/formosa-rampa-do-vale-do-parana-go/",
+      "modified": "2024-12-25T10:37:50"
+    },
+    {
+      "sourceId": 1960,
+      "title": "Jataí – Rampa de Córrego Dantas – GO",
+      "slug": "jatai-rampa-de-corrego-dantas-go",
+      "url": "https://guia4ventos.com.br/jatai-rampa-de-corrego-dantas-go/",
+      "modified": "2024-12-15T17:11:20"
+    },
+    {
+      "sourceId": 1969,
+      "title": "Formosa – Rampa do Sargento – Morro do Urubu – GO",
+      "slug": "formosa-rampa-do-sargento-morro-do-urubu-go",
+      "url": "https://guia4ventos.com.br/formosa-rampa-do-sargento-morro-do-urubu-go/",
+      "modified": "2024-12-15T17:06:59"
+    },
+    {
+      "sourceId": 1975,
+      "title": "Simolândia – Rampa Céu do Cerrado – GO",
+      "slug": "simolandia-rampa-ceu-do-cerrado-go",
+      "url": "https://guia4ventos.com.br/simolandia-rampa-ceu-do-cerrado-go/",
+      "modified": "2024-12-15T17:02:32"
+    },
+    {
+      "sourceId": 1994,
+      "title": "Corumbá – Rampa do Salsicha – MS",
+      "slug": "corumba-rampa-do-salsicha-ms",
+      "url": "https://guia4ventos.com.br/corumba-rampa-do-salsicha-ms/",
+      "modified": "2024-12-21T11:57:24"
+    },
+    {
+      "sourceId": 2004,
+      "title": "Corumbá – Rampa do Morro do Mutum – MS",
+      "slug": "corumba-rampa-do-morro-do-mutum-ms",
+      "url": "https://guia4ventos.com.br/corumba-rampa-do-morro-do-mutum-ms/",
+      "modified": "2024-12-21T11:54:04"
+    },
+    {
+      "sourceId": 2010,
+      "title": "Sidrolândia – Rampa do Italiano – MS",
+      "slug": "sidrolandia-rampa-do-italiano-ms",
+      "url": "https://guia4ventos.com.br/sidrolandia-rampa-do-italiano-ms/",
+      "modified": "2024-12-21T11:50:42"
+    },
+    {
+      "sourceId": 2018,
+      "title": "São Gabriel do Oeste – Rampa João Guimarães – MS",
+      "slug": "sao-gabriel-do-oeste-rampa-joao-guimaraes-ms",
+      "url": "https://guia4ventos.com.br/sao-gabriel-do-oeste-rampa-joao-guimaraes-ms/",
+      "modified": "2024-12-27T11:43:04"
+    },
+    {
+      "sourceId": 2024,
+      "title": "Rio Negro – Rampa de Rio Negro – MS",
+      "slug": "rio-negro-rampa-de-rio-negro-ms",
+      "url": "https://guia4ventos.com.br/rio-negro-rampa-de-rio-negro-ms/",
+      "modified": "2024-12-21T11:46:10"
+    },
+    {
+      "sourceId": 2030,
+      "title": "Sidrolândia – Rampa do Prefeito – MS",
+      "slug": "sidrolandia-rampa-do-prefeito-ms",
+      "url": "https://guia4ventos.com.br/sidrolandia-rampa-do-prefeito-ms/",
+      "modified": "2024-12-21T11:46:45"
+    },
+    {
+      "sourceId": 2036,
+      "title": "Corumbá – Rampa do Morro do Urucum – MS",
+      "slug": "corumba-rampa-do-morro-do-urucum-ms",
+      "url": "https://guia4ventos.com.br/corumba-rampa-do-morro-do-urucum-ms/",
+      "modified": "2024-12-27T11:42:50"
+    },
+    {
+      "sourceId": 2042,
+      "title": "Campo Grande – Rampa do Morro do Ernesto – MS",
+      "slug": "campo-grande-rampa-do-morro-do-ernesto-ms",
+      "url": "https://guia4ventos.com.br/campo-grande-rampa-do-morro-do-ernesto-ms/",
+      "modified": "2024-12-27T11:42:31"
+    },
+    {
+      "sourceId": 2076,
+      "title": "Castelo – Rampa de Córrego de Ubá – ES",
+      "slug": "castelo-rampa-de-corrego-de-uba-es",
+      "url": "https://guia4ventos.com.br/castelo-rampa-de-corrego-de-uba-es/",
+      "modified": "2024-12-15T12:36:05"
+    },
+    {
+      "sourceId": 2086,
+      "title": "Baixo Guandu – Rampa da Pedra da Galinha – ES",
+      "slug": "baixo-guandu-rampa-da-pedra-da-galinha-es",
+      "url": "https://guia4ventos.com.br/baixo-guandu-rampa-da-pedra-da-galinha-es/",
+      "modified": "2024-12-15T12:32:31"
+    },
+    {
+      "sourceId": 2102,
+      "title": "Rio Bananal – Rampa do Cleiton – ES",
+      "slug": "rio-bananal-rampa-do-cleiton-es",
+      "url": "https://guia4ventos.com.br/rio-bananal-rampa-do-cleiton-es/",
+      "modified": "2024-12-15T11:47:53"
+    },
+    {
+      "sourceId": 2109,
+      "title": "Barra de São Francisco – Vargem Alegre – ES",
+      "slug": "barra-de-sao-francisco-vargem-alegre-es",
+      "url": "https://guia4ventos.com.br/barra-de-sao-francisco-vargem-alegre-es/",
+      "modified": "2024-12-15T12:27:14"
+    },
+    {
+      "sourceId": 2119,
+      "title": "Alfredo Chaves – Rampa de Cachoeira Alta – ES",
+      "slug": "alfredo-chaves-rampa-de-cachoeira-alta-es",
+      "url": "https://guia4ventos.com.br/alfredo-chaves-rampa-de-cachoeira-alta-es/",
+      "modified": "2024-12-15T12:24:05"
+    },
+    {
+      "sourceId": 2126,
+      "title": "Baixo Guandú – Rampa do Monjolo – ES",
+      "slug": "baixo-guandu-rampa-do-monjolo-es",
+      "url": "https://guia4ventos.com.br/baixo-guandu-rampa-do-monjolo-es/",
+      "modified": "2024-12-15T12:20:47"
+    },
+    {
+      "sourceId": 2133,
+      "title": "Pancas – Rampa Clementino Izoton – ES",
+      "slug": "pancas-rampa-clementino-izoton-es",
+      "url": "https://guia4ventos.com.br/pancas-rampa-clementino-izoton-es/",
+      "modified": "2024-12-15T12:17:58"
+    },
+    {
+      "sourceId": 2143,
+      "title": "Venda Nova do Imigrante – Rampa no Morro do Filetti – ES",
+      "slug": "venda-nova-do-imigrante-rampa-no-morro-do-filetti-es",
+      "url": "https://guia4ventos.com.br/venda-nova-do-imigrante-rampa-no-morro-do-filetti-es/",
+      "modified": "2024-12-15T12:14:19"
+    },
+    {
+      "sourceId": 2151,
+      "title": "Vila Valério – Rampa da Pedra do Veinho – ES",
+      "slug": "vila-valerio-rampa-da-pedra-do-veinho-es",
+      "url": "https://guia4ventos.com.br/vila-valerio-rampa-da-pedra-do-veinho-es/",
+      "modified": "2025-11-04T19:40:33"
+    },
+    {
+      "sourceId": 2159,
+      "title": "Vila Velha – Rampa no Morro do Moreno – ES",
+      "slug": "vila-velha-rampa-no-morro-do-moreno-es",
+      "url": "https://guia4ventos.com.br/vila-velha-rampa-no-morro-do-moreno-es/",
+      "modified": "2024-12-15T12:08:14"
+    },
+    {
+      "sourceId": 2165,
+      "title": "Cachoeiro de Itapemirim – Rampa do Mirante – ES",
+      "slug": "cachoeiro-de-itapemirim-rampa-do-mirante-es",
+      "url": "https://guia4ventos.com.br/cachoeiro-de-itapemirim-rampa-do-mirante-es/",
+      "modified": "2024-12-15T12:06:36"
+    },
+    {
+      "sourceId": 2173,
+      "title": "Nova Almeida – Rampa da Falésia – Serra – ES",
+      "slug": "nova-almeida-rampa-da-falesia-serra-es",
+      "url": "https://guia4ventos.com.br/nova-almeida-rampa-da-falesia-serra-es/",
+      "modified": "2024-12-15T12:03:32"
+    },
+    {
+      "sourceId": 2181,
+      "title": "Castelo – Rampa de Apeninos – ES",
+      "slug": "castelo-rampa-de-apeninos-es",
+      "url": "https://guia4ventos.com.br/castelo-rampa-de-apeninos-es/",
+      "modified": "2024-12-15T12:00:21"
+    },
+    {
+      "sourceId": 2190,
+      "title": "Viana – Rampa do Urubu – ES",
+      "slug": "viana-rampa-do-urubu-es",
+      "url": "https://guia4ventos.com.br/viana-rampa-do-urubu-es/",
+      "modified": "2024-12-15T11:57:42"
+    },
+    {
+      "sourceId": 2197,
+      "title": "Mantenópolis – Rampa Raio de Sol – ES",
+      "slug": "mantenopolis-rampa-raio-de-sol-es",
+      "url": "https://guia4ventos.com.br/mantenopolis-rampa-raio-de-sol-es/",
+      "modified": "2024-12-15T11:55:11"
+    },
+    {
+      "sourceId": 2206,
+      "title": "Santa Teresa – Rampa do Caravaggio – ES",
+      "slug": "santa-teresa-rampa-do-caravaggio-es",
+      "url": "https://guia4ventos.com.br/santa-teresa-rampa-do-caravaggio-es/",
+      "modified": "2024-12-15T11:52:40"
+    },
+    {
+      "sourceId": 2214,
+      "title": "Fundão – Rampa de Timbuí – ES",
+      "slug": "fundao-rampa-de-timbui-es",
+      "url": "https://guia4ventos.com.br/fundao-rampa-de-timbui-es/",
+      "modified": "2024-12-15T11:50:06"
+    },
+    {
+      "sourceId": 2246,
+      "title": "Pacatuba – Rampa Jamil Sales – CE",
+      "slug": "pacatuba-rampa-jamil-sales-ce",
+      "url": "https://guia4ventos.com.br/pacatuba-rampa-jamil-sales-ce/",
+      "modified": "2024-12-15T11:27:47"
+    },
+    {
+      "sourceId": 2253,
+      "title": "Jardim – Rampa Cruzeiro da Mãe Baioca – CE",
+      "slug": "jardim-rampa-cruzeiro-da-mae-baioca-ce",
+      "url": "https://guia4ventos.com.br/jardim-rampa-cruzeiro-da-mae-baioca-ce/",
+      "modified": "2024-12-15T11:26:14"
+    },
+    {
+      "sourceId": 2262,
+      "title": "Sobral – Rampa da Serra da Meruoca – CE",
+      "slug": "sobral-rampa-da-serra-da-meruoca-ce",
+      "url": "https://guia4ventos.com.br/sobral-rampa-da-serra-da-meruoca-ce/",
+      "modified": "2024-12-15T11:24:11"
+    },
+    {
+      "sourceId": 2268,
+      "title": "Itacima – Guaiúba – CE",
+      "slug": "itacima-guaiuba-ce",
+      "url": "https://guia4ventos.com.br/itacima-guaiuba-ce/",
+      "modified": "2024-12-15T11:20:40"
+    },
+    {
+      "sourceId": 2273,
+      "title": "Aracati – Rampa de Canoa Quebrada – CE",
+      "slug": "aracati-rampa-de-canoa-quebrada-ce",
+      "url": "https://guia4ventos.com.br/aracati-rampa-de-canoa-quebrada-ce/",
+      "modified": "2024-12-15T11:19:13"
+    },
+    {
+      "sourceId": 2277,
+      "title": "Quixadá – Rampa no Morro do Urucum – CE",
+      "slug": "quixada-rampa-no-morro-do-urucum-ce",
+      "url": "https://guia4ventos.com.br/quixada-rampa-no-morro-do-urucum-ce/",
+      "modified": "2025-01-13T20:01:49"
+    },
+    {
+      "sourceId": 2283,
+      "title": "Viçosa do Ceará – Rampa de Itarumã – CE",
+      "slug": "vicosa-do-ceara-rampa-de-itaruma-ce",
+      "url": "https://guia4ventos.com.br/vicosa-do-ceara-rampa-de-itaruma-ce/",
+      "modified": "2024-12-15T11:12:00"
+    },
+    {
+      "sourceId": 2356,
+      "title": "Ibiapina – Rampa do Mirante – CE",
+      "slug": "ibiapina-rampa-do-mirante-ce",
+      "url": "https://guia4ventos.com.br/ibiapina-rampa-do-mirante-ce/",
+      "modified": "2024-12-15T11:10:29"
+    },
+    {
+      "sourceId": 2362,
+      "title": "Tianguá – Sitio do Bosco – CE",
+      "slug": "tiangua-sitio-do-bosco-ce",
+      "url": "https://guia4ventos.com.br/tiangua-sitio-do-bosco-ce/",
+      "modified": "2026-02-20T19:19:23"
+    },
+    {
+      "sourceId": 2369,
+      "title": "Redenção – Rampa da Santinha – CE",
+      "slug": "redencao-rampa-da-santinha-ce",
+      "url": "https://guia4ventos.com.br/redencao-rampa-da-santinha-ce/",
+      "modified": "2024-12-15T11:04:46"
+    },
+    {
+      "sourceId": 2375,
+      "title": "Beberibe – Rampa do Morro Branco – CE",
+      "slug": "beberibe-rampa-do-morro-branco-ce",
+      "url": "https://guia4ventos.com.br/beberibe-rampa-do-morro-branco-ce/",
+      "modified": "2024-12-15T11:05:55"
+    },
+    {
+      "sourceId": 2380,
+      "title": "Palmácia – Rampa de Palmácia – CE",
+      "slug": "palmacia-rampa-de-palmacia-ce",
+      "url": "https://guia4ventos.com.br/palmacia-rampa-de-palmacia-ce/",
+      "modified": "2024-12-15T11:00:52"
+    },
+    {
+      "sourceId": 2385,
+      "title": "Quixadá – Juatama – Rampa Pedra dos Ventos – CE",
+      "slug": "juatama-rampa-pedra-dos-ventos-ce",
+      "url": "https://guia4ventos.com.br/juatama-rampa-pedra-dos-ventos-ce/",
+      "modified": "2024-12-15T10:57:27"
+    },
+    {
+      "sourceId": 2391,
+      "title": "Ipú – Rampa de Ipú – CE",
+      "slug": "ipu-rampa-de-ipu-ce",
+      "url": "https://guia4ventos.com.br/ipu-rampa-de-ipu-ce/",
+      "modified": "2024-12-15T10:54:32"
+    },
+    {
+      "sourceId": 2397,
+      "title": "Guaraciaba do Norte – Urubu Ecoparque – CE",
+      "slug": "guaraciaba-do-norte-urubu-ecoparque-ce",
+      "url": "https://guia4ventos.com.br/guaraciaba-do-norte-urubu-ecoparque-ce/",
+      "modified": "2024-12-15T10:52:19"
+    },
+    {
+      "sourceId": 2403,
+      "title": "Ipueiras – Mirante Delta – CE",
+      "slug": "ipueiras-mirante-delta-ce",
+      "url": "https://guia4ventos.com.br/ipueiras-mirante-delta-ce/",
+      "modified": "2024-12-15T10:45:12"
+    },
+    {
+      "sourceId": 2409,
+      "title": "Juazeiro do Norte – Rampa do Horto – CE",
+      "slug": "juazeiro-do-norte-rampa-do-horto-ce",
+      "url": "https://guia4ventos.com.br/juazeiro-do-norte-rampa-do-horto-ce/",
+      "modified": "2024-12-15T10:49:28"
+    },
+    {
+      "sourceId": 2464,
+      "title": "Igrejinha – Rampa do Morro Alto da Pedra – RS",
+      "slug": "igrejinha-rampa-do-morro-alto-da-pedra-rs",
+      "url": "https://guia4ventos.com.br/igrejinha-rampa-do-morro-alto-da-pedra-rs/",
+      "modified": "2024-12-27T11:50:14"
+    },
+    {
+      "sourceId": 2472,
+      "title": "Nova Petrópolis – Rampa do Ninho das Águias – RS",
+      "slug": "nova-petropolis-rampa-do-ninho-das-aguias-rs",
+      "url": "https://guia4ventos.com.br/nova-petropolis-rampa-do-ninho-das-aguias-rs/",
+      "modified": "2024-12-27T11:48:55"
+    },
+    {
+      "sourceId": 2480,
+      "title": "Porto Alegre – Rampa no Morro do Tapera – RS",
+      "slug": "porto-alegre-rampa-no-morro-do-tapera-rs",
+      "url": "https://guia4ventos.com.br/porto-alegre-rampa-no-morro-do-tapera-rs/",
+      "modified": "2024-12-22T13:33:24"
+    },
+    {
+      "sourceId": 2490,
+      "title": "Rolante – Parque da Asa Delta – RS",
+      "slug": "rolante-rampa-de-rolante-rs",
+      "url": "https://guia4ventos.com.br/rolante-rampa-de-rolante-rs/",
+      "modified": "2024-12-22T13:31:44"
+    },
+    {
+      "sourceId": 2496,
+      "title": "Santa Maria – Rampa de Santa Maria – RS",
+      "slug": "santa-maria-rampa-de-santa-maria-rs",
+      "url": "https://guia4ventos.com.br/santa-maria-rampa-de-santa-maria-rs/",
+      "modified": "2024-12-22T13:29:48"
+    },
+    {
+      "sourceId": 2504,
+      "title": "São Vendelino – Rampa do Morro do Diabo – RS",
+      "slug": "sao-vendelino-rampa-do-morro-do-diabo-rs",
+      "url": "https://guia4ventos.com.br/sao-vendelino-rampa-do-morro-do-diabo-rs/",
+      "modified": "2024-12-22T13:28:06"
+    },
+    {
+      "sourceId": 2512,
+      "title": "Sapiranga – Rampa no Morro do Ferrabraz – RS",
+      "slug": "sapiranga-rampa-no-morro-do-ferrabraz-rs",
+      "url": "https://guia4ventos.com.br/sapiranga-rampa-no-morro-do-ferrabraz-rs/",
+      "modified": "2024-12-22T13:21:24"
+    },
+    {
+      "sourceId": 2518,
+      "title": "Torres – Rampa do Morro do Farol – RS",
+      "slug": "torres-rampa-do-morro-do-farol-rs",
+      "url": "https://guia4ventos.com.br/torres-rampa-do-morro-do-farol-rs/",
+      "modified": "2024-12-22T13:19:23"
+    },
+    {
+      "sourceId": 2532,
+      "title": "Encantado – Morro do Paraglider – RS",
+      "slug": "encantado-morro-do-paraglider-rs",
+      "url": "https://guia4ventos.com.br/encantado-morro-do-paraglider-rs/",
+      "modified": "2024-12-22T13:10:34"
+    },
+    {
+      "sourceId": 2538,
+      "title": "Osório – Rampa do Morro da Borússia – RS",
+      "slug": "osorio-rampa-do-morro-da-borussia-rs",
+      "url": "https://guia4ventos.com.br/osorio-rampa-do-morro-da-borussia-rs/",
+      "modified": "2024-12-22T13:08:30"
+    },
+    {
+      "sourceId": 2544,
+      "title": "Viadutos – Rampa do Parque Norte – RS",
+      "slug": "viadutos-rampa-do-parque-norte-rs",
+      "url": "https://guia4ventos.com.br/viadutos-rampa-do-parque-norte-rs/",
+      "modified": "2024-12-22T13:04:23"
+    },
+    {
+      "sourceId": 2559,
+      "title": "Morrinhos do Sul – Rampa de Morro do Forno – RS",
+      "slug": "morrinhos-do-sul-rampa-morro-do-fornol-rs",
+      "url": "https://guia4ventos.com.br/morrinhos-do-sul-rampa-morro-do-fornol-rs/",
+      "modified": "2024-12-22T12:48:42"
+    },
+    {
+      "sourceId": 2569,
+      "title": "Caçapava do Sul – Cerro da Angélica – RS",
+      "slug": "cacapava-do-sul-rampa-da-angelica-cerro-da-angelica-rs",
+      "url": "https://guia4ventos.com.br/cacapava-do-sul-rampa-da-angelica-cerro-da-angelica-rs/",
+      "modified": "2026-01-27T11:57:59"
+    },
+    {
+      "sourceId": 2576,
+      "title": "Bento Gonçalves – Rampa de Bento Gonçalves – RS",
+      "slug": "bento-goncalves-rampa-de-bento-goncalves-rs",
+      "url": "https://guia4ventos.com.br/bento-goncalves-rampa-de-bento-goncalves-rs/",
+      "modified": "2024-12-22T12:45:19"
+    },
+    {
+      "sourceId": 2588,
+      "title": "Osório – Rampa Nordeste do Morro da Borússia – RS",
+      "slug": "osorio-rampa-nordeste-do-morro-da-borussia-rs",
+      "url": "https://guia4ventos.com.br/osorio-rampa-nordeste-do-morro-da-borussia-rs/",
+      "modified": "2024-12-22T12:43:02"
+    },
+    {
+      "sourceId": 2595,
+      "title": "Agudo – Cerro da Figueira – RS",
+      "slug": "agudo-cerro-da-figueira-rs",
+      "url": "https://guia4ventos.com.br/agudo-cerro-da-figueira-rs/",
+      "modified": "2024-12-25T11:08:51"
+    },
+    {
+      "sourceId": 2604,
+      "title": "Roca Sales – Morro do Bicudo – RS",
+      "slug": "roca-sales-morro-do-bicudo-rs",
+      "url": "https://guia4ventos.com.br/roca-sales-morro-do-bicudo-rs/",
+      "modified": "2024-12-22T12:36:42"
+    },
+    {
+      "sourceId": 2611,
+      "title": "Teutônia – Rampa do Mirante da Lagoa da Harmonia – RS",
+      "slug": "rampa-do-mirante-da-lagoa-da-harmonia-rs",
+      "url": "https://guia4ventos.com.br/rampa-do-mirante-da-lagoa-da-harmonia-rs/",
+      "modified": "2024-12-22T12:34:40"
+    },
+    {
+      "sourceId": 2633,
+      "title": "Matinhos – Caiobá – Rampa do Morro do Boi – PR",
+      "slug": "matinhos-caioba-rampa-do-morro-do-boi-pr",
+      "url": "https://guia4ventos.com.br/matinhos-caioba-rampa-do-morro-do-boi-pr/",
+      "modified": "2024-12-22T12:07:22"
+    },
+    {
+      "sourceId": 2640,
+      "title": "Terra Rica – Rampa dos Três Morrinhos – PR",
+      "slug": "terra-rica-rampa-dos-tres-morrinhos-pr",
+      "url": "https://guia4ventos.com.br/terra-rica-rampa-dos-tres-morrinhos-pr/",
+      "modified": "2024-12-22T12:05:06"
+    },
+    {
+      "sourceId": 2649,
+      "title": "Jacarezinho – Rampa Fazenda Santa Amelia – PR",
+      "slug": "jacarezinho-rampa-fazenda-santa-amelia-pr",
+      "url": "https://guia4ventos.com.br/jacarezinho-rampa-fazenda-santa-amelia-pr/",
+      "modified": "2024-12-22T12:03:29"
+    },
+    {
+      "sourceId": 2654,
+      "title": "Ribeirão Claro – Rampa do Morro do Padilha – PR",
+      "slug": "ribeirao-claro-rampa-do-morro-do-padilha-pr",
+      "url": "https://guia4ventos.com.br/ribeirao-claro-rampa-do-morro-do-padilha-pr/",
+      "modified": "2024-12-22T12:01:46"
+    },
+    {
+      "sourceId": 2660,
+      "title": "Vitorino – Rampa do Morro Divisor – PR",
+      "slug": "vitorino-rampa-do-morro-divisor-pr",
+      "url": "https://guia4ventos.com.br/vitorino-rampa-do-morro-divisor-pr/",
+      "modified": "2024-12-22T12:00:07"
+    },
+    {
+      "sourceId": 2666,
+      "title": "Cascavel – Rampa do Vale do Caldeirão – PR",
+      "slug": "cascavel-rampa-do-vale-do-caldeirao-pr",
+      "url": "https://guia4ventos.com.br/cascavel-rampa-do-vale-do-caldeirao-pr/",
+      "modified": "2024-12-22T11:58:41"
+    },
+    {
+      "sourceId": 2672,
+      "title": "Campo Magro – Rampa no Morro da Palha – PR",
+      "slug": "campo-magro-rampa-no-morro-da-palha-pr",
+      "url": "https://guia4ventos.com.br/campo-magro-rampa-no-morro-da-palha-pr/",
+      "modified": "2024-12-22T11:56:58"
+    },
+    {
+      "sourceId": 2680,
+      "title": "Lapa – Rampa do Monge – PR",
+      "slug": "lapa-rampa-do-monge-pr",
+      "url": "https://guia4ventos.com.br/lapa-rampa-do-monge-pr/",
+      "modified": "2024-12-22T11:55:11"
+    },
+    {
+      "sourceId": 2687,
+      "title": "Rio Branco do Sul – Rampa Cordilheira do Santana – PR",
+      "slug": "rio-branco-do-sul-cordilheira-do-santana-pr",
+      "url": "https://guia4ventos.com.br/rio-branco-do-sul-cordilheira-do-santana-pr/",
+      "modified": "2024-12-22T11:52:02"
+    },
+    {
+      "sourceId": 2710,
+      "title": "Tibagi – Rampa da Comuna – PR",
+      "slug": "tibagi-rampa-da-comuna-pr",
+      "url": "https://guia4ventos.com.br/tibagi-rampa-da-comuna-pr/",
+      "modified": "2024-12-22T11:50:12"
+    },
+    {
+      "sourceId": 2716,
+      "title": "Tijucas do Sul – Pico do Araçatuba – PR",
+      "slug": "tijucas-do-sul-pico-do-aracatuba-pr",
+      "url": "https://guia4ventos.com.br/tijucas-do-sul-pico-do-aracatuba-pr/",
+      "modified": "2024-12-22T11:48:31"
+    },
+    {
+      "sourceId": 2745,
+      "title": "Ilha do Mel – Rampa do Morro do Sabão – PR",
+      "slug": "ilha-do-mel-rampa-do-morro-do-sabao-pr",
+      "url": "https://guia4ventos.com.br/ilha-do-mel-rampa-do-morro-do-sabao-pr/",
+      "modified": "2025-04-19T20:04:28"
+    },
+    {
+      "sourceId": 2751,
+      "title": "Campina Grande do Sul – Pico do Capivari – PR",
+      "slug": "campina-grande-do-sul-pico-do-capivari-pr",
+      "url": "https://guia4ventos.com.br/campina-grande-do-sul-pico-do-capivari-pr/",
+      "modified": "2024-12-22T11:46:01"
+    },
+    {
+      "sourceId": 2757,
+      "title": "Campo Largo – Morro do Cal – PR",
+      "slug": "morro-do-cal-campo-largo-pr",
+      "url": "https://guia4ventos.com.br/morro-do-cal-campo-largo-pr/",
+      "modified": "2024-12-22T11:42:19"
+    },
+    {
+      "sourceId": 2763,
+      "title": "Japira – Pigo Agudo – PR",
+      "slug": "japira-pigo-agudo-pr",
+      "url": "https://guia4ventos.com.br/japira-pigo-agudo-pr/",
+      "modified": "2024-12-22T11:39:58"
+    },
+    {
+      "sourceId": 2769,
+      "title": "Santo Antonio do Sudoeste – Cerro Negro – PR",
+      "slug": "santo-antonio-do-sudoeste-cerro-negro-pr",
+      "url": "https://guia4ventos.com.br/santo-antonio-do-sudoeste-cerro-negro-pr/",
+      "modified": "2024-12-22T11:37:12"
+    },
+    {
+      "sourceId": 2775,
+      "title": "Tomazina – Rampa do Cruzeiro – PR",
+      "slug": "tomazina-rampa-do-cruzeiro-pr",
+      "url": "https://guia4ventos.com.br/tomazina-rampa-do-cruzeiro-pr/",
+      "modified": "2024-12-21T14:47:10"
+    },
+    {
+      "sourceId": 2781,
+      "title": "União da Vitória – Morro do Carvão – PR",
+      "slug": "uniao-da-vitoria-morro-do-carvao-pr",
+      "url": "https://guia4ventos.com.br/uniao-da-vitoria-morro-do-carvao-pr/",
+      "modified": "2025-04-19T19:42:49"
+    },
+    {
+      "sourceId": 2961,
+      "title": "Florianópolis – Rampa de Praia Mole – SC",
+      "slug": "florianopolis-rampa-de-praia-mole-sc",
+      "url": "https://guia4ventos.com.br/florianopolis-rampa-de-praia-mole-sc/",
+      "modified": "2024-12-27T11:46:54"
+    },
+    {
+      "sourceId": 2966,
+      "title": "Garopaba – Rampa do Morro do Ferraz – SC",
+      "slug": "garopaba-rampa-do-morro-do-ferraz-sc",
+      "url": "https://guia4ventos.com.br/garopaba-rampa-do-morro-do-ferraz-sc/",
+      "modified": "2024-12-27T11:47:21"
+    },
+    {
+      "sourceId": 2971,
+      "title": "Gaspar – Rampa do Pelado – Morro da Cruz – SC",
+      "slug": "gaspar-rampa-do-pelado-morro-da-cruz-sc",
+      "url": "https://guia4ventos.com.br/gaspar-rampa-do-pelado-morro-da-cruz-sc/",
+      "modified": "2024-12-27T11:47:36"
+    },
+    {
+      "sourceId": 2977,
+      "title": "Tangará – Rampa do Morro Agudo – SC",
+      "slug": "tangara-rampa-do-morro-agudo-sc",
+      "url": "https://guia4ventos.com.br/tangara-rampa-do-morro-agudo-sc/",
+      "modified": "2025-12-17T16:52:38"
+    },
+    {
+      "sourceId": 2983,
+      "title": "Araranguá – Rampa do Maracajá – SC",
+      "slug": "ararangua-rampa-do-maracaja-sc",
+      "url": "https://guia4ventos.com.br/ararangua-rampa-do-maracaja-sc/",
+      "modified": "2024-12-27T11:45:54"
+    },
+    {
+      "sourceId": 2990,
+      "title": "Araranguá – Rampa do Morro dos Conventos – SC",
+      "slug": "ararangua-rampa-do-morro-dos-conventos-sc",
+      "url": "https://guia4ventos.com.br/ararangua-rampa-do-morro-dos-conventos-sc/",
+      "modified": "2024-12-27T11:46:29"
+    },
+    {
+      "sourceId": 2997,
+      "title": "Imbituba – Rampa do Morro das Antenas – SC",
+      "slug": "imbituba-rampa-do-morro-das-antenas-sc",
+      "url": "https://guia4ventos.com.br/imbituba-rampa-do-morro-das-antenas-sc/",
+      "modified": "2024-12-27T11:48:40"
+    },
+    {
+      "sourceId": 3002,
+      "title": "Jaraguá do Sul – Rampa Morro Boa Vista / Morro das Antenas – SC",
+      "slug": "rampa-morro-boa-vista-morro-das-antenas-sc",
+      "url": "https://guia4ventos.com.br/rampa-morro-boa-vista-morro-das-antenas-sc/",
+      "modified": "2026-01-03T17:34:52"
+    },
+    {
+      "sourceId": 3008,
+      "title": "Santo Amaro da Imperatriz – Morro do Queimado – SC",
+      "slug": "santo-amaro-da-imperatriz-rampa-do-morro-do-queimado-sc",
+      "url": "https://guia4ventos.com.br/santo-amaro-da-imperatriz-rampa-do-morro-do-queimado-sc/",
+      "modified": "2024-12-27T11:49:29"
+    },
+    {
+      "sourceId": 3014,
+      "title": "Pomerode – Rampa do Morro Azul – SC",
+      "slug": "pomerode-rampa-do-morro-azul-sc",
+      "url": "https://guia4ventos.com.br/pomerode-rampa-do-morro-azul-sc/",
+      "modified": "2024-12-27T11:49:11"
+    },
+    {
+      "sourceId": 3019,
+      "title": "Timbó – Rampa de Arapongas – SC",
+      "slug": "timbo-rampa-de-arapongas-sc",
+      "url": "https://guia4ventos.com.br/timbo-rampa-de-arapongas-sc/",
+      "modified": "2024-12-25T11:25:10"
+    },
+    {
+      "sourceId": 3026,
+      "title": "Rio dos Cedros – Rampa do Morro São Bernardo – SC",
+      "slug": "rio-dos-cedros-rampa-do-morro-sao-bernardo-sc",
+      "url": "https://guia4ventos.com.br/rio-dos-cedros-rampa-do-morro-sao-bernardo-sc/",
+      "modified": "2024-12-22T08:17:55"
+    },
+    {
+      "sourceId": 3032,
+      "title": "Presidente Getulio – Rampas da Serra do Mirador – SC",
+      "slug": "presidente-getulio-rampas-da-serra-do-mirador-sc",
+      "url": "https://guia4ventos.com.br/presidente-getulio-rampas-da-serra-do-mirador-sc/",
+      "modified": "2024-12-25T10:58:55"
+    },
+    {
+      "sourceId": 3038,
+      "title": "Urubici – Rampa do Morro do Oderdeng – SC",
+      "slug": "urubici-rampa-do-morro-do-oderdeng-sc",
+      "url": "https://guia4ventos.com.br/urubici-rampa-do-morro-do-oderdeng-sc/",
+      "modified": "2024-12-22T08:12:44"
+    },
+    {
+      "sourceId": 3044,
+      "title": "Ascurra – Rampa de Serra Leoa – SC",
+      "slug": "ascurra-rampa-de-serra-leoa-sc",
+      "url": "https://guia4ventos.com.br/ascurra-rampa-de-serra-leoa-sc/",
+      "modified": "2024-12-22T08:10:31"
+    },
+    {
+      "sourceId": 3050,
+      "title": "Balneário Camboriú – Rampa do Morro do Careca – SC",
+      "slug": "balneario-camboriu-rampa-do-morro-do-careca-sc",
+      "url": "https://guia4ventos.com.br/balneario-camboriu-rampa-do-morro-do-careca-sc/",
+      "modified": "2024-12-22T07:56:10"
+    },
+    {
+      "sourceId": 3056,
+      "title": "Canelinha – Rampa do Morro do Rolador – SC",
+      "slug": "canelinha-rampa-do-morro-do-rolador-sc",
+      "url": "https://guia4ventos.com.br/canelinha-rampa-do-morro-do-rolador-sc/",
+      "modified": "2024-12-22T07:53:21"
+    },
+    {
+      "sourceId": 3062,
+      "title": "Lages – Rampa do Morro da Cruz – SC",
+      "slug": "lages-rampa-do-morro-da-cruz-sc",
+      "url": "https://guia4ventos.com.br/lages-rampa-do-morro-da-cruz-sc/",
+      "modified": "2024-12-22T07:51:44"
+    },
+    {
+      "sourceId": 3068,
+      "title": "Timbé do Sul – Rampa da Serrinha – SC",
+      "slug": "timbe-do-sul-rampa-da-serrinha-sc",
+      "url": "https://guia4ventos.com.br/timbe-do-sul-rampa-da-serrinha-sc/",
+      "modified": "2024-12-22T07:50:19"
+    },
+    {
+      "sourceId": 3074,
+      "title": "Rio do Sul – Morro do Tshumi – Bela Aliança – SC",
+      "slug": "rio-do-sul-morro-do-tshumi-bela-alianca-sc",
+      "url": "https://guia4ventos.com.br/rio-do-sul-morro-do-tshumi-bela-alianca-sc/",
+      "modified": "2026-06-11T20:56:52"
+    },
+    {
+      "sourceId": 3080,
+      "title": "Navegantes – Rampa do Morro da Pedra Escalvado – SC",
+      "slug": "morro-da-pedra-escalvado-sc",
+      "url": "https://guia4ventos.com.br/morro-da-pedra-escalvado-sc/",
+      "modified": "2024-12-22T07:46:57"
+    },
+    {
+      "sourceId": 3086,
+      "title": "Salete – Rampa do IPVA – SC",
+      "slug": "salete-rampa-do-ipva-sc",
+      "url": "https://guia4ventos.com.br/salete-rampa-do-ipva-sc/",
+      "modified": "2024-12-22T07:45:07"
+    },
+    {
+      "sourceId": 3092,
+      "title": "Witmarsum – Rampa Villa Nova – SC",
+      "slug": "witmarsum-rampa-villa-nova-sc",
+      "url": "https://guia4ventos.com.br/witmarsum-rampa-villa-nova-sc/",
+      "modified": "2024-12-22T07:43:26"
+    },
+    {
+      "sourceId": 3097,
+      "title": "Barra Bonita – Torre dos Ventos – SC",
+      "slug": "barra-bonita-torre-dos-ventos-sc",
+      "url": "https://guia4ventos.com.br/barra-bonita-torre-dos-ventos-sc/",
+      "modified": "2025-09-05T10:48:35"
+    },
+    {
+      "sourceId": 3101,
+      "title": "Chapecó – Rampa de Índios – SC",
+      "slug": "chapeco-rampa-de-indios-sc",
+      "url": "https://guia4ventos.com.br/chapeco-rampa-de-indios-sc/",
+      "modified": "2024-12-22T07:36:48"
+    },
+    {
+      "sourceId": 3110,
+      "title": "Anchieta – Rampa do Morro do Sol – SC",
+      "slug": "anchieta-rampa-do-morro-do-sol-sc",
+      "url": "https://guia4ventos.com.br/anchieta-rampa-do-morro-do-sol-sc/",
+      "modified": "2024-12-21T20:29:00"
+    },
+    {
+      "sourceId": 3116,
+      "title": "Florianópolis – Rampas da Lagoa da Conceição – SC",
+      "slug": "florianopolis-rampa-da-lagoa-da-conceicao-sc",
+      "url": "https://guia4ventos.com.br/florianopolis-rampa-da-lagoa-da-conceicao-sc/",
+      "modified": "2024-12-25T11:05:54"
+    },
+    {
+      "sourceId": 3122,
+      "title": "São Francisco do Sul – Morro da Enseada – SC",
+      "slug": "sao-francisco-do-sul-morro-da-enseada-sc",
+      "url": "https://guia4ventos.com.br/sao-francisco-do-sul-morro-da-enseada-sc/",
+      "modified": "2024-12-21T20:22:50"
+    },
+    {
+      "sourceId": 3128,
+      "title": "Laguna – Rampa do Farol de Santa Marta – SC",
+      "slug": "rampa-do-farol-de-santa-marta-sc",
+      "url": "https://guia4ventos.com.br/rampa-do-farol-de-santa-marta-sc/",
+      "modified": "2024-12-21T20:17:16"
+    },
+    {
+      "sourceId": 3134,
+      "title": "Porto União – Morro do Carvão – SC",
+      "slug": "porto-uniao-morro-do-carvao-sc",
+      "url": "https://guia4ventos.com.br/porto-uniao-morro-do-carvao-sc/",
+      "modified": "2025-04-19T19:47:06"
+    },
+    {
+      "sourceId": 3213,
+      "title": "Ubá / Divinésia – Rampa do Gaúcho – MG",
+      "slug": "uba-divinesia-rampa-do-gaucho-mg",
+      "url": "https://guia4ventos.com.br/uba-divinesia-rampa-do-gaucho-mg/",
+      "modified": "2024-12-29T09:49:55"
+    },
+    {
+      "sourceId": 3226,
+      "title": "Governador Valadares – Rampa do Pico da Ibituruna – MG",
+      "slug": "rampa-do-pico-da-ibituruna-mg",
+      "url": "https://guia4ventos.com.br/rampa-do-pico-da-ibituruna-mg/",
+      "modified": "2024-12-29T09:49:51"
+    },
+    {
+      "sourceId": 3234,
+      "title": "Guarda Mor – Rampa de Guarda Mor – MG",
+      "slug": "guarda-mor-rampa-de-guarda-mor-mg",
+      "url": "https://guia4ventos.com.br/guarda-mor-rampa-de-guarda-mor-mg/",
+      "modified": "2024-12-29T09:49:44"
+    },
+    {
+      "sourceId": 3240,
+      "title": "Conceição de Ibitipoca – Rampa de Ibitipoca – MG",
+      "slug": "conceicao-de-ibitipoca-rampa-de-ibitipoca-mg",
+      "url": "https://guia4ventos.com.br/conceicao-de-ibitipoca-rampa-de-ibitipoca-mg/",
+      "modified": "2024-12-29T09:49:39"
+    },
+    {
+      "sourceId": 3248,
+      "title": "Itamonte – Rampa Alto Montana / Casa Alpina – MG",
+      "slug": "itamonte-rampa-alto-montana-casa-alpina-mg",
+      "url": "https://guia4ventos.com.br/itamonte-rampa-alto-montana-casa-alpina-mg/",
+      "modified": "2024-12-29T09:49:33"
+    },
+    {
+      "sourceId": 3261,
+      "title": "Leopoldina – Rampa de Leopoldina – MG",
+      "slug": "leopoldina-rampa-de-leopoldina-mg",
+      "url": "https://guia4ventos.com.br/leopoldina-rampa-de-leopoldina-mg/",
+      "modified": "2024-12-29T09:49:28"
+    },
+    {
+      "sourceId": 3267,
+      "title": "Muriaé – Rampa do Distrito de Pirapanema – MG",
+      "slug": "muriae-rampa-do-distrito-de-pirapanema-mg",
+      "url": "https://guia4ventos.com.br/muriae-rampa-do-distrito-de-pirapanema-mg/",
+      "modified": "2024-12-29T09:49:20"
+    },
+    {
+      "sourceId": 3275,
+      "title": "Poços de Caldas – Rampa do Cristo – MG",
+      "slug": "pocos-de-caldas-rampa-do-cristo-mg",
+      "url": "https://guia4ventos.com.br/pocos-de-caldas-rampa-do-cristo-mg/",
+      "modified": "2025-02-22T12:01:48"
+    },
+    {
+      "sourceId": 3279,
+      "title": "Raul Soares – Rampa da Pedra do Boachá – MG",
+      "slug": "raul-soares-rampa-da-pedra-do-boacha-mg",
+      "url": "https://guia4ventos.com.br/raul-soares-rampa-da-pedra-do-boacha-mg/",
+      "modified": "2024-12-29T09:49:05"
+    },
+    {
+      "sourceId": 3287,
+      "title": "Salto da Divisa – Rampa na Serra do Bodocó – MG",
+      "slug": "salto-da-divisa-rampa-na-serra-do-bodoco-mg",
+      "url": "https://guia4ventos.com.br/salto-da-divisa-rampa-na-serra-do-bodoco-mg/",
+      "modified": "2024-12-29T09:48:58"
+    },
+    {
+      "sourceId": 3293,
+      "title": "São Sebastião da Bela Vista / Santa Rita do Sapucaí – Serra do Paredão – MG",
+      "slug": "sao-sebastiao-da-bela-vista-serra-do-paredao-mg",
+      "url": "https://guia4ventos.com.br/sao-sebastiao-da-bela-vista-serra-do-paredao-mg/",
+      "modified": "2025-07-18T15:30:12"
+    },
+    {
+      "sourceId": 3299,
+      "title": "Brumadinho – Rampa da Serra da Moeda – MG",
+      "slug": "brumadinho-rampa-da-serra-da-moeda-mg",
+      "url": "https://guia4ventos.com.br/brumadinho-rampa-da-serra-da-moeda-mg/",
+      "modified": "2026-03-12T20:14:46"
+    },
+    {
+      "sourceId": 3303,
+      "title": "Sete Lagoas – Rampa da Serra de Santa Helena – MG",
+      "slug": "sete-lagoas-rampa-da-serra-de-santa-helena-mg",
+      "url": "https://guia4ventos.com.br/sete-lagoas-rampa-da-serra-de-santa-helena-mg/",
+      "modified": "2025-08-28T09:56:41"
+    },
+    {
+      "sourceId": 3311,
+      "title": "Cambuí – Rampa do Cruzeiro – MG",
+      "slug": "cambui-rampa-do-cruzeiro-mg",
+      "url": "https://guia4ventos.com.br/cambui-rampa-do-cruzeiro-mg/",
+      "modified": "2024-12-29T09:48:26"
+    },
+    {
+      "sourceId": 3313,
+      "title": "Itinga – Rampa do Caburé – MG",
+      "slug": "itinga-rampa-do-cabure-mg",
+      "url": "https://guia4ventos.com.br/itinga-rampa-do-cabure-mg/",
+      "modified": "2024-12-29T09:48:33"
+    },
+    {
+      "sourceId": 3325,
+      "title": "Mateus Leme – Rampa da Serra do Elefante – MG",
+      "slug": "mateus-leme-rampa-da-serra-do-elefante-mg",
+      "url": "https://guia4ventos.com.br/mateus-leme-rampa-da-serra-do-elefante-mg/",
+      "modified": "2024-12-29T09:48:21"
+    },
+    {
+      "sourceId": 3336,
+      "title": "São Lourenço – Rampa da Fazenda Santa Helena – MG",
+      "slug": "rampa-da-fazenda-santa-helena-mg",
+      "url": "https://guia4ventos.com.br/rampa-da-fazenda-santa-helena-mg/",
+      "modified": "2024-12-29T09:46:57"
+    },
+    {
+      "sourceId": 3345,
+      "title": "Guidoval – Rampa do Biombo – MG",
+      "slug": "guidoval-rampa-do-biombo-mg",
+      "url": "https://guia4ventos.com.br/guidoval-rampa-do-biombo-mg/",
+      "modified": "2024-12-29T09:46:50"
+    },
+    {
+      "sourceId": 3370,
+      "title": "Santa Rita de Jacutinga – Rampa do Sitio do Diogo – MG",
+      "slug": "rampa-do-sitio-do-diogo-mg",
+      "url": "https://guia4ventos.com.br/rampa-do-sitio-do-diogo-mg/",
+      "modified": "2024-12-29T09:46:46"
+    },
+    {
+      "sourceId": 3376,
+      "title": "São Domingos do Prata – Rampa da Pedra da Baleia – MG",
+      "slug": "rampa-da-pedra-da-baleia-mg",
+      "url": "https://guia4ventos.com.br/rampa-da-pedra-da-baleia-mg/",
+      "modified": "2024-12-29T09:46:37"
+    },
+    {
+      "sourceId": 3386,
+      "title": "Extrema – Rampa na Serra do Lopo – MG",
+      "slug": "extrema-rampa-na-serra-do-lopo-mg",
+      "url": "https://guia4ventos.com.br/extrema-rampa-na-serra-do-lopo-mg/",
+      "modified": "2024-12-29T09:46:32"
+    },
+    {
+      "sourceId": 3392,
+      "title": "Piranguçu – Rampa de Piranguçu – MG",
+      "slug": "pirangucu-rampa-de-pirangucu-mg",
+      "url": "https://guia4ventos.com.br/pirangucu-rampa-de-pirangucu-mg/",
+      "modified": "2024-12-29T09:46:28"
+    },
+    {
+      "sourceId": 3400,
+      "title": "Almenara – Rampa do Morro do Cruzeiro – MG",
+      "slug": "almenara-rampa-do-morro-do-cruzeiro-mg",
+      "url": "https://guia4ventos.com.br/almenara-rampa-do-morro-do-cruzeiro-mg/",
+      "modified": "2024-12-29T09:46:20"
+    },
+    {
+      "sourceId": 3407,
+      "title": "Conselheiro Pena – Rampa da Torre da Vale – MG",
+      "slug": "conselheiro-pena-rampa-da-torre-da-vale-mg",
+      "url": "https://guia4ventos.com.br/conselheiro-pena-rampa-da-torre-da-vale-mg/",
+      "modified": "2024-12-29T09:46:14"
+    },
+    {
+      "sourceId": 3415,
+      "title": "Berizal – Rampa na Serra do Anastácio – MG",
+      "slug": "berizal-rampa-na-serra-do-anastacio-mg",
+      "url": "https://guia4ventos.com.br/berizal-rampa-na-serra-do-anastacio-mg/",
+      "modified": "2024-12-29T09:46:08"
+    },
+    {
+      "sourceId": 3422,
+      "title": "Salinas – Rampa do Seu Mário – Morro das Torres – MG",
+      "slug": "salinas-rampa-do-seu-mario-morro-das-torres-mg",
+      "url": "https://guia4ventos.com.br/salinas-rampa-do-seu-mario-morro-das-torres-mg/",
+      "modified": "2024-12-29T09:46:03"
+    },
+    {
+      "sourceId": 3427,
+      "title": "Itabira – Rampa da Serra dos Doze – MG",
+      "slug": "itabira-rampa-da-serra-dos-doze-mg",
+      "url": "https://guia4ventos.com.br/itabira-rampa-da-serra-dos-doze-mg/",
+      "modified": "2024-12-29T09:45:59"
+    },
+    {
+      "sourceId": 3435,
+      "title": "Carlos Chagas – Rampa da Pedra da Baleia – MG",
+      "slug": "carlos-chagas-rampa-da-pedra-da-baleia-mg",
+      "url": "https://guia4ventos.com.br/carlos-chagas-rampa-da-pedra-da-baleia-mg/",
+      "modified": "2024-12-29T09:45:51"
+    },
+    {
+      "sourceId": 3441,
+      "title": "Pimenta – Rampa do Cruzeiro – Serra do Chapadão – MG",
+      "slug": "pimenta-rampa-do-cruzeiro-serra-do-chapadao-mg",
+      "url": "https://guia4ventos.com.br/pimenta-rampa-do-cruzeiro-serra-do-chapadao-mg/",
+      "modified": "2024-12-29T09:45:39"
+    },
+    {
+      "sourceId": 3447,
+      "title": "Capitólio – Rampa do Turvo – MG",
+      "slug": "capitolio-rampa-do-turvo-mg",
+      "url": "https://guia4ventos.com.br/capitolio-rampa-do-turvo-mg/",
+      "modified": "2024-12-29T09:45:26"
+    },
+    {
+      "sourceId": 3453,
+      "title": "Córrego do Bom Jesus – Rampa do Romeu – Pico da Raposa – MG",
+      "slug": "rampa-do-romeu-pico-da-raposa-mg",
+      "url": "https://guia4ventos.com.br/rampa-do-romeu-pico-da-raposa-mg/",
+      "modified": "2024-12-29T09:45:18"
+    },
+    {
+      "sourceId": 3458,
+      "title": "Córrego do Bom Jesus – Rampa do Neguinho – MG",
+      "slug": "rampa-do-neguinho-mg",
+      "url": "https://guia4ventos.com.br/rampa-do-neguinho-mg/",
+      "modified": "2024-12-29T09:45:11"
+    },
+    {
+      "sourceId": 3534,
+      "title": "Mariana – Rampa no Pico da Cartucha – MG",
+      "slug": "mariana-rampa-no-pico-da-cartucha-mg",
+      "url": "https://guia4ventos.com.br/mariana-rampa-no-pico-da-cartucha-mg/",
+      "modified": "2024-12-29T09:45:06"
+    },
+    {
+      "sourceId": 3538,
+      "title": "João Monlevade – Rampa de Monlevade – MG",
+      "slug": "joao-monlevade-rampa-de-monlevade-mg",
+      "url": "https://guia4ventos.com.br/joao-monlevade-rampa-de-monlevade-mg/",
+      "modified": "2024-12-29T09:44:58"
+    },
+    {
+      "sourceId": 3551,
+      "title": "Jacarandira – Rampa na Serra do Segredo – MG",
+      "slug": "jacarandira-rampa-na-serra-do-segredo-mg",
+      "url": "https://guia4ventos.com.br/jacarandira-rampa-na-serra-do-segredo-mg/",
+      "modified": "2024-12-29T09:44:52"
+    },
+    {
+      "sourceId": 3555,
+      "title": "Bugre – Rampa dos Bandeirantes – MG",
+      "slug": "bugre-rampa-dos-bandeirantes-mg",
+      "url": "https://guia4ventos.com.br/bugre-rampa-dos-bandeirantes-mg/",
+      "modified": "2024-12-29T09:44:43"
+    },
+    {
+      "sourceId": 3565,
+      "title": "São José do Divino – Rampa de São José do Divino – MG",
+      "slug": "rampa-de-sao-jose-do-divino-mg",
+      "url": "https://guia4ventos.com.br/rampa-de-sao-jose-do-divino-mg/",
+      "modified": "2024-12-29T09:40:49"
+    },
+    {
+      "sourceId": 3572,
+      "title": "Extrema – Rampa do Pico do Lobo Guará – MG",
+      "slug": "extrema-rampa-do-pico-do-lobo-guara-mg",
+      "url": "https://guia4ventos.com.br/extrema-rampa-do-pico-do-lobo-guara-mg/",
+      "modified": "2024-12-29T09:40:42"
+    },
+    {
+      "sourceId": 3579,
+      "title": "Astolfo Dutra – Rampa de Astolfo Dutra – MG",
+      "slug": "astolfo-dutra-rampa-de-astolfo-dutra-mg",
+      "url": "https://guia4ventos.com.br/astolfo-dutra-rampa-de-astolfo-dutra-mg/",
+      "modified": "2024-12-29T09:40:35"
+    },
+    {
+      "sourceId": 3588,
+      "title": "Lambari – Rampa da Serra das Águas – MG",
+      "slug": "lambari-rampa-da-serra-das-aguas-mg",
+      "url": "https://guia4ventos.com.br/lambari-rampa-da-serra-das-aguas-mg/",
+      "modified": "2024-12-29T09:40:27"
+    },
+    {
+      "sourceId": 3598,
+      "title": "Capitão Enéas – Rampa Burarama – MG",
+      "slug": "capitao-eneas-rampa-burarama-mg",
+      "url": "https://guia4ventos.com.br/capitao-eneas-rampa-burarama-mg/",
+      "modified": "2024-12-29T09:40:21"
+    },
+    {
+      "sourceId": 3606,
+      "title": "Senador José Bento – Rampa de Senador José Bento – MG",
+      "slug": "rampa-de-senador-jose-bento-mg",
+      "url": "https://guia4ventos.com.br/rampa-de-senador-jose-bento-mg/",
+      "modified": "2024-12-29T09:40:16"
+    },
+    {
+      "sourceId": 3616,
+      "title": "Serrania – Serra dos Alemães – Rampa Hélio T. Dias – MG",
+      "slug": "serrania-serra-dos-alemaes-mg",
+      "url": "https://guia4ventos.com.br/serrania-serra-dos-alemaes-mg/",
+      "modified": "2024-12-29T09:40:04"
+    },
+    {
+      "sourceId": 3617,
+      "title": "Lavras – Rampa de Lavras – MG",
+      "slug": "lavras-rampa-de-lavras-mg",
+      "url": "https://guia4ventos.com.br/lavras-rampa-de-lavras-mg/",
+      "modified": "2024-12-29T09:40:10"
+    },
+    {
+      "sourceId": 3629,
+      "title": "Extrema – Rampa do Pico dos Cabritos – MG",
+      "slug": "extrema-rampa-do-pico-dos-cabritos-mg",
+      "url": "https://guia4ventos.com.br/extrema-rampa-do-pico-dos-cabritos-mg/",
+      "modified": "2024-12-29T09:39:57"
+    },
+    {
+      "sourceId": 3666,
+      "title": "Santa Rita de Ibitipoca – Água Santa – Moreiras – MG",
+      "slug": "santa-rita-de-ibitipoca-agua-santa-moreiras-mg",
+      "url": "https://guia4ventos.com.br/santa-rita-de-ibitipoca-agua-santa-moreiras-mg/",
+      "modified": "2024-12-29T09:39:52"
+    },
+    {
+      "sourceId": 3667,
+      "title": "Mantena – Rampa Corujinha – MG",
+      "slug": "mantena-rampa-corujinha-mg",
+      "url": "https://guia4ventos.com.br/mantena-rampa-corujinha-mg/",
+      "modified": "2024-12-29T09:39:46"
+    },
+    {
+      "sourceId": 3668,
+      "title": "Bicas – Rampa de Machados – MG",
+      "slug": "bicas-rampa-de-machados-mg",
+      "url": "https://guia4ventos.com.br/bicas-rampa-de-machados-mg/",
+      "modified": "2024-12-29T09:39:40"
+    },
+    {
+      "sourceId": 3669,
+      "title": "Boa Esperança – Rampa do Alvinho – MG",
+      "slug": "boa-esperanca-rampa-do-alvinho-mg",
+      "url": "https://guia4ventos.com.br/boa-esperanca-rampa-do-alvinho-mg/",
+      "modified": "2024-12-29T09:39:34"
+    },
+    {
+      "sourceId": 3670,
+      "title": "Caparaó – Rampa do Portal da Lua – MG",
+      "slug": "caparao-rampa-do-portal-da-lua-mg",
+      "url": "https://guia4ventos.com.br/caparao-rampa-do-portal-da-lua-mg/",
+      "modified": "2025-05-11T13:56:36"
+    },
+    {
+      "sourceId": 3671,
+      "title": "Alto Caparaó – Rampa de Monte Castelo – MG",
+      "slug": "alto-caparao-rampa-de-monte-castelo-mg",
+      "url": "https://guia4ventos.com.br/alto-caparao-rampa-de-monte-castelo-mg/",
+      "modified": "2025-05-11T15:09:52"
+    },
+    {
+      "sourceId": 3672,
+      "title": "Bocaina de Minas – Rampa do Mirante – MG",
+      "slug": "bocaina-de-minas-rampa-do-mirante-mg",
+      "url": "https://guia4ventos.com.br/bocaina-de-minas-rampa-do-mirante-mg/",
+      "modified": "2024-12-29T09:39:17"
+    },
+    {
+      "sourceId": 3752,
+      "title": "Paraisópolis – Rampa de Machadão – MG",
+      "slug": "paraisopolis-rampa-de-machadao-mg",
+      "url": "https://guia4ventos.com.br/paraisopolis-rampa-de-machadao-mg/",
+      "modified": "2024-12-29T09:39:07"
+    },
+    {
+      "sourceId": 3758,
+      "title": "Inhapim – Rampa Dona Quinquinha – MG",
+      "slug": "inhapim-rampa-dona-quinquinha-mg",
+      "url": "https://guia4ventos.com.br/inhapim-rampa-dona-quinquinha-mg/",
+      "modified": "2024-12-29T09:39:03"
+    },
+    {
+      "sourceId": 3759,
+      "title": "Lambari – Morro do Selado – MG",
+      "slug": "lambari-morro-do-selado-mg",
+      "url": "https://guia4ventos.com.br/lambari-morro-do-selado-mg/",
+      "modified": "2024-12-29T09:38:55"
+    },
+    {
+      "sourceId": 3765,
+      "title": "Montes Claros – Rampa Rico Brito – Senharó – MG",
+      "slug": "montes-claros-rampa-rico-brito-senharo-mg-2",
+      "url": "https://guia4ventos.com.br/montes-claros-rampa-rico-brito-senharo-mg-2/",
+      "modified": "2025-09-10T16:01:05"
+    },
+    {
+      "sourceId": 3766,
+      "title": "Itamonte – Rampa do Cipó – MG",
+      "slug": "itamonte-rampa-do-cipo-mg",
+      "url": "https://guia4ventos.com.br/itamonte-rampa-do-cipo-mg/",
+      "modified": "2024-12-29T09:37:46"
+    },
+    {
+      "sourceId": 3767,
+      "title": "Santa Bárbara do Tugúrio – Rampa Vale do Japão – MG",
+      "slug": "santa-barbara-do-tugurio-rampa-vale-do-japao-mg",
+      "url": "https://guia4ventos.com.br/santa-barbara-do-tugurio-rampa-vale-do-japao-mg/",
+      "modified": "2024-12-29T09:37:40"
+    },
+    {
+      "sourceId": 3768,
+      "title": "Pompéu – Serra do Mucambo – MG",
+      "slug": "pompeu-serra-do-mucambo-mg",
+      "url": "https://guia4ventos.com.br/pompeu-serra-do-mucambo-mg/",
+      "modified": "2024-12-29T09:37:34"
+    },
+    {
+      "sourceId": 3769,
+      "title": "Albertina – Rampa de Albertina – MG",
+      "slug": "albertina-rampa-de-albertina-mg",
+      "url": "https://guia4ventos.com.br/albertina-rampa-de-albertina-mg/",
+      "modified": "2024-12-29T09:37:29"
+    },
+    {
+      "sourceId": 3801,
+      "title": "Patrocínio – Rampa do Cristo – MG",
+      "slug": "patrocinio-rampa-do-cristo-mg",
+      "url": "https://guia4ventos.com.br/patrocinio-rampa-do-cristo-mg/",
+      "modified": "2024-12-29T09:37:23"
+    },
+    {
+      "sourceId": 3802,
+      "title": "São João Del Rei – Rampa do Vitinho – MG",
+      "slug": "sao-joao-del-rei-rampa-do-vitinho-mg",
+      "url": "https://guia4ventos.com.br/sao-joao-del-rei-rampa-do-vitinho-mg/",
+      "modified": "2024-12-29T09:37:16"
+    },
+    {
+      "sourceId": 3803,
+      "title": "Caputira – Rampa do Fié – MG",
+      "slug": "caputira-rampa-do-fie-mg",
+      "url": "https://guia4ventos.com.br/caputira-rampa-do-fie-mg/",
+      "modified": "2024-12-29T09:37:10"
+    },
+    {
+      "sourceId": 3804,
+      "title": "São João da Mata – Rampa do Container – MG",
+      "slug": "sao-joao-da-mata-rampa-do-container-mg",
+      "url": "https://guia4ventos.com.br/sao-joao-da-mata-rampa-do-container-mg/",
+      "modified": "2024-12-29T09:33:31"
+    },
+    {
+      "sourceId": 3805,
+      "title": "São João da Mata – Rampa do Pico da Divisa – MG",
+      "slug": "sao-joao-da-mata-rampa-do-pico-da-divisa-mg",
+      "url": "https://guia4ventos.com.br/sao-joao-da-mata-rampa-do-pico-da-divisa-mg/",
+      "modified": "2024-12-29T09:37:02"
+    },
+    {
+      "sourceId": 3806,
+      "title": "Santa Bárbara do Tugúrio – Rampa Escada da Penitência – MG",
+      "slug": "rampa-escada-da-penitencia-mg",
+      "url": "https://guia4ventos.com.br/rampa-escada-da-penitencia-mg/",
+      "modified": "2024-12-29T09:36:56"
+    },
+    {
+      "sourceId": 3807,
+      "title": "Várzea da Palma – Rampa do Carmo – MG",
+      "slug": "varzea-da-palma-rampa-do-carmo-mg",
+      "url": "https://guia4ventos.com.br/varzea-da-palma-rampa-do-carmo-mg/",
+      "modified": "2024-12-29T09:36:08"
+    },
+    {
+      "sourceId": 3808,
+      "title": "Santa Bárbara do Tugúrio – Rampa do Tinguá – MG",
+      "slug": "santa-barbara-do-tugurio-rampa-do-tingua-mg",
+      "url": "https://guia4ventos.com.br/santa-barbara-do-tugurio-rampa-do-tingua-mg/",
+      "modified": "2024-12-29T09:36:00"
+    },
+    {
+      "sourceId": 3809,
+      "title": "Passa Quatro – Pedra da Mina – MG",
+      "slug": "passa-quatro-pedra-da-mina-mg",
+      "url": "https://guia4ventos.com.br/passa-quatro-pedra-da-mina-mg/",
+      "modified": "2024-12-29T09:35:43"
+    },
+    {
+      "sourceId": 3864,
+      "title": "Carmo da Mata – Rampa dos Periquitos – MG",
+      "slug": "carmo-da-mata-rampa-dos-periquitos-mg",
+      "url": "https://guia4ventos.com.br/carmo-da-mata-rampa-dos-periquitos-mg/",
+      "modified": "2024-12-29T09:35:35"
+    },
+    {
+      "sourceId": 3865,
+      "title": "Pequi – Serra do Peixe – Rampa do Ponto Chique – MG",
+      "slug": "pequi-serra-do-peixe-rampa-do-ponto-chic-mg",
+      "url": "https://guia4ventos.com.br/pequi-serra-do-peixe-rampa-do-ponto-chic-mg/",
+      "modified": "2024-12-29T09:35:19"
+    },
+    {
+      "sourceId": 3866,
+      "title": "Conselheiro Pena – Rampa da Bela – MG",
+      "slug": "conselheiro-pena-rampa-da-bela-mg",
+      "url": "https://guia4ventos.com.br/conselheiro-pena-rampa-da-bela-mg/",
+      "modified": "2024-12-29T09:35:13"
+    },
+    {
+      "sourceId": 3867,
+      "title": "Alagoa – Rampa do Condado – MG",
+      "slug": "alagoa-rampa-do-condado-mg",
+      "url": "https://guia4ventos.com.br/alagoa-rampa-do-condado-mg/",
+      "modified": "2024-12-29T09:35:08"
+    },
+    {
+      "sourceId": 3868,
+      "title": "Pico do Gavião – Andradas MG – Águas da Prata SP",
+      "slug": "rampa-pico-do-gaviao",
+      "url": "https://guia4ventos.com.br/rampa-pico-do-gaviao/",
+      "modified": "2024-12-29T09:35:00"
+    },
+    {
+      "sourceId": 3869,
+      "title": "Araxá – Rampa Horizonte Perdido – MG",
+      "slug": "araxa-rampa-horizonte-perdido-mg",
+      "url": "https://guia4ventos.com.br/araxa-rampa-horizonte-perdido-mg/",
+      "modified": "2024-12-29T09:34:55"
+    },
+    {
+      "sourceId": 3870,
+      "title": "Brasópolis – Rampa do Mirante Vó Cotinha – MG",
+      "slug": "brasopolis-rampa-do-mirante-vo-cotinha-mg",
+      "url": "https://guia4ventos.com.br/brasopolis-rampa-do-mirante-vo-cotinha-mg/",
+      "modified": "2024-12-29T09:34:49"
+    },
+    {
+      "sourceId": 3871,
+      "title": "Cambuquira – Rampa do Piripau – MG",
+      "slug": "cambuquira-rampa-do-piripau-mg",
+      "url": "https://guia4ventos.com.br/cambuquira-rampa-do-piripau-mg/",
+      "modified": "2024-12-29T09:34:07"
+    },
+    {
+      "sourceId": 3872,
+      "title": "Caratinga – Rampa da Pedra de Itaúna – MG",
+      "slug": "caratinga-rampa-da-pedra-de-itauna-mg",
+      "url": "https://guia4ventos.com.br/caratinga-rampa-da-pedra-de-itauna-mg/",
+      "modified": "2024-12-29T09:34:00"
+    },
+    {
+      "sourceId": 3873,
+      "title": "Carmo do Rio Claro – Rampa da Serra das Tormentas – MG",
+      "slug": "carmo-do-rio-claro-rampa-da-serra-das-tormentas-mg",
+      "url": "https://guia4ventos.com.br/carmo-do-rio-claro-rampa-da-serra-das-tormentas-mg/",
+      "modified": "2024-12-29T09:33:51"
+    },
+    {
+      "sourceId": 3874,
+      "title": "Carrancas – Rampa de Carrancas – MG",
+      "slug": "carrancas-rampa-de-carrancas-mg",
+      "url": "https://guia4ventos.com.br/carrancas-rampa-de-carrancas-mg/",
+      "modified": "2024-12-29T09:33:43"
+    },
+    {
+      "sourceId": 3929,
+      "title": "Congonhal – Rampa de São Domingos – MG",
+      "slug": "congonhal-rampa-de-sao-domingos-mg",
+      "url": "https://guia4ventos.com.br/congonhal-rampa-de-sao-domingos-mg/",
+      "modified": "2024-12-29T09:33:38"
+    },
+    {
+      "sourceId": 3959,
+      "title": "Santo Antônio da Alegria – Ilha do Ar – Rampa Serra da Lajinha – SP",
+      "slug": "santo-antonio-da-alegria-ilha-do-ar-rampa-serra-da-lajinha-sp",
+      "url": "https://guia4ventos.com.br/santo-antonio-da-alegria-ilha-do-ar-rampa-serra-da-lajinha-sp/",
+      "modified": "2024-12-29T10:39:44"
+    },
+    {
+      "sourceId": 3960,
+      "title": "São Pedro – Rampa de São Pedro – SP",
+      "slug": "sao-pedro-rampa-de-sao-pedro-sp",
+      "url": "https://guia4ventos.com.br/sao-pedro-rampa-de-sao-pedro-sp/",
+      "modified": "2025-03-25T10:17:18"
+    },
+    {
+      "sourceId": 3962,
+      "title": "Socorro – Rampa no Pico da Cascavel – SP",
+      "slug": "socorro-rampa-no-pico-da-cascavel-sp",
+      "url": "https://guia4ventos.com.br/socorro-rampa-no-pico-da-cascavel-sp/",
+      "modified": "2024-12-29T10:39:35"
+    },
+    {
+      "sourceId": 3963,
+      "title": "São José do Barreiro – Rampa da Estação Bocaina – SP",
+      "slug": "sao-jose-do-barreiro-rampa-da-estacao-bocaina-sp",
+      "url": "https://guia4ventos.com.br/sao-jose-do-barreiro-rampa-da-estacao-bocaina-sp/",
+      "modified": "2024-12-29T10:39:29"
+    },
+    {
+      "sourceId": 3964,
+      "title": "Guarujá – Praia da Enseada – Rampa do Morro do Maluf – SP",
+      "slug": "guaruja-praia-da-enseada-rampa-do-morro-do-maluf-sp",
+      "url": "https://guia4ventos.com.br/guaruja-praia-da-enseada-rampa-do-morro-do-maluf-sp/",
+      "modified": "2024-12-29T10:39:24"
+    },
+    {
+      "sourceId": 3965,
+      "title": "Torrinha – Rampa de Torrinha – SP",
+      "slug": "torrinha-rampa-de-torrinha-sp",
+      "url": "https://guia4ventos.com.br/torrinha-rampa-de-torrinha-sp/",
+      "modified": "2024-12-25T10:18:43"
+    },
+    {
+      "sourceId": 3966,
+      "title": "Mogi das Cruzes – Rampa no Pico do Urubu – SP",
+      "slug": "mogi-das-cruzes-rampa-no-pico-do-urubu-sp",
+      "url": "https://guia4ventos.com.br/mogi-das-cruzes-rampa-no-pico-do-urubu-sp/",
+      "modified": "2024-12-29T10:39:19"
+    },
+    {
+      "sourceId": 3967,
+      "title": "Cássia dos Coqueiros – Rampa da Anteninha – SP",
+      "slug": "rampa-da-anteninha-sp",
+      "url": "https://guia4ventos.com.br/rampa-da-anteninha-sp/",
+      "modified": "2025-02-08T15:33:24"
+    },
+    {
+      "sourceId": 3968,
+      "title": "Santa Rita do Passa Quatro – Rampa do Ciroca – SP",
+      "slug": "santa-rita-do-passa-quatro-rampa-do-ciroca-sp",
+      "url": "https://guia4ventos.com.br/santa-rita-do-passa-quatro-rampa-do-ciroca-sp/",
+      "modified": "2024-12-29T10:39:06"
+    },
+    {
+      "sourceId": 3969,
+      "title": "Taquaritinga – Rampas na Serra do Jaboticabal – SP",
+      "slug": "taquaritinga-rampas-na-serra-do-jaboticabal-sp",
+      "url": "https://guia4ventos.com.br/taquaritinga-rampas-na-serra-do-jaboticabal-sp/",
+      "modified": "2024-12-29T10:38:06"
+    },
+    {
+      "sourceId": 3970,
+      "title": "Pirapora do Bom Jesus – Morro do Capuava – SP",
+      "slug": "rampa-do-morro-do-capuava-sp",
+      "url": "https://guia4ventos.com.br/rampa-do-morro-do-capuava-sp/",
+      "modified": "2024-12-29T10:38:01"
+    },
+    {
+      "sourceId": 3971,
+      "title": "Águas de Lindóia – Rampa no Morro Pelado – SP",
+      "slug": "aguas-de-lindoia-rampa-no-morro-pelado-sp",
+      "url": "https://guia4ventos.com.br/aguas-de-lindoia-rampa-no-morro-pelado-sp/",
+      "modified": "2024-12-29T10:37:55"
+    },
+    {
+      "sourceId": 3972,
+      "title": "Fartura – Rampa no Morro do Mirante – SP",
+      "slug": "fartura-rampa-no-morro-do-mirante-sp",
+      "url": "https://guia4ventos.com.br/fartura-rampa-no-morro-do-mirante-sp/",
+      "modified": "2024-12-29T10:37:49"
+    },
+    {
+      "sourceId": 3973,
+      "title": "Pedra Bela – Rampa Arara dos Binos – SP",
+      "slug": "pedra-bela-rampa-arara-dos-binos-sp",
+      "url": "https://guia4ventos.com.br/pedra-bela-rampa-arara-dos-binos-sp/",
+      "modified": "2024-12-29T10:37:42"
+    },
+    {
+      "sourceId": 4051,
+      "title": "Botucatu – Rampa da Indiana – SP",
+      "slug": "botucatu-rampa-da-indiana-sp",
+      "url": "https://guia4ventos.com.br/botucatu-rampa-da-indiana-sp/",
+      "modified": "2025-02-08T13:23:35"
+    },
+    {
+      "sourceId": 4052,
+      "title": "Mineiros do Tietê – Rampa de Mineiros do Tietê – SP",
+      "slug": "mineiros-do-tiete-rampa-de-mineiros-do-tiete-sp",
+      "url": "https://guia4ventos.com.br/mineiros-do-tiete-rampa-de-mineiros-do-tiete-sp/",
+      "modified": "2024-12-29T10:37:29"
+    },
+    {
+      "sourceId": 4053,
+      "title": "Araçariguama – Rampa do Morro do Mombaça – SP",
+      "slug": "aracariguama-rampa-do-morro-do-mombaca-sp",
+      "url": "https://guia4ventos.com.br/aracariguama-rampa-do-morro-do-mombaca-sp/",
+      "modified": "2024-12-25T10:47:20"
+    },
+    {
+      "sourceId": 4054,
+      "title": "Iracemápolis – Rampa Paraíso de Iracemápolis – SP",
+      "slug": "iracemapolis-rampa-paraiso-de-iracemapolis-sp",
+      "url": "https://guia4ventos.com.br/iracemapolis-rampa-paraiso-de-iracemapolis-sp/",
+      "modified": "2024-12-29T10:37:19"
+    },
+    {
+      "sourceId": 4055,
+      "title": "Corumbataí – Rampa do Vale do Ar – SP",
+      "slug": "corumbatai-rampa-do-vale-do-ar-sp",
+      "url": "https://guia4ventos.com.br/corumbatai-rampa-do-vale-do-ar-sp/",
+      "modified": "2024-12-29T10:37:13"
+    },
+    {
+      "sourceId": 4056,
+      "title": "São Sebastião – Rampa de Boiçucanga – SP",
+      "slug": "sao-sebastiao-rampa-de-boicucanga-sp",
+      "url": "https://guia4ventos.com.br/sao-sebastiao-rampa-de-boicucanga-sp/",
+      "modified": "2024-12-29T10:37:08"
+    },
+    {
+      "sourceId": 4057,
+      "title": "Botucatu – Rampa do Cuesta – SP",
+      "slug": "botucatu-rampa-do-cuesta-sp",
+      "url": "https://guia4ventos.com.br/botucatu-rampa-do-cuesta-sp/",
+      "modified": "2025-02-08T13:43:32"
+    },
+    {
+      "sourceId": 4058,
+      "title": "Piquete – Pico do Marins – SP",
+      "slug": "piquete-pico-do-marins-sp",
+      "url": "https://guia4ventos.com.br/piquete-pico-do-marins-sp/",
+      "modified": "2024-12-29T10:36:55"
+    },
+    {
+      "sourceId": 4059,
+      "title": "Areias – Pico do Tira Chapéu – SP",
+      "slug": "areias-pico-do-tira-chapeu-sp",
+      "url": "https://guia4ventos.com.br/areias-pico-do-tira-chapeu-sp/",
+      "modified": "2025-02-08T11:10:25"
+    },
+    {
+      "sourceId": 4060,
+      "title": "Silveiras – Rampa do Pietro – SP",
+      "slug": "silveiras-rampa-do-pietro-sp",
+      "url": "https://guia4ventos.com.br/silveiras-rampa-do-pietro-sp/",
+      "modified": "2024-12-29T10:36:48"
+    },
+    {
+      "sourceId": 4061,
+      "title": "Miracatu – Pico do Bodão – SP",
+      "slug": "miracatu-pico-do-bodao-sp",
+      "url": "https://guia4ventos.com.br/miracatu-pico-do-bodao-sp/",
+      "modified": "2025-02-08T12:27:01"
+    },
+    {
+      "sourceId": 4062,
+      "title": "Ubatuba – Rampa de Ubatuba – SP",
+      "slug": "ubatuba-rampa-de-ubatuba-sp",
+      "url": "https://guia4ventos.com.br/ubatuba-rampa-de-ubatuba-sp/",
+      "modified": "2024-12-29T10:36:42"
+    },
+    {
+      "sourceId": 4063,
+      "title": "Limeira – Morro Azul – SP",
+      "slug": "limeira-morro-azul-sp",
+      "url": "https://guia4ventos.com.br/limeira-morro-azul-sp/",
+      "modified": "2024-12-29T10:36:37"
+    },
+    {
+      "sourceId": 4064,
+      "title": "Serra Negra – Alto da Serra – SP",
+      "slug": "serra-negra-alto-da-serra-sp",
+      "url": "https://guia4ventos.com.br/serra-negra-alto-da-serra-sp/",
+      "modified": "2025-02-26T08:47:27"
+    },
+    {
+      "sourceId": 4139,
+      "title": "Caraguatatuba – Rampa do Morro de Santo Antônio – SP",
+      "slug": "caraguatatuba-rampa-do-morro-de-santo-antonio-sp",
+      "url": "https://guia4ventos.com.br/caraguatatuba-rampa-do-morro-de-santo-antonio-sp/",
+      "modified": "2025-02-08T13:58:43"
+    },
+    {
+      "sourceId": 4141,
+      "title": "Santo Antônio do Pinhal – Rampa do Pico Agudo – SP",
+      "slug": "santo-antonio-do-pinhal-rampa-do-pico-agudo-sp",
+      "url": "https://guia4ventos.com.br/santo-antonio-do-pinhal-rampa-do-pico-agudo-sp/",
+      "modified": "2025-02-08T12:31:02"
+    },
+    {
+      "sourceId": 4196,
+      "title": "Nova Friburgo – Rampa do Pico do Caledônia – RJ",
+      "slug": "nova-friburgo-rampa-do-pico-do-caledonia-rj",
+      "url": "https://guia4ventos.com.br/nova-friburgo-rampa-do-pico-do-caledonia-rj/",
+      "modified": "2024-12-29T10:14:03"
+    },
+    {
+      "sourceId": 4197,
+      "title": "Rio de Janeiro – Rampa da Serra do Mendanha – Campo Grande – RJ",
+      "slug": "rio-de-janeiro-rampa-da-serra-do-mendanha-campo-grande-rj",
+      "url": "https://guia4ventos.com.br/rio-de-janeiro-rampa-da-serra-do-mendanha-campo-grande-rj/",
+      "modified": "2024-12-29T10:13:58"
+    },
+    {
+      "sourceId": 4199,
+      "title": "Miguel Pereira – Rampa de Miguel Pereira – RJ",
+      "slug": "miguel-pereira-rampa-de-miguel-pereira-rj",
+      "url": "https://guia4ventos.com.br/miguel-pereira-rampa-de-miguel-pereira-rj/",
+      "modified": "2024-12-29T10:13:54"
+    },
+    {
+      "sourceId": 4200,
+      "title": "Nova Iguaçu – Rampa da Serra do Vulcão – RJ",
+      "slug": "nova-iguacu-rampa-da-serra-do-vulcao-rj",
+      "url": "https://guia4ventos.com.br/nova-iguacu-rampa-da-serra-do-vulcao-rj/",
+      "modified": "2024-12-29T10:13:49"
+    },
+    {
+      "sourceId": 4201,
+      "title": "Petrópolis – Rampa do Parque São Vicente – RJ",
+      "slug": "petropolis-rampa-do-parque-sao-vicente-rj",
+      "url": "https://guia4ventos.com.br/petropolis-rampa-do-parque-sao-vicente-rj/",
+      "modified": "2024-12-29T10:13:45"
+    },
+    {
+      "sourceId": 4202,
+      "title": "Petrópolis – Rampa da Siméria – RJ",
+      "slug": "petropolis-rampa-da-simeria-rj",
+      "url": "https://guia4ventos.com.br/petropolis-rampa-da-simeria-rj/",
+      "modified": "2024-12-29T10:13:39"
+    },
+    {
+      "sourceId": 4203,
+      "title": "Porciúncula – Rampa do Morro da Antena – RJ",
+      "slug": "porciuncula-rampa-do-morro-da-antena-rj",
+      "url": "https://guia4ventos.com.br/porciuncula-rampa-do-morro-da-antena-rj/",
+      "modified": "2024-12-29T10:13:32"
+    },
+    {
+      "sourceId": 4204,
+      "title": "Rio Bonito – Rampa da Serra do Sambê – RJ",
+      "slug": "rio-bonito-rampa-da-serra-do-sambe",
+      "url": "https://guia4ventos.com.br/rio-bonito-rampa-da-serra-do-sambe/",
+      "modified": "2024-12-29T10:13:26"
+    },
+    {
+      "sourceId": 4249,
+      "title": "Valença – Rampa do Morro da Torre – RJ",
+      "slug": "valenca-rampa-do-morro-da-torre-rj",
+      "url": "https://guia4ventos.com.br/valenca-rampa-do-morro-da-torre-rj/",
+      "modified": "2024-12-29T10:13:21"
+    },
+    {
+      "sourceId": 4250,
+      "title": "Itaguaí – Rampa na Serra do Matoso – RJ",
+      "slug": "itaguai-rampa-na-serra-do-matoso-rj",
+      "url": "https://guia4ventos.com.br/itaguai-rampa-na-serra-do-matoso-rj/",
+      "modified": "2024-12-29T10:13:16"
+    },
+    {
+      "sourceId": 4251,
+      "title": "Japeri – Rampa do Pico da Coragem – RJ",
+      "slug": "japeri-rampa-do-pico-da-coragem-rj",
+      "url": "https://guia4ventos.com.br/japeri-rampa-do-pico-da-coragem-rj/",
+      "modified": "2024-12-29T10:13:11"
+    },
+    {
+      "sourceId": 4252,
+      "title": "Rio Bonito – Rampa da Via Lagos – RJ",
+      "slug": "rio-bonito-rampa-da-via-lagos-rj",
+      "url": "https://guia4ventos.com.br/rio-bonito-rampa-da-via-lagos-rj/",
+      "modified": "2024-12-25T10:09:44"
+    },
+    {
+      "sourceId": 4253,
+      "title": "Teresópolis – Rampa da Granja Mafra – RJ",
+      "slug": "teresopolis-rampa-da-granja-mafra-rj",
+      "url": "https://guia4ventos.com.br/teresopolis-rampa-da-granja-mafra-rj/",
+      "modified": "2024-12-29T10:13:07"
+    },
+    {
+      "sourceId": 4254,
+      "title": "Paraty – Rampa da Pedra da Macela – RJ",
+      "slug": "paraty-rampa-da-pedra-da-macela-rj",
+      "url": "https://guia4ventos.com.br/paraty-rampa-da-pedra-da-macela-rj/",
+      "modified": "2024-12-29T10:13:00"
+    },
+    {
+      "sourceId": 4256,
+      "title": "Angra dos Reis – Rampa de Mombaça – RJ",
+      "slug": "angra-dos-reis-rampa-de-mombaca-rj",
+      "url": "https://guia4ventos.com.br/angra-dos-reis-rampa-de-mombaca-rj/",
+      "modified": "2024-12-29T10:12:00"
+    },
+    {
+      "sourceId": 4257,
+      "title": "Angra dos Reis – Rampa de Monsuaba – RJ",
+      "slug": "angra-dos-reis-rampa-de-monsuaba-rj",
+      "url": "https://guia4ventos.com.br/angra-dos-reis-rampa-de-monsuaba-rj/",
+      "modified": "2024-12-29T10:11:55"
+    },
+    {
+      "sourceId": 4258,
+      "title": "Petrópolis – Rampa do Alto Morin – RJ",
+      "slug": "petropolis-rampa-do-alto-morin-rj",
+      "url": "https://guia4ventos.com.br/petropolis-rampa-do-alto-morin-rj/",
+      "modified": "2025-06-24T21:11:45"
+    },
+    {
+      "sourceId": 4311,
+      "title": "Duas Barras – Rampa Mutuca – RJ",
+      "slug": "duas-barras-rampa-mutuca-rj",
+      "url": "https://guia4ventos.com.br/duas-barras-rampa-mutuca-rj/",
+      "modified": "2024-12-24T14:52:03"
+    },
+    {
+      "sourceId": 4312,
+      "title": "Paraty – Rampa do Morro do Jacu – RJ",
+      "slug": "paraty-rampa-do-morro-do-jacu-rj",
+      "url": "https://guia4ventos.com.br/paraty-rampa-do-morro-do-jacu-rj/",
+      "modified": "2024-12-29T10:11:45"
+    },
+    {
+      "sourceId": 4313,
+      "title": "Varre-Sai – Rampa de Varre-Sai – RJ",
+      "slug": "varre-sai-rampa-de-varre-sai-rj",
+      "url": "https://guia4ventos.com.br/varre-sai-rampa-de-varre-sai-rj/",
+      "modified": "2024-12-29T10:11:40"
+    },
+    {
+      "sourceId": 4314,
+      "title": "Conceição de Macabu – Rampa da Carrapeta – RJ",
+      "slug": "conceicao-de-macabu-rampa-da-carrapeta-rj",
+      "url": "https://guia4ventos.com.br/conceicao-de-macabu-rampa-da-carrapeta-rj/",
+      "modified": "2024-12-29T10:11:34"
+    },
+    {
+      "sourceId": 4315,
+      "title": "Mangaratiba – Rampa da Serra do Piloto – RJ",
+      "slug": "mangaratiba-rampa-da-serra-do-piloto-rj",
+      "url": "https://guia4ventos.com.br/mangaratiba-rampa-da-serra-do-piloto-rj/",
+      "modified": "2024-12-29T10:11:29"
+    },
+    {
+      "sourceId": 4316,
+      "title": "Visconde de Mauá – Rampa da Pedra Selada – RJ",
+      "slug": "visconde-de-maua-rampa-da-pedra-selada-rj",
+      "url": "https://guia4ventos.com.br/visconde-de-maua-rampa-da-pedra-selada-rj/",
+      "modified": "2024-12-29T10:11:24"
+    },
+    {
+      "sourceId": 4317,
+      "title": "Cantagalo – Rampa do São José – RJ",
+      "slug": "cantagalo-rampa-do-sao-jose-rj",
+      "url": "https://guia4ventos.com.br/cantagalo-rampa-do-sao-jose-rj/",
+      "modified": "2024-12-29T10:11:19"
+    },
+    {
+      "sourceId": 4318,
+      "title": "Paraty – Rampa da Boa Vista – RJ",
+      "slug": "paraty-rampa-da-boa-vista-rj",
+      "url": "https://guia4ventos.com.br/paraty-rampa-da-boa-vista-rj/",
+      "modified": "2024-12-29T10:11:14"
+    },
+    {
+      "sourceId": 4319,
+      "title": "Rio das Ostras – Rampa de Cantagalinho – RJ",
+      "slug": "rio-das-ostras-rampa-de-cantagalinho-rj",
+      "url": "https://guia4ventos.com.br/rio-das-ostras-rampa-de-cantagalinho-rj/",
+      "modified": "2024-12-29T10:11:10"
+    },
+    {
+      "sourceId": 4320,
+      "title": "Macaé – Rampa de Castelinho – Bicuda Pequena – RJ",
+      "slug": "macae-rampa-de-castelinho-bicuda-pequena-rj",
+      "url": "https://guia4ventos.com.br/macae-rampa-de-castelinho-bicuda-pequena-rj/",
+      "modified": "2024-12-29T10:11:05"
+    },
+    {
+      "sourceId": 4321,
+      "title": "Três Rios – Rampa no Morro das Antenas – RJ",
+      "slug": "tres-rios-rampa-no-morro-das-antenas-rj",
+      "url": "https://guia4ventos.com.br/tres-rios-rampa-no-morro-das-antenas-rj/",
+      "modified": "2024-12-29T10:11:00"
+    },
+    {
+      "sourceId": 4322,
+      "title": "Cachoeiras de Macacu – Rampa de Papucaia – RJ",
+      "slug": "cachoeiras-de-macacu-rampa-de-papucaia-rj",
+      "url": "https://guia4ventos.com.br/cachoeiras-de-macacu-rampa-de-papucaia-rj/",
+      "modified": "2024-12-29T10:10:43"
+    },
+    {
+      "sourceId": 4323,
+      "title": "Angra dos Reis – Abraão – Ilha Grande – Rampa Maurício Klabin – RJ",
+      "slug": "angra-dos-reis-abraao-ilha-grande-rampa-mauricio-klabin-rj",
+      "url": "https://guia4ventos.com.br/angra-dos-reis-abraao-ilha-grande-rampa-mauricio-klabin-rj/",
+      "modified": "2024-12-29T10:10:54"
+    },
+    {
+      "sourceId": 4324,
+      "title": "Miracema – Rampa da Serra da Ventania – RJ",
+      "slug": "miracema-rampa-da-serra-da-ventania-rj",
+      "url": "https://guia4ventos.com.br/miracema-rampa-da-serra-da-ventania-rj/",
+      "modified": "2024-12-29T10:10:49"
+    },
+    {
+      "sourceId": 4325,
+      "title": "Sumidouro – Rampa do Morro da Torre – RJ",
+      "slug": "sumidouro-rampa-do-morro-da-torre-rj",
+      "url": "https://guia4ventos.com.br/sumidouro-rampa-do-morro-da-torre-rj/",
+      "modified": "2024-12-29T10:10:38"
+    },
+    {
+      "sourceId": 4448,
+      "title": "Rio de Janeiro – Mesquita – Rampa da Paz – Chatuba – RJ",
+      "slug": "rio-de-janeiro-mesquita-rampa-da-paz-chatuba-rj",
+      "url": "https://guia4ventos.com.br/rio-de-janeiro-mesquita-rampa-da-paz-chatuba-rj/",
+      "modified": "2024-12-29T10:10:32"
+    },
+    {
+      "sourceId": 4452,
+      "title": "Duque de Caxias – Rampa do Jardim Amapá – RJ",
+      "slug": "duque-de-caxias-jardim-amapa-rj",
+      "url": "https://guia4ventos.com.br/duque-de-caxias-jardim-amapa-rj/",
+      "modified": "2026-01-28T15:04:53"
+    },
+    {
+      "sourceId": 4453,
+      "title": "Rio de Janeiro – Paciência – Rampa Rio Rural – RJ",
+      "slug": "rio-de-janeiro-paciencia-rampa-rio-rural-rj",
+      "url": "https://guia4ventos.com.br/rio-de-janeiro-paciencia-rampa-rio-rural-rj/",
+      "modified": "2024-12-29T10:09:25"
+    },
+    {
+      "sourceId": 4454,
+      "title": "Angra dos Reis – Rampa da Caixa D’Agua – RJ",
+      "slug": "angra-dos-reis-rampa-da-caixa-dagua-rj",
+      "url": "https://guia4ventos.com.br/angra-dos-reis-rampa-da-caixa-dagua-rj/",
+      "modified": "2024-12-29T10:09:20"
+    },
+    {
+      "sourceId": 4455,
+      "title": "Rio Claro – Rampa do Lima – RJ",
+      "slug": "rio-claro-rampa-do-lima-rj",
+      "url": "https://guia4ventos.com.br/rio-claro-rampa-do-lima-rj/",
+      "modified": "2024-12-29T10:09:15"
+    },
+    {
+      "sourceId": 4456,
+      "title": "Trajano de Morais – Rampa da Serra das Almas – RJ",
+      "slug": "trajano-de-morais-rampa-da-serra-das-almas-rj",
+      "url": "https://guia4ventos.com.br/trajano-de-morais-rampa-da-serra-das-almas-rj/",
+      "modified": "2024-12-29T10:09:11"
+    },
+    {
+      "sourceId": 4457,
+      "title": "Duque de Caxias – Rampa de Santa Cruz da Serra / Jaú Ramp – RJ",
+      "slug": "rampa-santa-cruz-da-serra-rj",
+      "url": "https://guia4ventos.com.br/rampa-santa-cruz-da-serra-rj/",
+      "modified": "2026-01-28T15:02:36"
+    },
+    {
+      "sourceId": 4458,
+      "title": "Nova Iguaçu – Geneciano – RJ",
+      "slug": "nova-iguacu-geneciano-rj",
+      "url": "https://guia4ventos.com.br/nova-iguacu-geneciano-rj/",
+      "modified": "2024-12-29T10:09:04"
+    },
+    {
+      "sourceId": 4459,
+      "title": "Nova Friburgo – Rampa do Mirante – RJ",
+      "slug": "nova-friburgo-rampa-do-mirante-rj",
+      "url": "https://guia4ventos.com.br/nova-friburgo-rampa-do-mirante-rj/",
+      "modified": "2025-12-28T13:55:15"
+    },
+    {
+      "sourceId": 4460,
+      "title": "Sumidouro – Rampa de Caramandu – RJ",
+      "slug": "sumidouro-rampa-de-caramandu-rj",
+      "url": "https://guia4ventos.com.br/sumidouro-rampa-de-caramandu-rj/",
+      "modified": "2024-12-29T10:08:13"
+    },
+    {
+      "sourceId": 4461,
+      "title": "Búzios – Tucuns – Rampa da Serra das Emerências – RJ",
+      "slug": "buzios-rampa-da-serra-das-emerencias-rj",
+      "url": "https://guia4ventos.com.br/buzios-rampa-da-serra-das-emerencias-rj/",
+      "modified": "2025-06-16T15:09:21"
+    },
+    {
+      "sourceId": 4462,
+      "title": "Itatiaia / Resende – Rampa do João Pedro – RJ",
+      "slug": "itatiaia-resende-rampa-do-joao-pedro-rj",
+      "url": "https://guia4ventos.com.br/itatiaia-resende-rampa-do-joao-pedro-rj/",
+      "modified": "2024-12-29T10:08:09"
+    },
+    {
+      "sourceId": 4463,
+      "title": "Cambucí – Rampa de Cambucí – RJ",
+      "slug": "cambuci-rampa-de-cambuci-rj",
+      "url": "https://guia4ventos.com.br/cambuci-rampa-de-cambuci-rj/",
+      "modified": "2024-12-29T10:08:42"
+    },
+    {
+      "sourceId": 4464,
+      "title": "Campos dos Goytacazes – Rampa do Morro do Itaóca – RJ",
+      "slug": "campos-dos-goytacazes-rampa-do-morro-do-itaoca-rj",
+      "url": "https://guia4ventos.com.br/campos-dos-goytacazes-rampa-do-morro-do-itaoca-rj/",
+      "modified": "2024-12-29T10:08:36"
+    },
+    {
+      "sourceId": 4465,
+      "title": "Mangaratiba – Conceição de Jacareí (Hotel Porto Real) – RJ",
+      "slug": "mangaratiba-conceicao-de-jacarei-rj",
+      "url": "https://guia4ventos.com.br/mangaratiba-conceicao-de-jacarei-rj/",
+      "modified": "2024-12-29T10:08:32"
+    },
+    {
+      "sourceId": 4466,
+      "title": "Engenheiro Paulo de Frontin – Rampa da Fazenda Boa Vista dos Leões – RJ",
+      "slug": "rampa-da-fazenda-boa-vista-dos-leoes-rj",
+      "url": "https://guia4ventos.com.br/rampa-da-fazenda-boa-vista-dos-leoes-rj/",
+      "modified": "2024-12-29T10:08:23"
+    },
+    {
+      "sourceId": 4467,
+      "title": "Nova Friburgo – Rampa da Pedra da Catarina – RJ",
+      "slug": "nova-friburgo-rampa-da-pedra-da-catarina-rj",
+      "url": "https://guia4ventos.com.br/nova-friburgo-rampa-da-pedra-da-catarina-rj/",
+      "modified": "2024-12-29T10:08:18"
+    },
+    {
+      "sourceId": 11761,
+      "title": "Jandaia – Rampa de Jandaia – GO",
+      "slug": "jandaia-rampa-de-jandaia-go",
+      "url": "https://guia4ventos.com.br/jandaia-rampa-de-jandaia-go/",
+      "modified": "2024-12-15T17:21:48"
+    },
+    {
+      "sourceId": 13016,
+      "title": "Taquaritinga do Norte – Rampa do Pepê – PE",
+      "slug": "taquaritinga-do-norte-rampa-do-pepe-pe",
+      "url": "https://guia4ventos.com.br/taquaritinga-do-norte-rampa-do-pepe-pe/",
+      "modified": "2024-12-21T15:06:43"
+    },
+    {
+      "sourceId": 13037,
+      "title": "Toritama / Taquaritinga do Norte – Mirante do Sol – PE",
+      "slug": "toritama-taquaritinga-do-norte-mirante-do-sol-pe",
+      "url": "https://guia4ventos.com.br/toritama-taquaritinga-do-norte-mirante-do-sol-pe/",
+      "modified": "2024-12-21T15:02:43"
+    },
+    {
+      "sourceId": 14082,
+      "title": "Serra da Raiz – Rampa do condomínio Mirante da Serra – PB",
+      "slug": "serra-da-raiz-rampa-do-condominio-mirante-da-serra-pb",
+      "url": "https://guia4ventos.com.br/serra-da-raiz-rampa-do-condominio-mirante-da-serra-pb/",
+      "modified": "2024-12-21T12:01:28"
+    },
+    {
+      "sourceId": 14787,
+      "title": "Natal – Rampa da Via Costeira – RN",
+      "slug": "natal-rampa-da-via-costeira-rn",
+      "url": "https://guia4ventos.com.br/natal-rampa-da-via-costeira-rn/",
+      "modified": "2024-12-21T15:18:34"
+    },
+    {
+      "sourceId": 15324,
+      "title": "Fundão – Rampa do Goiapaba-Açu – ES",
+      "slug": "fundao-rampa-do-goiapaba-acu-es",
+      "url": "https://guia4ventos.com.br/fundao-rampa-do-goiapaba-acu-es/",
+      "modified": "2024-12-21T11:15:20"
+    },
+    {
+      "sourceId": 15780,
+      "title": "Jaguari – Rampa de Jaguari – RS",
+      "slug": "rampa-de-jaguari-rs",
+      "url": "https://guia4ventos.com.br/rampa-de-jaguari-rs/",
+      "modified": "2025-01-13T20:24:33"
+    },
+    {
+      "sourceId": 15802,
+      "title": "Vitória da Conquista – Rampa João Gogó – Inhobim – BA",
+      "slug": "vitoria-da-conquista-rampa-joao-gogo-inhobim-ba",
+      "url": "https://guia4ventos.com.br/vitoria-da-conquista-rampa-joao-gogo-inhobim-ba/",
+      "modified": "2026-06-11T20:42:42"
+    },
+    {
+      "sourceId": 15822,
+      "title": "Santana do Ipanema – Serra da Camonga – AL",
+      "slug": "santana-do-ipanema-serra-da-camonga-al",
+      "url": "https://guia4ventos.com.br/santana-do-ipanema-serra-da-camonga-al/",
+      "modified": "2025-02-08T10:48:18"
+    },
+    {
+      "sourceId": 15861,
+      "title": "Rio Bonito – Rampa do Marcão – RJ",
+      "slug": "rio-bonito-rampa-do-marcao-rj",
+      "url": "https://guia4ventos.com.br/rio-bonito-rampa-do-marcao-rj/",
+      "modified": "2024-12-29T10:08:01"
+    },
+    {
+      "sourceId": 17904,
+      "title": "Água Branca – Rampa da Serra do Paraíso – AL",
+      "slug": "agua-branca-rampa-da-serra-do-paraiso-al",
+      "url": "https://guia4ventos.com.br/agua-branca-rampa-da-serra-do-paraiso-al/",
+      "modified": "2025-02-08T10:48:18"
+    },
+    {
+      "sourceId": 17924,
+      "title": "Maceió – Jequiá da Praia – AL",
+      "slug": "maceio-jequia-da-praia-al",
+      "url": "https://guia4ventos.com.br/maceio-jequia-da-praia-al/",
+      "modified": "2024-12-25T10:51:53"
+    },
+    {
+      "sourceId": 18145,
+      "title": "Paraty – Rampa do Mirante de Trindade – RJ",
+      "slug": "paraty-rampa-do-mirante-de-trindade",
+      "url": "https://guia4ventos.com.br/paraty-rampa-do-mirante-de-trindade/",
+      "modified": "2024-12-29T10:07:53"
+    },
+    {
+      "sourceId": 18883,
+      "title": "José Boiteux – Rampa Tatu – SC",
+      "slug": "jose-boiteux-rampa-tatu-sc",
+      "url": "https://guia4ventos.com.br/jose-boiteux-rampa-tatu-sc/",
+      "modified": "2024-12-21T20:05:53"
+    },
+    {
+      "sourceId": 19531,
+      "title": "Juiz de Fora – Rampa do Caeté – MG",
+      "slug": "juiz-de-fora-rampa-do-caete-mg",
+      "url": "https://guia4ventos.com.br/juiz-de-fora-rampa-do-caete-mg/",
+      "modified": "2024-12-29T09:33:26"
+    },
+    {
+      "sourceId": 25101,
+      "title": "São José do Vale do Rio Preto – Rampa da Glória – RJ",
+      "slug": "sao-jose-do-vale-do-rio-preto-rampa-da-gloria-rj",
+      "url": "https://guia4ventos.com.br/sao-jose-do-vale-do-rio-preto-rampa-da-gloria-rj/",
+      "modified": "2024-12-25T15:42:26"
+    },
+    {
+      "sourceId": 25192,
+      "title": "Sumidouro – Rampa da Fazenda Dona Mariana – RJ",
+      "slug": "sumidouro-rampa-da-fazenda-dona-mariana-rj",
+      "url": "https://guia4ventos.com.br/sumidouro-rampa-da-fazenda-dona-mariana-rj/",
+      "modified": "2024-12-25T15:40:53"
+    },
+    {
+      "sourceId": 30037,
+      "title": "Formosa – Rampa do Borges – GO",
+      "slug": "formosa-rampa-do-borges-go",
+      "url": "https://guia4ventos.com.br/formosa-rampa-do-borges-go/",
+      "modified": "2024-12-15T14:12:42"
+    },
+    {
+      "sourceId": 30893,
+      "title": "Petrolina – Rampa de Voo Livre de Petrolina – PE",
+      "slug": "petrolina-rampa-de-voo-livre-de-petrolina-pe",
+      "url": "https://guia4ventos.com.br/petrolina-rampa-de-voo-livre-de-petrolina-pe/",
+      "modified": "2024-12-25T11:20:52"
+    },
+    {
+      "sourceId": 30994,
+      "title": "Ouro Branco – Rampa Serra de Ouro Branco – MG",
+      "slug": "ouro-branco-rampa-serra-de-ouro-branco-mg",
+      "url": "https://guia4ventos.com.br/ouro-branco-rampa-serra-de-ouro-branco-mg/",
+      "modified": "2025-01-02T19:11:48"
+    },
+    {
+      "sourceId": 32646,
+      "title": "Patos de Minas – Lauren’s Ramp – MG",
+      "slug": "patos-de-minas-laurens-ramp-mg",
+      "url": "https://guia4ventos.com.br/patos-de-minas-laurens-ramp-mg/",
+      "modified": "2025-02-08T11:20:26"
+    },
+    {
+      "sourceId": 33094,
+      "title": "Rio de Janeiro – Rampa da Pedra Bonita São Conrado – RJ",
+      "slug": "rampa-da-pedra-bonita-sao-conrado-rj",
+      "url": "https://guia4ventos.com.br/rampa-da-pedra-bonita-sao-conrado-rj/",
+      "modified": "2025-03-12T21:51:51"
+    },
+    {
+      "sourceId": 38224,
+      "title": "Ribeira do Pombal – Rampa Jequiá do Sertão – BA",
+      "slug": "ribeira-do-pombal-rampa-jequia-do-sertao-ba",
+      "url": "https://guia4ventos.com.br/ribeira-do-pombal-rampa-jequia-do-sertao-ba/",
+      "modified": "2025-01-13T19:01:34"
+    },
+    {
+      "sourceId": 38265,
+      "title": "Ribeira do Pombal – Rampa Carro Virado – BA",
+      "slug": "ribeira-do-pombal-rampa-carro-virado-ba",
+      "url": "https://guia4ventos.com.br/ribeira-do-pombal-rampa-carro-virado-ba/",
+      "modified": "2025-01-13T18:57:43"
+    },
+    {
+      "sourceId": 39284,
+      "title": "Abaíra – Rampa Internacional da Chapada Diamantina – BA",
+      "slug": "abaira-rampa-da-chapada-diamantina-ba",
+      "url": "https://guia4ventos.com.br/abaira-rampa-da-chapada-diamantina-ba/",
+      "modified": "2025-02-07T12:50:42"
+    },
+    {
+      "sourceId": 39398,
+      "title": "Itaocara – Rampa Andorinha – RJ",
+      "slug": "itaocara-rampa-da-andorinha-rj",
+      "url": "https://guia4ventos.com.br/itaocara-rampa-da-andorinha-rj/",
+      "modified": "2025-02-25T17:47:03"
+    },
+    {
+      "sourceId": 39596,
+      "title": "Salesópolis – Rampa do Pinheirinho – SP",
+      "slug": "salesopolis-rampa-do-pinheirinho-sp",
+      "url": "https://guia4ventos.com.br/salesopolis-rampa-do-pinheirinho-sp/",
+      "modified": "2025-02-12T19:52:02"
+    },
+    {
+      "sourceId": 39735,
+      "title": "Salesópolis – Rampa Sul – SP",
+      "slug": "salesopolis-rampa-sul-sp",
+      "url": "https://guia4ventos.com.br/salesopolis-rampa-sul-sp/",
+      "modified": "2025-02-12T19:53:35"
+    },
+    {
+      "sourceId": 39918,
+      "title": "São Bento do Sapucaí – Rampa da Quinta dos Cogumelos – SP",
+      "slug": "sao-bento-do-sapucai-rampa-da-quinta-dos-cogumelos-sp",
+      "url": "https://guia4ventos.com.br/sao-bento-do-sapucai-rampa-da-quinta-dos-cogumelos-sp/",
+      "modified": "2025-02-23T17:20:07"
+    },
+    {
+      "sourceId": 40149,
+      "title": "Campo do Meio – Rampa do Frog – MG",
+      "slug": "campo-do-meio-rampa-do-frog-mg",
+      "url": "https://guia4ventos.com.br/campo-do-meio-rampa-do-frog-mg/",
+      "modified": "2025-03-07T21:58:10"
+    },
+    {
+      "sourceId": 43050,
+      "title": "Alto Jequitibá – Rampa dos Tavares – MG",
+      "slug": "alto-jequitiba-rampa-dos-tavares-mg",
+      "url": "https://guia4ventos.com.br/alto-jequitiba-rampa-dos-tavares-mg/",
+      "modified": "2025-06-11T19:27:34"
+    },
+    {
+      "sourceId": 47021,
+      "title": "Jacobina – Rampa do Felipe – BA",
+      "slug": "jacobina-rampa-do-felipe-ba",
+      "url": "https://guia4ventos.com.br/jacobina-rampa-do-felipe-ba/",
+      "modified": "2025-10-19T19:06:28"
+    },
+    {
+      "sourceId": 48744,
+      "title": "Madalena – Rampa de voo livre de Madalena – CE",
+      "slug": "madalena-rampa-de-voo-livre-de-madalena-ce",
+      "url": "https://guia4ventos.com.br/madalena-rampa-de-voo-livre-de-madalena-ce/",
+      "modified": "2025-11-04T11:19:13"
+    },
+    {
+      "sourceId": 50614,
+      "title": "Taió – Rampa de voo livre de Taió – SC",
+      "slug": "taio-rampa-de-voo-livre-de-taio-sc",
+      "url": "https://guia4ventos.com.br/taio-rampa-de-voo-livre-de-taio-sc/",
+      "modified": "2026-06-15T20:16:50"
+    }
+  ]
+}

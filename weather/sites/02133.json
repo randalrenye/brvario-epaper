@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2133,
+  "slug": "pancas-rampa-clementino-izoton-es",
+  "name": "RAMPA CLEMENTINO IZOTON",
+  "city": "PANCAS",
+  "state": "ES",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -192285720,
+    "longitudeE7": -408658250
+  },
+  "terrain": {
+    "altitudeM": 658,
+    "verticalDropM": 538
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/pancas-rampa-clementino-izoton-es/",
+    "referenceUrl": "https://guia4ventos.com.br/pancas-rampa-clementino-izoton-es/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

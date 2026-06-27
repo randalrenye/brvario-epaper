@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 1891,
+  "slug": "candiba-rampa-do-mirante-ba",
+  "name": "RAMPA DO MIRANTE",
+  "city": "CANDIBA",
+  "state": "BA",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -144568100,
+    "longitudeE7": -429185260
+  },
+  "terrain": {
+    "altitudeM": 1210,
+    "verticalDropM": 550
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/candiba-rampa-do-mirante-ba/",
+    "referenceUrl": "https://guia4ventos.com.br/candiba-rampa-do-mirante-ba/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

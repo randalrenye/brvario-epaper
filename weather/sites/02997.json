@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2997,
+  "slug": "imbituba-rampa-do-morro-das-antenas-sc",
+  "name": "RAMPA DO MORRO DAS ANTENAS",
+  "city": "IMBITUBA",
+  "state": "SC",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -282471120,
+    "longitudeE7": -486877860
+  },
+  "terrain": {
+    "altitudeM": 120,
+    "verticalDropM": 120
+  },
+  "windQuadrants": [
+    "E",
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/imbituba-rampa-do-morro-das-antenas-sc/",
+    "referenceUrl": "https://guia4ventos.com.br/imbituba-rampa-do-morro-das-antenas-sc/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

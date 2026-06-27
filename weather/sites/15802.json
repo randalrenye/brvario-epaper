@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 15802,
+  "slug": "vitoria-da-conquista-rampa-joao-gogo-inhobim-ba",
+  "name": "RAMPA JOÃO GOGÓ - INHOBIM",
+  "city": "VITÓRIA DA CONQUISTA",
+  "state": "BA",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -152969560,
+    "longitudeE7": -409179450
+  },
+  "terrain": {
+    "altitudeM": 755,
+    "verticalDropM": 320
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/vitoria-da-conquista-rampa-joao-gogo-inhobim-ba/",
+    "referenceUrl": "https://guia4ventos.com.br/vitoria-da-conquista-rampa-joao-gogo-inhobim-ba/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4059,
+  "slug": "areias-pico-do-tira-chapeu-sp",
+  "name": "PICO DO TIRA CHAPÉU",
+  "city": "AREIAS",
+  "state": "SP",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -227702800,
+    "longitudeE7": -446594440
+  },
+  "terrain": {
+    "altitudeM": 2045,
+    "verticalDropM": 560
+  },
+  "windQuadrants": [
+    "N",
+    "NW",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/areias-pico-do-tira-chapeu-sp/",
+    "referenceUrl": "https://guia4ventos.com.br/areias-pico-do-tira-chapeu-sp/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

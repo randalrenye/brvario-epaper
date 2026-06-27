@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4250,
+  "slug": "itaguai-rampa-na-serra-do-matoso-rj",
+  "name": "RAMPA NA SERRA DO MATOSO",
+  "city": "ITAGUAÍ",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -227748760,
+    "longitudeE7": -438149140
+  },
+  "terrain": {
+    "altitudeM": 420,
+    "verticalDropM": 410
+  },
+  "windQuadrants": [
+    "E",
+    "S",
+    "SE",
+    "SW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/itaguai-rampa-na-serra-do-matoso-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/itaguai-rampa-na-serra-do-matoso-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 1872,
+  "slug": "valenca-rampa-da-serra-do-abia-ba",
+  "name": "RAMPA DA SERRA DO ABIÁ",
+  "city": "VALENÇA",
+  "state": "BA",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -133090730,
+    "longitudeE7": -393308740
+  },
+  "terrain": {
+    "altitudeM": 551,
+    "verticalDropM": 350
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/valenca-rampa-da-serra-do-abia-ba/",
+    "referenceUrl": "https://guia4ventos.com.br/valenca-rampa-da-serra-do-abia-ba/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

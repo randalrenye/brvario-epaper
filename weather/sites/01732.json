@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 1732,
+  "slug": "guarabira-rampa-do-memorial-frei-damiao-pb",
+  "name": "RAMPA DO MEMORIAL FREI DAMIÃO",
+  "city": "GUARABIRA",
+  "state": "PB",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -68314880,
+    "longitudeE7": -354938300
+  },
+  "terrain": {
+    "altitudeM": 340,
+    "verticalDropM": 200
+  },
+  "windQuadrants": [
+    "E",
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/guarabira-rampa-do-memorial-frei-damiao-pb/",
+    "referenceUrl": "https://guia4ventos.com.br/guarabira-rampa-do-memorial-frei-damiao-pb/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

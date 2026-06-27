@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4201,
+  "slug": "petropolis-rampa-do-parque-sao-vicente-rj",
+  "name": "RAMPA DO PARQUE SÃO VICENTE",
+  "city": "PETRÓPOLIS",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -225380287,
+    "longitudeE7": -432283592
+  },
+  "terrain": {
+    "altitudeM": 930,
+    "verticalDropM": 857
+  },
+  "windQuadrants": [
+    "S",
+    "SE",
+    "SW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/petropolis-rampa-do-parque-sao-vicente-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/petropolis-rampa-do-parque-sao-vicente-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2633,
+  "slug": "matinhos-caioba-rampa-do-morro-do-boi-pr",
+  "name": "CAIOBÁ - RAMPA DO MORRO DO BOI",
+  "city": "MATINHOS",
+  "state": "PR",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -258489700,
+    "longitudeE7": -485347438
+  },
+  "terrain": {
+    "altitudeM": 95,
+    "verticalDropM": 95
+  },
+  "windQuadrants": [
+    "E",
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/matinhos-caioba-rampa-do-morro-do-boi-pr/",
+    "referenceUrl": "https://guia4ventos.com.br/matinhos-caioba-rampa-do-morro-do-boi-pr/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2356,
+  "slug": "ibiapina-rampa-do-mirante-ce",
+  "name": "RAMPA DO MIRANTE",
+  "city": "IBIAPINA",
+  "state": "CE",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -39027150,
+    "longitudeE7": -408756800
+  },
+  "terrain": {
+    "altitudeM": 839,
+    "verticalDropM": 640
+  },
+  "windQuadrants": [
+    "N"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/ibiapina-rampa-do-mirante-ce/",
+    "referenceUrl": "https://guia4ventos.com.br/ibiapina-rampa-do-mirante-ce/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

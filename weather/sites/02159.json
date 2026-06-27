@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2159,
+  "slug": "vila-velha-rampa-no-morro-do-moreno-es",
+  "name": "RAMPA NO MORRO DO MORENO",
+  "city": "VILA VELHA",
+  "state": "ES",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -203257138,
+    "longitudeE7": -402763939
+  },
+  "terrain": {
+    "altitudeM": 200,
+    "verticalDropM": 200
+  },
+  "windQuadrants": [
+    "E",
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/vila-velha-rampa-no-morro-do-moreno-es/",
+    "referenceUrl": "https://guia4ventos.com.br/vila-velha-rampa-no-morro-do-moreno-es/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

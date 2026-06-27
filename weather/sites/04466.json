@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4466,
+  "slug": "rampa-da-fazenda-boa-vista-dos-leoes-rj",
+  "name": "RAMPA DA FAZENDA BOA VISTA DOS LEÕES",
+  "city": "ENGENHEIRO PAULO DE FRONTIN",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -225417050,
+    "longitudeE7": -436055950
+  },
+  "terrain": {
+    "altitudeM": 933,
+    "verticalDropM": 420
+  },
+  "windQuadrants": [
+    "E",
+    "S",
+    "SE",
+    "SW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/rampa-da-fazenda-boa-vista-dos-leoes-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/rampa-da-fazenda-boa-vista-dos-leoes-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

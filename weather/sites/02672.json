@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2672,
+  "slug": "campo-magro-rampa-no-morro-da-palha-pr",
+  "name": "RAMPA NO MORRO DA PALHA",
+  "city": "CAMPO MAGRO",
+  "state": "PR",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -252997640,
+    "longitudeE7": -494778310
+  },
+  "terrain": {
+    "altitudeM": 1080,
+    "verticalDropM": 300
+  },
+  "windQuadrants": [
+    "N",
+    "NE",
+    "NW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/campo-magro-rampa-no-morro-da-palha-pr/",
+    "referenceUrl": "https://guia4ventos.com.br/campo-magro-rampa-no-morro-da-palha-pr/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

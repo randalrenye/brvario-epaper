@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2262,
+  "slug": "sobral-rampa-da-serra-da-meruoca-ce",
+  "name": "RAMPA DA SERRA DA MERUOCA",
+  "city": "SOBRAL",
+  "state": "CE",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -36326220,
+    "longitudeE7": -404068140
+  },
+  "terrain": {
+    "altitudeM": 420,
+    "verticalDropM": 350
+  },
+  "windQuadrants": [
+    "S",
+    "SW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/sobral-rampa-da-serra-da-meruoca-ce/",
+    "referenceUrl": "https://guia4ventos.com.br/sobral-rampa-da-serra-da-meruoca-ce/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

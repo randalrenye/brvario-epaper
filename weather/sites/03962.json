@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3962,
+  "slug": "socorro-rampa-no-pico-da-cascavel-sp",
+  "name": "RAMPA NO PICO DA CASCAVEL",
+  "city": "SOCORRO",
+  "state": "SP",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -226438490,
+    "longitudeE7": -464816140
+  },
+  "terrain": {
+    "altitudeM": 1200,
+    "verticalDropM": 380
+  },
+  "windQuadrants": [
+    "N",
+    "NW",
+    "SW",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/socorro-rampa-no-pico-da-cascavel-sp/",
+    "referenceUrl": "https://guia4ventos.com.br/socorro-rampa-no-pico-da-cascavel-sp/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

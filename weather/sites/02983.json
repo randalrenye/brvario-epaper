@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2983,
+  "slug": "ararangua-rampa-do-maracaja-sc",
+  "name": "RAMPA DO MARACAJÁ",
+  "city": "ARARANGUÁ",
+  "state": "SC",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -288441590,
+    "longitudeE7": -493981800
+  },
+  "terrain": {
+    "altitudeM": 230,
+    "verticalDropM": 250
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/ararangua-rampa-do-maracaja-sc/",
+    "referenceUrl": "https://guia4ventos.com.br/ararangua-rampa-do-maracaja-sc/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4054,
+  "slug": "iracemapolis-rampa-paraiso-de-iracemapolis-sp",
+  "name": "RAMPA PARAÍSO DE IRACEMÁPOLIS",
+  "city": "IRACEMÁPOLIS",
+  "state": "SP",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -225411860,
+    "longitudeE7": -475203940
+  },
+  "terrain": {
+    "altitudeM": 733,
+    "verticalDropM": 100
+  },
+  "windQuadrants": [
+    "S",
+    "SW",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/iracemapolis-rampa-paraiso-de-iracemapolis-sp/",
+    "referenceUrl": "https://guia4ventos.com.br/iracemapolis-rampa-paraiso-de-iracemapolis-sp/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

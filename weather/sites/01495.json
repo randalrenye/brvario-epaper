@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 1495,
+  "slug": "nobres-rampa-de-nobres-mt",
+  "name": "RAMPA DE NOBRES",
+  "city": "NOBRES",
+  "state": "MT",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -147115290,
+    "longitudeE7": -563107250
+  },
+  "terrain": {
+    "altitudeM": 450,
+    "verticalDropM": 185
+  },
+  "windQuadrants": [
+    "S",
+    "SE",
+    "SW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/nobres-rampa-de-nobres-mt/",
+    "referenceUrl": "https://guia4ventos.com.br/nobres-rampa-de-nobres-mt/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3014,
+  "slug": "pomerode-rampa-do-morro-azul-sc",
+  "name": "RAMPA DO MORRO AZUL",
+  "city": "POMERODE",
+  "state": "SC",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -267628650,
+    "longitudeE7": -492044450
+  },
+  "terrain": {
+    "altitudeM": 750,
+    "verticalDropM": 650
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/pomerode-rampa-do-morro-azul-sc/",
+    "referenceUrl": "https://guia4ventos.com.br/pomerode-rampa-do-morro-azul-sc/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 1811,
+  "slug": "serra-da-jiboia-pedra-branca-ba",
+  "name": "SERRA DA JIBÓIA - PEDRA BRANCA",
+  "city": "SANTA TERESINHA",
+  "state": "BA",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -128531640,
+    "longitudeE7": -394760230
+  },
+  "terrain": {
+    "altitudeM": 786,
+    "verticalDropM": 530
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/serra-da-jiboia-pedra-branca-ba/",
+    "referenceUrl": "https://guia4ventos.com.br/serra-da-jiboia-pedra-branca-ba/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2214,
+  "slug": "fundao-rampa-de-timbui-es",
+  "name": "RAMPA DE TIMBUÍ",
+  "city": "FUNDÃO",
+  "state": "ES",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -200381980,
+    "longitudeE7": -404726460
+  },
+  "terrain": {
+    "altitudeM": 550,
+    "verticalDropM": 490
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/fundao-rampa-de-timbui-es/",
+    "referenceUrl": "https://guia4ventos.com.br/fundao-rampa-de-timbui-es/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

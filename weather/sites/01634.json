@@ -1,0 +1,30 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 1634,
+  "slug": "patu-rampa-de-patu-rn",
+  "name": "RAMPA DE PATU",
+  "city": "PATU",
+  "state": "RN",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -60951529,
+    "longitudeE7": -376619911
+  },
+  "terrain": {
+    "altitudeM": 400,
+    "verticalDropM": 330
+  },
+  "windQuadrants": [
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/patu-rampa-de-patu-rn/",
+    "referenceUrl": "https://guia4ventos.com.br/patu-rampa-de-patu-rn/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

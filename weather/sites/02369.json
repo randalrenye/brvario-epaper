@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2369,
+  "slug": "redencao-rampa-da-santinha-ce",
+  "name": "RAMPA DA SANTINHA",
+  "city": "REDENÇÃO",
+  "state": "CE",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -42202610,
+    "longitudeE7": -387280570
+  },
+  "terrain": {
+    "altitudeM": 190,
+    "verticalDropM": 90
+  },
+  "windQuadrants": [
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/redencao-rampa-da-santinha-ce/",
+    "referenceUrl": "https://guia4ventos.com.br/redencao-rampa-da-santinha-ce/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4051,
+  "slug": "botucatu-rampa-da-indiana-sp",
+  "name": "RAMPA DA INDIANA",
+  "city": "BOTUCATU",
+  "state": "SP",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -228974900,
+    "longitudeE7": -483933310
+  },
+  "terrain": {
+    "altitudeM": 850,
+    "verticalDropM": 230
+  },
+  "windQuadrants": [
+    "E",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/botucatu-rampa-da-indiana-sp/",
+    "referenceUrl": "https://guia4ventos.com.br/botucatu-rampa-da-indiana-sp/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

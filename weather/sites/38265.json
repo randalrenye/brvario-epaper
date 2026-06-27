@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 38265,
+  "slug": "ribeira-do-pombal-rampa-carro-virado-ba",
+  "name": "RAMPA CARRO VIRADO",
+  "city": "RIBEIRA DO POMBAL",
+  "state": "BA",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -109308060,
+    "longitudeE7": -387043890
+  },
+  "terrain": {
+    "altitudeM": 456,
+    "verticalDropM": 80
+  },
+  "windQuadrants": [
+    "E",
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/ribeira-do-pombal-rampa-carro-virado-ba/",
+    "referenceUrl": "https://guia4ventos.com.br/ribeira-do-pombal-rampa-carro-virado-ba/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

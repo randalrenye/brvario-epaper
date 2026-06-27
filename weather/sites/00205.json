@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 205,
+  "slug": "niteroi-rampa-do-parque-da-cidade-rj",
+  "name": "RAMPA DO PARQUE DA CIDADE",
+  "city": "NITERÓI",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -229298960,
+    "longitudeE7": -430878320
+  },
+  "terrain": {
+    "altitudeM": 270,
+    "verticalDropM": 270
+  },
+  "windQuadrants": [
+    "N",
+    "NW",
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/niteroi-rampa-do-parque-da-cidade-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/niteroi-rampa-do-parque-da-cidade-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

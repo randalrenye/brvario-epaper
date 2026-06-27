@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2273,
+  "slug": "aracati-rampa-de-canoa-quebrada-ce",
+  "name": "RAMPA DE CANOA QUEBRADA",
+  "city": "ARACATI",
+  "state": "CE",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -45241000,
+    "longitudeE7": -377022560
+  },
+  "terrain": {
+    "altitudeM": 30,
+    "verticalDropM": 30
+  },
+  "windQuadrants": [
+    "N",
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/aracati-rampa-de-canoa-quebrada-ce/",
+    "referenceUrl": "https://guia4ventos.com.br/aracati-rampa-de-canoa-quebrada-ce/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

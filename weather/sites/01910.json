@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 1910,
+  "slug": "babaculandia-rampa-de-babaculandia-to",
+  "name": "RAMPA DE BABAÇULÂNDIA",
+  "city": "BABAÇULÂNDIA",
+  "state": "TO",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -71999800,
+    "longitudeE7": -478288460
+  },
+  "terrain": {
+    "altitudeM": 353,
+    "verticalDropM": 225
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/babaculandia-rampa-de-babaculandia-to/",
+    "referenceUrl": "https://guia4ventos.com.br/babaculandia-rampa-de-babaculandia-to/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3062,
+  "slug": "lages-rampa-do-morro-da-cruz-sc",
+  "name": "RAMPA DO MORRO DA CRUZ",
+  "city": "LAGES",
+  "state": "SC",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -278347500,
+    "longitudeE7": -503298830
+  },
+  "terrain": {
+    "altitudeM": 1010,
+    "verticalDropM": 120
+  },
+  "windQuadrants": [
+    "N",
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/lages-rampa-do-morro-da-cruz-sc/",
+    "referenceUrl": "https://guia4ventos.com.br/lages-rampa-do-morro-da-cruz-sc/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

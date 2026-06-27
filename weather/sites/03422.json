@@ -1,0 +1,35 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3422,
+  "slug": "salinas-rampa-do-seu-mario-morro-das-torres-mg",
+  "name": "RAMPA DO SEU MÁRIO - MORRO DAS TORRES",
+  "city": "SALINAS",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -161580260,
+    "longitudeE7": -422634390
+  },
+  "terrain": {
+    "altitudeM": 725,
+    "verticalDropM": 250
+  },
+  "windQuadrants": [
+    "N",
+    "NE",
+    "NW",
+    "S",
+    "SE",
+    "SW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/salinas-rampa-do-seu-mario-morro-das-torres-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/salinas-rampa-do-seu-mario-morro-das-torres-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

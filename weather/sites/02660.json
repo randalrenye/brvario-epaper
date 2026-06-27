@@ -1,0 +1,34 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2660,
+  "slug": "vitorino-rampa-do-morro-divisor-pr",
+  "name": "RAMPA DO MORRO DIVISOR",
+  "city": "VITORINO",
+  "state": "PR",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -263467290,
+    "longitudeE7": -527271030
+  },
+  "terrain": {
+    "altitudeM": 1100,
+    "verticalDropM": 300
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE",
+    "NW",
+    "S"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/vitorino-rampa-do-morro-divisor-pr/",
+    "referenceUrl": "https://guia4ventos.com.br/vitorino-rampa-do-morro-divisor-pr/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

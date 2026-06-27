@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2126,
+  "slug": "baixo-guandu-rampa-do-monjolo-es",
+  "name": "RAMPA DO MONJOLO",
+  "city": "BAIXO GUANDÚ",
+  "state": "ES",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -196311290,
+    "longitudeE7": -409682540
+  },
+  "terrain": {
+    "altitudeM": 860,
+    "verticalDropM": 710
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/baixo-guandu-rampa-do-monjolo-es/",
+    "referenceUrl": "https://guia4ventos.com.br/baixo-guandu-rampa-do-monjolo-es/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

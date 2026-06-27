@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3629,
+  "slug": "extrema-rampa-do-pico-dos-cabritos-mg",
+  "name": "RAMPA DO PICO DOS CABRITOS",
+  "city": "EXTREMA",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -228643820,
+    "longitudeE7": -462980500
+  },
+  "terrain": {
+    "altitudeM": 1356,
+    "verticalDropM": 456
+  },
+  "windQuadrants": [
+    "N",
+    "NE",
+    "NW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/extrema-rampa-do-pico-dos-cabritos-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/extrema-rampa-do-pico-dos-cabritos-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

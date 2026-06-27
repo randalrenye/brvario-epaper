@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 39398,
+  "slug": "itaocara-rampa-da-andorinha-rj",
+  "name": "RAMPA ANDORINHA",
+  "city": "ITAOCARA",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -217180420,
+    "longitudeE7": -422149520
+  },
+  "terrain": {
+    "altitudeM": 516,
+    "verticalDropM": 432
+  },
+  "windQuadrants": [
+    "N",
+    "NE",
+    "NW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/itaocara-rampa-da-andorinha-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/itaocara-rampa-da-andorinha-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

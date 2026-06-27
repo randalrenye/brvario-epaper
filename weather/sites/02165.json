@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2165,
+  "slug": "cachoeiro-de-itapemirim-rampa-do-mirante-es",
+  "name": "RAMPA DO MIRANTE",
+  "city": "CACHOEIRO DE ITAPEMIRIM",
+  "state": "ES",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -207407260,
+    "longitudeE7": -410599400
+  },
+  "terrain": {
+    "altitudeM": 506,
+    "verticalDropM": 390
+  },
+  "windQuadrants": [
+    "N",
+    "NW",
+    "SW",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/cachoeiro-de-itapemirim-rampa-do-mirante-es/",
+    "referenceUrl": "https://guia4ventos.com.br/cachoeiro-de-itapemirim-rampa-do-mirante-es/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3670,
+  "slug": "caparao-rampa-do-portal-da-lua-mg",
+  "name": "RAMPA DO PORTAL DA LUA",
+  "city": "CAPARAÓ",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -205254720,
+    "longitudeE7": -418974390
+  },
+  "terrain": {
+    "altitudeM": 1020,
+    "verticalDropM": 200
+  },
+  "windQuadrants": [
+    "N",
+    "NE",
+    "NW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/caparao-rampa-do-portal-da-lua-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/caparao-rampa-do-portal-da-lua-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2977,
+  "slug": "tangara-rampa-do-morro-agudo-sc",
+  "name": "RAMPA DO MORRO AGUDO",
+  "city": "TANGARÁ",
+  "state": "SC",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -271335780,
+    "longitudeE7": -512339900
+  },
+  "terrain": {
+    "altitudeM": 1142,
+    "verticalDropM": 350
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE",
+    "NW",
+    "SW",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/tangara-rampa-do-morro-agudo-sc/",
+    "referenceUrl": "https://guia4ventos.com.br/tangara-rampa-do-morro-agudo-sc/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

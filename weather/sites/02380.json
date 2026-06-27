@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2380,
+  "slug": "palmacia-rampa-de-palmacia-ce",
+  "name": "RAMPA DE PALMÁCIA",
+  "city": "PALMÁCIA",
+  "state": "CE",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -41229840,
+    "longitudeE7": -388159100
+  },
+  "terrain": {
+    "altitudeM": 210,
+    "verticalDropM": 140
+  },
+  "windQuadrants": [
+    "N",
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/palmacia-rampa-de-palmacia-ce/",
+    "referenceUrl": "https://guia4ventos.com.br/palmacia-rampa-de-palmacia-ce/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

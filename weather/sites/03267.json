@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3267,
+  "slug": "muriae-rampa-do-distrito-de-pirapanema-mg",
+  "name": "RAMPA DO DISTRITO DE PIRAPANEMA",
+  "city": "MURIAÉ",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -210915970,
+    "longitudeE7": -425013990
+  },
+  "terrain": {
+    "altitudeM": 930,
+    "verticalDropM": 700
+  },
+  "windQuadrants": [
+    "E",
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/muriae-rampa-do-distrito-de-pirapanema-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/muriae-rampa-do-distrito-de-pirapanema-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

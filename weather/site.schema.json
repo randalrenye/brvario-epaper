@@ -1,0 +1,184 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://randalrenye.github.io/brvario-epaper/weather/site.schema.json",
+  "title": "BRVARIO Flight Site",
+  "type": "object",
+  "required": [
+    "schema",
+    "schemaVersion",
+    "id",
+    "slug",
+    "name",
+    "city",
+    "state",
+    "country",
+    "coordinates",
+    "terrain",
+    "windQuadrants",
+    "provenance"
+  ],
+  "properties": {
+    "schema": {
+      "const": "brvario.flight-site"
+    },
+    "schemaVersion": {
+      "const": 1
+    },
+    "id": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 65535
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "name": {
+      "type": "string",
+      "maxLength": 39
+    },
+    "city": {
+      "type": "string",
+      "maxLength": 27
+    },
+    "state": {
+      "type": "string",
+      "pattern": "^[A-Z]{2}$"
+    },
+    "country": {
+      "type": "string",
+      "pattern": "^[A-Z]{2}$"
+    },
+    "coordinates": {
+      "type": "object",
+      "required": [
+        "latitudeE7",
+        "longitudeE7"
+      ],
+      "properties": {
+        "latitudeE7": {
+          "type": "integer",
+          "minimum": -900000000,
+          "maximum": 900000000
+        },
+        "longitudeE7": {
+          "type": "integer",
+          "minimum": -1800000000,
+          "maximum": 1800000000
+        }
+      }
+    },
+    "terrain": {
+      "type": "object",
+      "required": [
+        "altitudeM"
+      ],
+      "properties": {
+        "altitudeM": {
+          "type": "integer",
+          "minimum": -500,
+          "maximum": 9000
+        },
+        "verticalDropM": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9000
+        }
+      }
+    },
+    "windQuadrants": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "enum": [
+          "N",
+          "NE",
+          "E",
+          "SE",
+          "S",
+          "SW",
+          "W",
+          "NW"
+        ]
+      }
+    },
+    "flightTypes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "bestMonths": {
+      "type": "array",
+      "items": {
+        "enum": [
+          "JAN",
+          "FEB",
+          "MAR",
+          "APR",
+          "MAY",
+          "JUN",
+          "JUL",
+          "AUG",
+          "SEP",
+          "OCT",
+          "NOV",
+          "DEC"
+        ]
+      }
+    },
+    "summary": {
+      "type": "string"
+    },
+    "access": {
+      "type": "string"
+    },
+    "takeoff": {
+      "type": "string"
+    },
+    "landing": {
+      "type": "string"
+    },
+    "responsibleClub": {
+      "type": "string"
+    },
+    "advantages": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "risks": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "records": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "generalInfo": {
+      "type": "string"
+    },
+    "contacts": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "media": {
+      "type": "object"
+    },
+    "provenance": {
+      "type": "object",
+      "required": [
+        "dataOwner",
+        "license",
+        "lastVerified"
+      ]
+    }
+  }
+}

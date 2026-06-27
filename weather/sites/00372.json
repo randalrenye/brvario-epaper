@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 372,
+  "slug": "atibaia-rampa-da-pedra-grande-sp",
+  "name": "RAMPA DA PEDRA GRANDE",
+  "city": "ATIBAIA",
+  "state": "SP",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -231687110,
+    "longitudeE7": -465287090
+  },
+  "terrain": {
+    "altitudeM": 1382,
+    "verticalDropM": 580
+  },
+  "windQuadrants": [
+    "N",
+    "NE",
+    "NW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/atibaia-rampa-da-pedra-grande-sp/",
+    "referenceUrl": "https://guia4ventos.com.br/atibaia-rampa-da-pedra-grande-sp/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

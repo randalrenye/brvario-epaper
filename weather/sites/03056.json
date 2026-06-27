@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3056,
+  "slug": "canelinha-rampa-do-morro-do-rolador-sc",
+  "name": "RAMPA DO MORRO DO ROLADOR",
+  "city": "CANELINHA",
+  "state": "SC",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -273235470,
+    "longitudeE7": -488037910
+  },
+  "terrain": {
+    "altitudeM": 550,
+    "verticalDropM": 520
+  },
+  "windQuadrants": [
+    "N",
+    "NE",
+    "NW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/canelinha-rampa-do-morro-do-rolador-sc/",
+    "referenceUrl": "https://guia4ventos.com.br/canelinha-rampa-do-morro-do-rolador-sc/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2403,
+  "slug": "ipueiras-mirante-delta-ce",
+  "name": "MIRANTE DELTA",
+  "city": "IPUEIRAS",
+  "state": "CE",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -45895080,
+    "longitudeE7": -408105210
+  },
+  "terrain": {
+    "altitudeM": 868,
+    "verticalDropM": 425
+  },
+  "windQuadrants": [
+    "E"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/ipueiras-mirante-delta-ce/",
+    "referenceUrl": "https://guia4ventos.com.br/ipueiras-mirante-delta-ce/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

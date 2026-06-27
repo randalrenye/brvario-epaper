@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 13037,
+  "slug": "toritama-taquaritinga-do-norte-mirante-do-sol-pe",
+  "name": "MIRANTE DO SOL",
+  "city": "TORITAMA / TAQUARITINGA DO ",
+  "state": "PE",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -79686550,
+    "longitudeE7": -360541120
+  },
+  "terrain": {
+    "altitudeM": 675,
+    "verticalDropM": 315
+  },
+  "windQuadrants": [
+    "S",
+    "SW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/toritama-taquaritinga-do-norte-mirante-do-sol-pe/",
+    "referenceUrl": "https://guia4ventos.com.br/toritama-taquaritinga-do-norte-mirante-do-sol-pe/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

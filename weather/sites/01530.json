@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 1530,
+  "slug": "barra-do-garcas-rampa-de-barra-do-garcas-rampa-sul-mt",
+  "name": "RAMPA SUL",
+  "city": "BARRA DO GARÇAS",
+  "state": "MT",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -158540222,
+    "longitudeE7": -522695160
+  },
+  "terrain": {
+    "altitudeM": 662,
+    "verticalDropM": 300
+  },
+  "windQuadrants": [
+    "E",
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/barra-do-garcas-rampa-de-barra-do-garcas-rampa-sul-mt/",
+    "referenceUrl": "https://guia4ventos.com.br/barra-do-garcas-rampa-de-barra-do-garcas-rampa-sul-mt/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

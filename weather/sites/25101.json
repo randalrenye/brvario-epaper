@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 25101,
+  "slug": "sao-jose-do-vale-do-rio-preto-rampa-da-gloria-rj",
+  "name": "RAMPA DA GLÓRIA",
+  "city": "SÃO JOSÉ DO VALE DO RIO PRE",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -221830692,
+    "longitudeE7": -429121906
+  },
+  "terrain": {
+    "altitudeM": 1140,
+    "verticalDropM": 270
+  },
+  "windQuadrants": [
+    "N",
+    "NW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/sao-jose-do-vale-do-rio-preto-rampa-da-gloria-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/sao-jose-do-vale-do-rio-preto-rampa-da-gloria-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

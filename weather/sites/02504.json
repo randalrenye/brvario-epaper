@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2504,
+  "slug": "sao-vendelino-rampa-do-morro-do-diabo-rs",
+  "name": "RAMPA DO MORRO DO DIABO",
+  "city": "SÃO VENDELINO",
+  "state": "RS",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -293400030,
+    "longitudeE7": -513835930
+  },
+  "terrain": {
+    "altitudeM": 600,
+    "verticalDropM": 520
+  },
+  "windQuadrants": [
+    "E",
+    "SE",
+    "SW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/sao-vendelino-rampa-do-morro-do-diabo-rs/",
+    "referenceUrl": "https://guia4ventos.com.br/sao-vendelino-rampa-do-morro-do-diabo-rs/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

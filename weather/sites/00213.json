@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 213,
+  "slug": "rio-de-janeiro-rampa-de-grumari-rj",
+  "name": "RAMPA DE GRUMARI",
+  "city": "RIO DE JANEIRO",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -230531340,
+    "longitudeE7": -435362970
+  },
+  "terrain": {
+    "altitudeM": 120,
+    "verticalDropM": 120
+  },
+  "windQuadrants": [
+    "E",
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/rio-de-janeiro-rampa-de-grumari-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/rio-de-janeiro-rampa-de-grumari-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

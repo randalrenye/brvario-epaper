@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4456,
+  "slug": "trajano-de-morais-rampa-da-serra-das-almas-rj",
+  "name": "RAMPA DA SERRA DAS ALMAS",
+  "city": "TRAJANO DE MORAIS",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -221991240,
+    "longitudeE7": -421981570
+  },
+  "terrain": {
+    "altitudeM": 1035,
+    "verticalDropM": 650
+  },
+  "windQuadrants": [
+    "N",
+    "NW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/trajano-de-morais-rampa-da-serra-das-almas-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/trajano-de-morais-rampa-da-serra-das-almas-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

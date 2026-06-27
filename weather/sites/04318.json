@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4318,
+  "slug": "paraty-rampa-da-boa-vista-rj",
+  "name": "RAMPA DA BOA VISTA",
+  "city": "PARATY",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -232239950,
+    "longitudeE7": -446882950
+  },
+  "terrain": {
+    "altitudeM": 250,
+    "verticalDropM": 200
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "SE",
+    "SW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/paraty-rampa-da-boa-vista-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/paraty-rampa-da-boa-vista-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

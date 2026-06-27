@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3802,
+  "slug": "sao-joao-del-rei-rampa-do-vitinho-mg",
+  "name": "RAMPA DO VITINHO",
+  "city": "SÃO JOÃO DEL REI",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -211423990,
+    "longitudeE7": -442935130
+  },
+  "terrain": {
+    "altitudeM": 1128,
+    "verticalDropM": 204
+  },
+  "windQuadrants": [
+    "E",
+    "S",
+    "SE",
+    "SW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/sao-joao-del-rei-rampa-do-vitinho-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/sao-joao-del-rei-rampa-do-vitinho-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

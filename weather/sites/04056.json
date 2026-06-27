@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4056,
+  "slug": "sao-sebastiao-rampa-de-boicucanga-sp",
+  "name": "RAMPA DE BOIÇUCANGA",
+  "city": "SÃO SEBASTIÃO",
+  "state": "SP",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -237818820,
+    "longitudeE7": -456386650
+  },
+  "terrain": {
+    "altitudeM": 100,
+    "verticalDropM": 100
+  },
+  "windQuadrants": [
+    "S",
+    "SE",
+    "SW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/sao-sebastiao-rampa-de-boicucanga-sp/",
+    "referenceUrl": "https://guia4ventos.com.br/sao-sebastiao-rampa-de-boicucanga-sp/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

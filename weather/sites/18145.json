@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 18145,
+  "slug": "paraty-rampa-do-mirante-de-trindade",
+  "name": "RAMPA DO MIRANTE DE TRINDADE",
+  "city": "PARATY",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -233309010,
+    "longitudeE7": -447078940
+  },
+  "terrain": {
+    "altitudeM": 340,
+    "verticalDropM": 340
+  },
+  "windQuadrants": [
+    "E",
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/paraty-rampa-do-mirante-de-trindade/",
+    "referenceUrl": "https://guia4ventos.com.br/paraty-rampa-do-mirante-de-trindade/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

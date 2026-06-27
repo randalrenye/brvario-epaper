@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 1723,
+  "slug": "baia-da-traicao-rampa-da-praia-das-cardosas-pb",
+  "name": "RAMPA DA PRAIA DAS CARDOSAS",
+  "city": "BAIA DA TRAIÇÃO",
+  "state": "PB",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -66100760,
+    "longitudeE7": -349651610
+  },
+  "terrain": {
+    "altitudeM": 40,
+    "verticalDropM": 40
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/baia-da-traicao-rampa-da-praia-das-cardosas-pb/",
+    "referenceUrl": "https://guia4ventos.com.br/baia-da-traicao-rampa-da-praia-das-cardosas-pb/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

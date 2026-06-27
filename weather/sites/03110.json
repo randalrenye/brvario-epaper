@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3110,
+  "slug": "anchieta-rampa-do-morro-do-sol-sc",
+  "name": "RAMPA DO MORRO DO SOL",
+  "city": "ANCHIETA",
+  "state": "SC",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -264998040,
+    "longitudeE7": -533242590
+  },
+  "terrain": {
+    "altitudeM": 810,
+    "verticalDropM": 250
+  },
+  "windQuadrants": [
+    "N",
+    "NE",
+    "NW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/anchieta-rampa-do-morro-do-sol-sc/",
+    "referenceUrl": "https://guia4ventos.com.br/anchieta-rampa-do-morro-do-sol-sc/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

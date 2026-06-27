@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4204,
+  "slug": "rio-bonito-rampa-da-serra-do-sambe",
+  "name": "RAMPA DA SERRA DO SAMBÊ",
+  "city": "RIO BONITO",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -226875260,
+    "longitudeE7": -426358850
+  },
+  "terrain": {
+    "altitudeM": 590,
+    "verticalDropM": 540
+  },
+  "windQuadrants": [
+    "S",
+    "SE",
+    "SW",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/rio-bonito-rampa-da-serra-do-sambe/",
+    "referenceUrl": "https://guia4ventos.com.br/rio-bonito-rampa-da-serra-do-sambe/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

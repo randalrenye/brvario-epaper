@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4322,
+  "slug": "cachoeiras-de-macacu-rampa-de-papucaia-rj",
+  "name": "RAMPA DE PAPUCAIA",
+  "city": "CACHOEIRAS DE MACACU",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -226073550,
+    "longitudeE7": -426968190
+  },
+  "terrain": {
+    "altitudeM": 635,
+    "verticalDropM": 610
+  },
+  "windQuadrants": [
+    "N",
+    "NE",
+    "NW",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/cachoeiras-de-macacu-rampa-de-papucaia-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/cachoeiras-de-macacu-rampa-de-papucaia-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

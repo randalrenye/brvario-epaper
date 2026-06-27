@@ -1,0 +1,34 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3873,
+  "slug": "carmo-do-rio-claro-rampa-da-serra-das-tormentas-mg",
+  "name": "RAMPA DA SERRA DAS TORMENTAS",
+  "city": "CARMO DO RIO CLARO",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -209902110,
+    "longitudeE7": -461056920
+  },
+  "terrain": {
+    "altitudeM": 1287,
+    "verticalDropM": 500
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE",
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/carmo-do-rio-claro-rampa-da-serra-das-tormentas-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/carmo-do-rio-claro-rampa-da-serra-das-tormentas-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

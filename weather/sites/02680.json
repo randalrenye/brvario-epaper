@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2680,
+  "slug": "lapa-rampa-do-monge-pr",
+  "name": "RAMPA DO MONGE",
+  "city": "LAPA",
+  "state": "PR",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -257776240,
+    "longitudeE7": -497003890
+  },
+  "terrain": {
+    "altitudeM": 320,
+    "verticalDropM": 100
+  },
+  "windQuadrants": [
+    "SW",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/lapa-rampa-do-monge-pr/",
+    "referenceUrl": "https://guia4ventos.com.br/lapa-rampa-do-monge-pr/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

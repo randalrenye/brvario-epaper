@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4258,
+  "slug": "petropolis-rampa-do-alto-morin-rj",
+  "name": "RAMPA DO ALTO MORIN",
+  "city": "PETRÓPOLIS",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -225391914,
+    "longitudeE7": -431502556
+  },
+  "terrain": {
+    "altitudeM": 1450,
+    "verticalDropM": 1420
+  },
+  "windQuadrants": [
+    "N",
+    "NW",
+    "S"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/petropolis-rampa-do-alto-morin-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/petropolis-rampa-do-alto-morin-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

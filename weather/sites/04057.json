@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4057,
+  "slug": "botucatu-rampa-do-cuesta-sp",
+  "name": "RAMPA DO CUESTA",
+  "city": "BOTUCATU",
+  "state": "SP",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -229286110,
+    "longitudeE7": -483613890
+  },
+  "terrain": {
+    "altitudeM": 836,
+    "verticalDropM": 220
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE",
+    "S"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/botucatu-rampa-do-cuesta-sp/",
+    "referenceUrl": "https://guia4ventos.com.br/botucatu-rampa-do-cuesta-sp/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

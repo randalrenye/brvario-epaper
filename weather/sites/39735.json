@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 39735,
+  "slug": "salesopolis-rampa-sul-sp",
+  "name": "RAMPA SUL",
+  "city": "SALESÓPOLIS",
+  "state": "SP",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -235202220,
+    "longitudeE7": -458501670
+  },
+  "terrain": {
+    "altitudeM": 922,
+    "verticalDropM": 198
+  },
+  "windQuadrants": [
+    "S",
+    "SE",
+    "SW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/salesopolis-rampa-sul-sp/",
+    "referenceUrl": "https://guia4ventos.com.br/salesopolis-rampa-sul-sp/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

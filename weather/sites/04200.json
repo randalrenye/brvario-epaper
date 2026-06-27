@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4200,
+  "slug": "nova-iguacu-rampa-da-serra-do-vulcao-rj",
+  "name": "RAMPA DA SERRA DO VULCÃO",
+  "city": "NOVA IGUAÇU",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -227667840,
+    "longitudeE7": -434760980
+  },
+  "terrain": {
+    "altitudeM": 780,
+    "verticalDropM": 760
+  },
+  "windQuadrants": [
+    "N",
+    "NE",
+    "NW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/nova-iguacu-rampa-da-serra-do-vulcao-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/nova-iguacu-rampa-da-serra-do-vulcao-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

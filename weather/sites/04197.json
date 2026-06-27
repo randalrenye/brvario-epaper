@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4197,
+  "slug": "rio-de-janeiro-rampa-da-serra-do-mendanha-campo-grande-rj",
+  "name": "RAMPA DA SERRA DO MENDANHA - CAMPO GRAN",
+  "city": "RIO DE JANEIRO",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -228256040,
+    "longitudeE7": -435280410
+  },
+  "terrain": {
+    "altitudeM": 600,
+    "verticalDropM": 580
+  },
+  "windQuadrants": [
+    "S",
+    "SE",
+    "SW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/rio-de-janeiro-rampa-da-serra-do-mendanha-campo-grande-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/rio-de-janeiro-rampa-da-serra-do-mendanha-campo-grande-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

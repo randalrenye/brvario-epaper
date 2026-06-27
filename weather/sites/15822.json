@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 15822,
+  "slug": "santana-do-ipanema-serra-da-camonga-al",
+  "name": "SERRA DA CAMONGA",
+  "city": "SANTANA DO IPANEMA",
+  "state": "AL",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -93527020,
+    "longitudeE7": -372034330
+  },
+  "terrain": {
+    "altitudeM": 521,
+    "verticalDropM": 183
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/santana-do-ipanema-serra-da-camonga-al/",
+    "referenceUrl": "https://guia4ventos.com.br/santana-do-ipanema-serra-da-camonga-al/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

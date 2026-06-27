@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3963,
+  "slug": "sao-jose-do-barreiro-rampa-da-estacao-bocaina-sp",
+  "name": "RAMPA DA ESTAÇÃO BOCAINA",
+  "city": "SÃO JOSÉ DO BARREIRO",
+  "state": "SP",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -227056020,
+    "longitudeE7": -446377620
+  },
+  "terrain": {
+    "altitudeM": 1850,
+    "verticalDropM": 1450
+  },
+  "windQuadrants": [
+    "N",
+    "NE",
+    "NW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/sao-jose-do-barreiro-rampa-da-estacao-bocaina-sp/",
+    "referenceUrl": "https://guia4ventos.com.br/sao-jose-do-barreiro-rampa-da-estacao-bocaina-sp/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

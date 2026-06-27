@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 1714,
+  "slug": "matureia-rampa-do-pico-do-jabre-pb",
+  "name": "RAMPA DO PICO DO JABRE",
+  "city": "MATURÉIA",
+  "state": "PB",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -72527350,
+    "longitudeE7": -373834000
+  },
+  "terrain": {
+    "altitudeM": 1150,
+    "verticalDropM": 350
+  },
+  "windQuadrants": [
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/matureia-rampa-do-pico-do-jabre-pb/",
+    "referenceUrl": "https://guia4ventos.com.br/matureia-rampa-do-pico-do-jabre-pb/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

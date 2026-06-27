@@ -1,0 +1,30 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3588,
+  "slug": "lambari-rampa-da-serra-das-aguas-mg",
+  "name": "RAMPA DA SERRA DAS ÁGUAS",
+  "city": "LAMBARI",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -219479810,
+    "longitudeE7": -453561540
+  },
+  "terrain": {
+    "altitudeM": 1380,
+    "verticalDropM": 480
+  },
+  "windQuadrants": [
+    "S"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/lambari-rampa-da-serra-das-aguas-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/lambari-rampa-da-serra-das-aguas-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

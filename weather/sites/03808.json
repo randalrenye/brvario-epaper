@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3808,
+  "slug": "santa-barbara-do-tugurio-rampa-do-tingua-mg",
+  "name": "RAMPA DO TINGUÁ",
+  "city": "SANTA BÁRBARA DO TUGÚRIO",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -212751630,
+    "longitudeE7": -435778000
+  },
+  "terrain": {
+    "altitudeM": 1208,
+    "verticalDropM": 560
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE",
+    "NW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/santa-barbara-do-tugurio-rampa-do-tingua-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/santa-barbara-do-tugurio-rampa-do-tingua-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

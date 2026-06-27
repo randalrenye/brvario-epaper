@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3970,
+  "slug": "rampa-do-morro-do-capuava-sp",
+  "name": "MORRO DO CAPUAVA",
+  "city": "PIRAPORA DO BOM JESUS",
+  "state": "SP",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -233993780,
+    "longitudeE7": -469910810
+  },
+  "terrain": {
+    "altitudeM": 950,
+    "verticalDropM": 200
+  },
+  "windQuadrants": [
+    "NE",
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/rampa-do-morro-do-capuava-sp/",
+    "referenceUrl": "https://guia4ventos.com.br/rampa-do-morro-do-capuava-sp/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

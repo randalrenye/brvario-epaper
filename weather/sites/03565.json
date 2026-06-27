@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3565,
+  "slug": "rampa-de-sao-jose-do-divino-mg",
+  "name": "RAMPA DE SÃO JOSÉ DO DIVINO",
+  "city": "SÃO JOSÉ DO DIVINO",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -185305250,
+    "longitudeE7": -413977880
+  },
+  "terrain": {
+    "altitudeM": 600,
+    "verticalDropM": 450
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/rampa-de-sao-jose-do-divino-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/rampa-de-sao-jose-do-divino-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

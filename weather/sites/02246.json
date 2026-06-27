@@ -1,0 +1,30 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2246,
+  "slug": "pacatuba-rampa-jamil-sales-ce",
+  "name": "RAMPA JAMIL SALES",
+  "city": "PACATUBA",
+  "state": "CE",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -39334480,
+    "longitudeE7": -386130540
+  },
+  "terrain": {
+    "altitudeM": 280,
+    "verticalDropM": 130
+  },
+  "windQuadrants": [
+    "E"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/pacatuba-rampa-jamil-sales-ce/",
+    "referenceUrl": "https://guia4ventos.com.br/pacatuba-rampa-jamil-sales-ce/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

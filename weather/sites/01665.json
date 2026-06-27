@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 1665,
+  "slug": "areia-branca-rampa-da-serra-comprida-se",
+  "name": "RAMPA DA SERRA COMPRIDA",
+  "city": "AREIA BRANCA",
+  "state": "SE",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -107373561,
+    "longitudeE7": -373080254
+  },
+  "terrain": {
+    "altitudeM": 400,
+    "verticalDropM": 180
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/areia-branca-rampa-da-serra-comprida-se/",
+    "referenceUrl": "https://guia4ventos.com.br/areia-branca-rampa-da-serra-comprida-se/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

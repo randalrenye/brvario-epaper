@@ -1,0 +1,34 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2030,
+  "slug": "sidrolandia-rampa-do-prefeito-ms",
+  "name": "RAMPA DO PREFEITO",
+  "city": "SIDROLÂNDIA",
+  "state": "MS",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -210677615,
+    "longitudeE7": -555237865
+  },
+  "terrain": {
+    "altitudeM": 580,
+    "verticalDropM": 200
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "NW",
+    "SE",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/sidrolandia-rampa-do-prefeito-ms/",
+    "referenceUrl": "https://guia4ventos.com.br/sidrolandia-rampa-do-prefeito-ms/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

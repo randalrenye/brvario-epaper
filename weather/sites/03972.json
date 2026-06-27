@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3972,
+  "slug": "fartura-rampa-no-morro-do-mirante-sp",
+  "name": "RAMPA NO MORRO DO MIRANTE",
+  "city": "FARTURA",
+  "state": "SP",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -232859080,
+    "longitudeE7": -495852700
+  },
+  "terrain": {
+    "altitudeM": 1430,
+    "verticalDropM": 320
+  },
+  "windQuadrants": [
+    "S",
+    "SE",
+    "SW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/fartura-rampa-no-morro-do-mirante-sp/",
+    "referenceUrl": "https://guia4ventos.com.br/fartura-rampa-no-morro-do-mirante-sp/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

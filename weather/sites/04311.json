@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4311,
+  "slug": "duas-barras-rampa-mutuca-rj",
+  "name": "RAMPA MUTUCA",
+  "city": "DUAS BARRAS",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -220567470,
+    "longitudeE7": -424843450
+  },
+  "terrain": {
+    "altitudeM": 929,
+    "verticalDropM": 206
+  },
+  "windQuadrants": [
+    "N",
+    "NE",
+    "NW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/duas-barras-rampa-mutuca-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/duas-barras-rampa-mutuca-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

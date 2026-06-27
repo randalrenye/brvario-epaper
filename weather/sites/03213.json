@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3213,
+  "slug": "uba-divinesia-rampa-do-gaucho-mg",
+  "name": "RAMPA DO GAÚCHO",
+  "city": "UBÁ / DIVINÉSIA",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -210216410,
+    "longitudeE7": -429931280
+  },
+  "terrain": {
+    "altitudeM": 780,
+    "verticalDropM": 459
+  },
+  "windQuadrants": [
+    "N",
+    "NW",
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/uba-divinesia-rampa-do-gaucho-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/uba-divinesia-rampa-do-gaucho-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

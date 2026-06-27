@@ -1,0 +1,30 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3293,
+  "slug": "sao-sebastiao-da-bela-vista-serra-do-paredao-mg",
+  "name": "SERRA DO PAREDÃO",
+  "city": "SÃO SEBASTIÃO DA BELA VISTA",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -221959190,
+    "longitudeE7": -457425640
+  },
+  "terrain": {
+    "altitudeM": 1400,
+    "verticalDropM": 470
+  },
+  "windQuadrants": [
+    "N"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/sao-sebastiao-da-bela-vista-serra-do-paredao-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/sao-sebastiao-da-bela-vista-serra-do-paredao-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

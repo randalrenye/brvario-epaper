@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3008,
+  "slug": "santo-amaro-da-imperatriz-rampa-do-morro-do-queimado-sc",
+  "name": "MORRO DO QUEIMADO",
+  "city": "SANTO AMARO DA IMPERATRIZ",
+  "state": "SC",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -277173660,
+    "longitudeE7": -487798640
+  },
+  "terrain": {
+    "altitudeM": 600,
+    "verticalDropM": 580
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE",
+    "NW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/santo-amaro-da-imperatriz-rampa-do-morro-do-queimado-sc/",
+    "referenceUrl": "https://guia4ventos.com.br/santo-amaro-da-imperatriz-rampa-do-morro-do-queimado-sc/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

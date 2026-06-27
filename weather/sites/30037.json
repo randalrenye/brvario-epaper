@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 30037,
+  "slug": "formosa-rampa-do-borges-go",
+  "name": "RAMPA DO BORGES",
+  "city": "FORMOSA",
+  "state": "GO",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -152637596,
+    "longitudeE7": -475066547
+  },
+  "terrain": {
+    "altitudeM": 1245,
+    "verticalDropM": 513
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/formosa-rampa-do-borges-go/",
+    "referenceUrl": "https://guia4ventos.com.br/formosa-rampa-do-borges-go/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

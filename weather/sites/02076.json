@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2076,
+  "slug": "castelo-rampa-de-corrego-de-uba-es",
+  "name": "RAMPA DE CÓRREGO DE UBÁ",
+  "city": "CASTELO",
+  "state": "ES",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -206033800,
+    "longitudeE7": -410856900
+  },
+  "terrain": {
+    "altitudeM": 950,
+    "verticalDropM": 740
+  },
+  "windQuadrants": [
+    "N",
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/castelo-rampa-de-corrego-de-uba-es/",
+    "referenceUrl": "https://guia4ventos.com.br/castelo-rampa-de-corrego-de-uba-es/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

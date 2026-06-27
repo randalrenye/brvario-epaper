@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 38224,
+  "slug": "ribeira-do-pombal-rampa-jequia-do-sertao-ba",
+  "name": "RAMPA JEQUIÁ DO SERTÃO",
+  "city": "RIBEIRA DO POMBAL",
+  "state": "BA",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -108444720,
+    "longitudeE7": -387013610
+  },
+  "terrain": {
+    "altitudeM": 455,
+    "verticalDropM": 116
+  },
+  "windQuadrants": [
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/ribeira-do-pombal-rampa-jequia-do-sertao-ba/",
+    "referenceUrl": "https://guia4ventos.com.br/ribeira-do-pombal-rampa-jequia-do-sertao-ba/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 14082,
+  "slug": "serra-da-raiz-rampa-do-condominio-mirante-da-serra-pb",
+  "name": "RAMPA DO CONDOMÍNIO MIRANTE DA SERRA",
+  "city": "SERRA DA RAIZ",
+  "state": "PB",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -66869700,
+    "longitudeE7": -354288900
+  },
+  "terrain": {
+    "altitudeM": 300,
+    "verticalDropM": 150
+  },
+  "windQuadrants": [
+    "E",
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/serra-da-raiz-rampa-do-condominio-mirante-da-serra-pb/",
+    "referenceUrl": "https://guia4ventos.com.br/serra-da-raiz-rampa-do-condominio-mirante-da-serra-pb/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

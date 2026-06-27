@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2588,
+  "slug": "osorio-rampa-nordeste-do-morro-da-borussia-rs",
+  "name": "RAMPA NORDESTE DO MORRO DA BORÚSSIA",
+  "city": "OSÓRIO",
+  "state": "RS",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -298347807,
+    "longitudeE7": -502562499
+  },
+  "terrain": {
+    "altitudeM": 339,
+    "verticalDropM": 300
+  },
+  "windQuadrants": [
+    "E",
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/osorio-rampa-nordeste-do-morro-da-borussia-rs/",
+    "referenceUrl": "https://guia4ventos.com.br/osorio-rampa-nordeste-do-morro-da-borussia-rs/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

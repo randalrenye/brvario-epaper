@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 369,
+  "slug": "sao-vicente-santos-rampa-do-morro-do-votorua-itarare-sp",
+  "name": "RAMPA DO MORRO DO VOTORUÁ / ITARARÉ",
+  "city": "SÃO VICENTE / SANTOS",
+  "state": "SP",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -239649500,
+    "longitudeE7": -463626100
+  },
+  "terrain": {
+    "altitudeM": 182,
+    "verticalDropM": 182
+  },
+  "windQuadrants": [
+    "E",
+    "S",
+    "SE",
+    "SW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/sao-vicente-santos-rampa-do-morro-do-votorua-itarare-sp/",
+    "referenceUrl": "https://guia4ventos.com.br/sao-vicente-santos-rampa-do-morro-do-votorua-itarare-sp/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

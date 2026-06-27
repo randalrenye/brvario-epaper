@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3538,
+  "slug": "joao-monlevade-rampa-de-monlevade-mg",
+  "name": "RAMPA DE MONLEVADE",
+  "city": "JOÃO MONLEVADE",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -198376470,
+    "longitudeE7": -431582400
+  },
+  "terrain": {
+    "altitudeM": 1000,
+    "verticalDropM": 200
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/joao-monlevade-rampa-de-monlevade-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/joao-monlevade-rampa-de-monlevade-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

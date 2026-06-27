@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4461,
+  "slug": "buzios-rampa-da-serra-das-emerencias-rj",
+  "name": "TUCUNS - RAMPA DA SERRA DAS EMERÊNCIAS",
+  "city": "BÚZIOS",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -228060674,
+    "longitudeE7": -419376748
+  },
+  "terrain": {
+    "altitudeM": 173,
+    "verticalDropM": 173
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/buzios-rampa-da-serra-das-emerencias-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/buzios-rampa-da-serra-das-emerencias-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

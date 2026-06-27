@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3768,
+  "slug": "pompeu-serra-do-mucambo-mg",
+  "name": "SERRA DO MUCAMBO",
+  "city": "POMPÉU",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -192717940,
+    "longitudeE7": -448747870
+  },
+  "terrain": {
+    "altitudeM": 950,
+    "verticalDropM": 200
+  },
+  "windQuadrants": [
+    "SW",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/pompeu-serra-do-mucambo-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/pompeu-serra-do-mucambo-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

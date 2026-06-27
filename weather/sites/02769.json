@@ -1,0 +1,36 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2769,
+  "slug": "santo-antonio-do-sudoeste-cerro-negro-pr",
+  "name": "CERRO NEGRO",
+  "city": "SANTO ANTONIO DO SUDOESTE",
+  "state": "PR",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -260405640,
+    "longitudeE7": -536696090
+  },
+  "terrain": {
+    "altitudeM": 844,
+    "verticalDropM": 350
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE",
+    "NW",
+    "S",
+    "SE",
+    "SW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/santo-antonio-do-sudoeste-cerro-negro-pr/",
+    "referenceUrl": "https://guia4ventos.com.br/santo-antonio-do-sudoeste-cerro-negro-pr/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

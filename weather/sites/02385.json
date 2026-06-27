@@ -1,0 +1,37 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2385,
+  "slug": "juatama-rampa-pedra-dos-ventos-ce",
+  "name": "JUATAMA - RAMPA PEDRA DOS VENTOS",
+  "city": "QUIXADÁ",
+  "state": "CE",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -50702250,
+    "longitudeE7": -390439460
+  },
+  "terrain": {
+    "altitudeM": 520,
+    "verticalDropM": 280
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE",
+    "NW",
+    "S",
+    "SE",
+    "SW",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/juatama-rampa-pedra-dos-ventos-ce/",
+    "referenceUrl": "https://guia4ventos.com.br/juatama-rampa-pedra-dos-ventos-ce/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

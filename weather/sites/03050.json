@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3050,
+  "slug": "balneario-camboriu-rampa-do-morro-do-careca-sc",
+  "name": "RAMPA DO MORRO DO CARECA",
+  "city": "BALNEÁRIO CAMBORIÚ",
+  "state": "SC",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -269613520,
+    "longitudeE7": -486265530
+  },
+  "terrain": {
+    "altitudeM": 104,
+    "verticalDropM": 104
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/balneario-camboriu-rampa-do-morro-do-careca-sc/",
+    "referenceUrl": "https://guia4ventos.com.br/balneario-camboriu-rampa-do-morro-do-careca-sc/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

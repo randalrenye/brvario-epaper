@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2464,
+  "slug": "igrejinha-rampa-do-morro-alto-da-pedra-rs",
+  "name": "RAMPA DO MORRO ALTO DA PEDRA",
+  "city": "IGREJINHA",
+  "state": "RS",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -295283870,
+    "longitudeE7": -508419070
+  },
+  "terrain": {
+    "altitudeM": 745,
+    "verticalDropM": 650
+  },
+  "windQuadrants": [
+    "S",
+    "SE",
+    "SW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/igrejinha-rampa-do-morro-alto-da-pedra-rs/",
+    "referenceUrl": "https://guia4ventos.com.br/igrejinha-rampa-do-morro-alto-da-pedra-rs/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

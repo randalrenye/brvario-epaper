@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4455,
+  "slug": "rio-claro-rampa-do-lima-rj",
+  "name": "RAMPA DO LIMA",
+  "city": "RIO CLARO",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -227134430,
+    "longitudeE7": -441936460
+  },
+  "terrain": {
+    "altitudeM": 1180,
+    "verticalDropM": 680
+  },
+  "windQuadrants": [
+    "N",
+    "NE",
+    "NW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/rio-claro-rampa-do-lima-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/rio-claro-rampa-do-lima-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

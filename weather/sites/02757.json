@@ -1,0 +1,37 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2757,
+  "slug": "morro-do-cal-campo-largo-pr",
+  "name": "MORRO DO CAL",
+  "city": "CAMPO LARGO",
+  "state": "PR",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -253866000,
+    "longitudeE7": -495525000
+  },
+  "terrain": {
+    "altitudeM": 1050,
+    "verticalDropM": 200
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE",
+    "NW",
+    "S",
+    "SE",
+    "SW",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/morro-do-cal-campo-largo-pr/",
+    "referenceUrl": "https://guia4ventos.com.br/morro-do-cal-campo-largo-pr/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

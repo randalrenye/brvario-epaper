@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 1938,
+  "slug": "jaragua-rampa-de-jaragua-go",
+  "name": "RAMPA DE JARAGUÁ",
+  "city": "JARAGUÁ",
+  "state": "GO",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -157963831,
+    "longitudeE7": -493335274
+  },
+  "terrain": {
+    "altitudeM": 1013,
+    "verticalDropM": 330
+  },
+  "windQuadrants": [
+    "E",
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/jaragua-rampa-de-jaragua-go/",
+    "referenceUrl": "https://guia4ventos.com.br/jaragua-rampa-de-jaragua-go/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 50614,
+  "slug": "taio-rampa-de-voo-livre-de-taio-sc",
+  "name": "RAMPA DE VOO LIVRE DE TAIÓ",
+  "city": "TAIÓ",
+  "state": "SC",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -270657085,
+    "longitudeE7": -500577312
+  },
+  "terrain": {
+    "altitudeM": 784,
+    "verticalDropM": 402
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/taio-rampa-de-voo-livre-de-taio-sc/",
+    "referenceUrl": "https://guia4ventos.com.br/taio-rampa-de-voo-livre-de-taio-sc/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

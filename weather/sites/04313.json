@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4313,
+  "slug": "varre-sai-rampa-de-varre-sai-rj",
+  "name": "RAMPA DE VARRE-SAI",
+  "city": "VARRE-SAI",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -209545000,
+    "longitudeE7": -418455000
+  },
+  "terrain": {
+    "altitudeM": 700,
+    "verticalDropM": 500
+  },
+  "windQuadrants": [
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/varre-sai-rampa-de-varre-sai-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/varre-sai-rampa-de-varre-sai-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

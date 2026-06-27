@@ -1,0 +1,30 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 14787,
+  "slug": "natal-rampa-da-via-costeira-rn",
+  "name": "RAMPA DA VIA COSTEIRA",
+  "city": "NATAL",
+  "state": "RN",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -58576400,
+    "longitudeE7": -351814700
+  },
+  "terrain": {
+    "altitudeM": 30,
+    "verticalDropM": 30
+  },
+  "windQuadrants": [
+    "E"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/natal-rampa-da-via-costeira-rn/",
+    "referenceUrl": "https://guia4ventos.com.br/natal-rampa-da-via-costeira-rn/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

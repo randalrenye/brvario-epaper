@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2654,
+  "slug": "ribeirao-claro-rampa-do-morro-do-padilha-pr",
+  "name": "RAMPA DO MORRO DO PADILHA",
+  "city": "RIBEIRÃO CLARO",
+  "state": "PR",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -232309350,
+    "longitudeE7": -496746430
+  },
+  "terrain": {
+    "altitudeM": 800,
+    "verticalDropM": 300
+  },
+  "windQuadrants": [
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/ribeirao-claro-rampa-do-morro-do-padilha-pr/",
+    "referenceUrl": "https://guia4ventos.com.br/ribeirao-claro-rampa-do-morro-do-padilha-pr/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

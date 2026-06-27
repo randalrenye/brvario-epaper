@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4139,
+  "slug": "caraguatatuba-rampa-do-morro-de-santo-antonio-sp",
+  "name": "RAMPA DO MORRO DE SANTO ANTÔNIO",
+  "city": "CARAGUATATUBA",
+  "state": "SP",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -236097620,
+    "longitudeE7": -454011620
+  },
+  "terrain": {
+    "altitudeM": 325,
+    "verticalDropM": 325
+  },
+  "windQuadrants": [
+    "E",
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/caraguatatuba-rampa-do-morro-de-santo-antonio-sp/",
+    "referenceUrl": "https://guia4ventos.com.br/caraguatatuba-rampa-do-morro-de-santo-antonio-sp/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 39918,
+  "slug": "sao-bento-do-sapucai-rampa-da-quinta-dos-cogumelos-sp",
+  "name": "RAMPA DA QUINTA DOS COGUMELOS",
+  "city": "SÃO BENTO DO SAPUCAÍ",
+  "state": "SP",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -227338390,
+    "longitudeE7": -457874540
+  },
+  "terrain": {
+    "altitudeM": 1380,
+    "verticalDropM": 550
+  },
+  "windQuadrants": [
+    "N",
+    "NE",
+    "NW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/sao-bento-do-sapucai-rampa-da-quinta-dos-cogumelos-sp/",
+    "referenceUrl": "https://guia4ventos.com.br/sao-bento-do-sapucai-rampa-da-quinta-dos-cogumelos-sp/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

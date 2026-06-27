@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 1805,
+  "slug": "prado-rampa-da-praia-da-paixao-ba",
+  "name": "RAMPA DA PRAIA DA PAIXÃO",
+  "city": "PRADO",
+  "state": "BA",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -172657390,
+    "longitudeE7": -392200820
+  },
+  "terrain": {
+    "altitudeM": 40,
+    "verticalDropM": 40
+  },
+  "windQuadrants": [
+    "E",
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/prado-rampa-da-praia-da-paixao-ba/",
+    "referenceUrl": "https://guia4ventos.com.br/prado-rampa-da-praia-da-paixao-ba/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2595,
+  "slug": "agudo-cerro-da-figueira-rs",
+  "name": "CERRO DA FIGUEIRA",
+  "city": "AGUDO",
+  "state": "RS",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -296914570,
+    "longitudeE7": -532147610
+  },
+  "terrain": {
+    "altitudeM": 524,
+    "verticalDropM": 420
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NW",
+    "S",
+    "SE",
+    "SW",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/agudo-cerro-da-figueira-rs/",
+    "referenceUrl": "https://guia4ventos.com.br/agudo-cerro-da-figueira-rs/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

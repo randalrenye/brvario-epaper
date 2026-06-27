@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3116,
+  "slug": "florianopolis-rampa-da-lagoa-da-conceicao-sc",
+  "name": "RAMPAS DA LAGOA DA CONCEIÇÃO",
+  "city": "FLORIANÓPOLIS",
+  "state": "SC",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -275981950,
+    "longitudeE7": -484794990
+  },
+  "terrain": {
+    "altitudeM": 100,
+    "verticalDropM": 95
+  },
+  "windQuadrants": [
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/florianopolis-rampa-da-lagoa-da-conceicao-sc/",
+    "referenceUrl": "https://guia4ventos.com.br/florianopolis-rampa-da-lagoa-da-conceicao-sc/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

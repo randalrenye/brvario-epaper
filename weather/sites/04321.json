@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4321,
+  "slug": "tres-rios-rampa-no-morro-das-antenas-rj",
+  "name": "RAMPA NO MORRO DAS ANTENAS",
+  "city": "TRÊS RIOS",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -221417490,
+    "longitudeE7": -432155820
+  },
+  "terrain": {
+    "altitudeM": 630,
+    "verticalDropM": 340
+  },
+  "windQuadrants": [
+    "N",
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/tres-rios-rampa-no-morro-das-antenas-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/tres-rios-rampa-no-morro-das-antenas-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

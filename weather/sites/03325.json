@@ -1,0 +1,35 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3325,
+  "slug": "mateus-leme-rampa-da-serra-do-elefante-mg",
+  "name": "RAMPA DA SERRA DO ELEFANTE",
+  "city": "MATEUS LEME",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -199582430,
+    "longitudeE7": -444242800
+  },
+  "terrain": {
+    "altitudeM": 1250,
+    "verticalDropM": 400
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "S",
+    "SE",
+    "SW",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/mateus-leme-rampa-da-serra-do-elefante-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/mateus-leme-rampa-da-serra-do-elefante-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

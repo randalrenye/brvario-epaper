@@ -1,0 +1,35 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 1542,
+  "slug": "caceres-rampa-do-pico-dourado-mt",
+  "name": "RAMPA DO PICO DOURADO",
+  "city": "CÁCERES",
+  "state": "MT",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -163392920,
+    "longitudeE7": -575155870
+  },
+  "terrain": {
+    "altitudeM": 728,
+    "verticalDropM": 380
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE",
+    "NW",
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/caceres-rampa-do-pico-dourado-mt/",
+    "referenceUrl": "https://guia4ventos.com.br/caceres-rampa-do-pico-dourado-mt/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

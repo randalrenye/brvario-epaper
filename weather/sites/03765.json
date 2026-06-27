@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3765,
+  "slug": "montes-claros-rampa-rico-brito-senharo-mg-2",
+  "name": "RAMPA RICO BRITO - SENHARÓ",
+  "city": "MONTES CLAROS",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -165529970,
+    "longitudeE7": -437992000
+  },
+  "terrain": {
+    "altitudeM": 840,
+    "verticalDropM": 240
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/montes-claros-rampa-rico-brito-senharo-mg-2/",
+    "referenceUrl": "https://guia4ventos.com.br/montes-claros-rampa-rico-brito-senharo-mg-2/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

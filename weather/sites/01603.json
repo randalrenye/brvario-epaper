@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 1603,
+  "slug": "pindoba-rampa-de-pindoba-al",
+  "name": "RAMPA DE PINDOBA",
+  "city": "PINDOBA",
+  "state": "AL",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -95118700,
+    "longitudeE7": -362408000
+  },
+  "terrain": {
+    "altitudeM": 325,
+    "verticalDropM": 185
+  },
+  "windQuadrants": [
+    "E",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/pindoba-rampa-de-pindoba-al/",
+    "referenceUrl": "https://guia4ventos.com.br/pindoba-rampa-de-pindoba-al/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

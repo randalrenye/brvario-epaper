@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 1626,
+  "slug": "acailandia-escolinha-de-voo-livre-em-acailandia-ma",
+  "name": "ESCOLINHA DE VOO LIVRE EM AÇAILÂNDIA",
+  "city": "AÇAILÂNDIA",
+  "state": "MA",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -49691490,
+    "longitudeE7": -475209760
+  },
+  "terrain": {
+    "altitudeM": 235,
+    "verticalDropM": 52
+  },
+  "windQuadrants": [
+    "E",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/acailandia-escolinha-de-voo-livre-em-acailandia-ma/",
+    "referenceUrl": "https://guia4ventos.com.br/acailandia-escolinha-de-voo-livre-em-acailandia-ma/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://randalrenye.github.io/brvario-epaper/weather/catalog.schema.json",
+  "title": "BRVARIO Flight Site Catalog",
+  "type": "object",
+  "required": [
+    "schema",
+    "schemaVersion",
+    "catalogVersion",
+    "updatedAt",
+    "siteCount",
+    "sites"
+  ],
+  "properties": {
+    "schema": {
+      "const": "brvario.flight-sites.catalog"
+    },
+    "schemaVersion": {
+      "const": 1
+    },
+    "catalogVersion": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "updatedAt": {
+      "type": "string",
+      "format": "date"
+    },
+    "siteCount": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 512
+    },
+    "sites": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "name",
+          "city",
+          "state",
+          "latitudeE7",
+          "longitudeE7",
+          "altitudeM",
+          "windQuadrants",
+          "detail",
+          "source"
+        ],
+        "properties": {
+          "verticalDropM": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 9000
+          }
+        }
+      }
+    }
+  }
+}

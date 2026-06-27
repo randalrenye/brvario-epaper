@@ -1,0 +1,30 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 48744,
+  "slug": "madalena-rampa-de-voo-livre-de-madalena-ce",
+  "name": "RAMPA DE VOO LIVRE DE MADALENA",
+  "city": "MADALENA",
+  "state": "CE",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -48773655,
+    "longitudeE7": -396562778
+  },
+  "terrain": {
+    "altitudeM": 468,
+    "verticalDropM": 182
+  },
+  "windQuadrants": [
+    "E"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/madalena-rampa-de-voo-livre-de-madalena-ce/",
+    "referenceUrl": "https://guia4ventos.com.br/madalena-rampa-de-voo-livre-de-madalena-ce/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4196,
+  "slug": "nova-friburgo-rampa-do-pico-do-caledonia-rj",
+  "name": "RAMPA DO PICO DO CALEDÔNIA",
+  "city": "NOVA FRIBURGO",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -223509490,
+    "longitudeE7": -425790600
+  },
+  "terrain": {
+    "altitudeM": 2310,
+    "verticalDropM": 1400
+  },
+  "windQuadrants": [
+    "N"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/nova-friburgo-rampa-do-pico-do-caledonia-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/nova-friburgo-rampa-do-pico-do-caledonia-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

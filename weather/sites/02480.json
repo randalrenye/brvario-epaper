@@ -1,0 +1,36 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2480,
+  "slug": "porto-alegre-rampa-no-morro-do-tapera-rs",
+  "name": "RAMPA NO MORRO DO TAPERA",
+  "city": "PORTO ALEGRE",
+  "state": "RS",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -301430740,
+    "longitudeE7": -511902490
+  },
+  "terrain": {
+    "altitudeM": 252,
+    "verticalDropM": 202
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "NW",
+    "S",
+    "SE",
+    "SW",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/porto-alegre-rampa-no-morro-do-tapera-rs/",
+    "referenceUrl": "https://guia4ventos.com.br/porto-alegre-rampa-no-morro-do-tapera-rs/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

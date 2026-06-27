@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2544,
+  "slug": "viadutos-rampa-do-parque-norte-rs",
+  "name": "RAMPA DO PARQUE NORTE",
+  "city": "VIADUTOS",
+  "state": "RS",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -275834260,
+    "longitudeE7": -520437660
+  },
+  "terrain": {
+    "altitudeM": 800,
+    "verticalDropM": 150
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/viadutos-rampa-do-parque-norte-rs/",
+    "referenceUrl": "https://guia4ventos.com.br/viadutos-rampa-do-parque-norte-rs/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

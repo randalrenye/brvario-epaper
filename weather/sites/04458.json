@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4458,
+  "slug": "nova-iguacu-geneciano-rj",
+  "name": "GENECIANO",
+  "city": "NOVA IGUAÇU",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -226812700,
+    "longitudeE7": -434182500
+  },
+  "terrain": {
+    "altitudeM": 60,
+    "verticalDropM": 60
+  },
+  "windQuadrants": [
+    "E",
+    "S",
+    "SE",
+    "SW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/nova-iguacu-geneciano-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/nova-iguacu-geneciano-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

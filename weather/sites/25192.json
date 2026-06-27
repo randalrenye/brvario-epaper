@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 25192,
+  "slug": "sumidouro-rampa-da-fazenda-dona-mariana-rj",
+  "name": "RAMPA DA FAZENDA DONA MARIANA",
+  "city": "SUMIDOURO",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -221332378,
+    "longitudeE7": -426178887
+  },
+  "terrain": {
+    "altitudeM": 1126,
+    "verticalDropM": 644
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE",
+    "NW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/sumidouro-rampa-da-fazenda-dona-mariana-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/sumidouro-rampa-da-fazenda-dona-mariana-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

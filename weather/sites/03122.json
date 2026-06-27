@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3122,
+  "slug": "sao-francisco-do-sul-morro-da-enseada-sc",
+  "name": "MORRO DA ENSEADA",
+  "city": "SÃO FRANCISCO DO SUL",
+  "state": "SC",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -262240000,
+    "longitudeE7": -484985830
+  },
+  "terrain": {
+    "altitudeM": 124,
+    "verticalDropM": 70
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/sao-francisco-do-sul-morro-da-enseada-sc/",
+    "referenceUrl": "https://guia4ventos.com.br/sao-francisco-do-sul-morro-da-enseada-sc/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

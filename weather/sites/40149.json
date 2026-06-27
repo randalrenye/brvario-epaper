@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 40149,
+  "slug": "campo-do-meio-rampa-do-frog-mg",
+  "name": "RAMPA DO FROG",
+  "city": "CAMPO DO MEIO",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -211413890,
+    "longitudeE7": -457730560
+  },
+  "terrain": {
+    "altitudeM": 1036,
+    "verticalDropM": 220
+  },
+  "windQuadrants": [
+    "N",
+    "NE",
+    "NW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/campo-do-meio-rampa-do-frog-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/campo-do-meio-rampa-do-frog-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4058,
+  "slug": "piquete-pico-do-marins-sp",
+  "name": "PICO DO MARINS",
+  "city": "PIQUETE",
+  "state": "SP",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -225025000,
+    "longitudeE7": -451208330
+  },
+  "terrain": {
+    "altitudeM": 2420,
+    "verticalDropM": 1000
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE",
+    "NW",
+    "S",
+    "SE",
+    "SW",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/piquete-pico-do-marins-sp/",
+    "referenceUrl": "https://guia4ventos.com.br/piquete-pico-do-marins-sp/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

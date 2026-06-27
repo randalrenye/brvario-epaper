@@ -1,0 +1,30 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 1576,
+  "slug": "boa-vista-rampa-da-serra-da-moca-rr",
+  "name": "RAMPA DA SERRA DA MOÇA",
+  "city": "BOA VISTA",
+  "state": "RR",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": 31732980,
+    "longitudeE7": -606860070
+  },
+  "terrain": {
+    "altitudeM": 460,
+    "verticalDropM": 460
+  },
+  "windQuadrants": [
+    "E"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/boa-vista-rampa-da-serra-da-moca-rr/",
+    "referenceUrl": "https://guia4ventos.com.br/boa-vista-rampa-da-serra-da-moca-rr/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

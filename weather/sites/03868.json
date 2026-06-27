@@ -1,0 +1,35 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3868,
+  "slug": "rampa-pico-do-gaviao",
+  "name": "RAMPA DO PICO DO GAVIÃO",
+  "city": "ANDRADAS",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -220157780,
+    "longitudeE7": -466266150
+  },
+  "terrain": {
+    "altitudeM": 1663,
+    "verticalDropM": 700
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE",
+    "NW",
+    "SE",
+    "SW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/rampa-pico-do-gaviao/",
+    "referenceUrl": "https://guia4ventos.com.br/rampa-pico-do-gaviao/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

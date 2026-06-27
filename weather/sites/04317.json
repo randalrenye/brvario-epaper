@@ -1,0 +1,35 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4317,
+  "slug": "cantagalo-rampa-do-sao-jose-rj",
+  "name": "RAMPA DO SÃO JOSÉ",
+  "city": "CANTAGALO",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -220063236,
+    "longitudeE7": -423579383
+  },
+  "terrain": {
+    "altitudeM": 870,
+    "verticalDropM": 460
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE",
+    "NW",
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/cantagalo-rampa-do-sao-jose-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/cantagalo-rampa-do-sao-jose-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4463,
+  "slug": "cambuci-rampa-de-cambuci-rj",
+  "name": "RAMPA DE CAMBUCÍ",
+  "city": "CAMBUCÍ",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -215278410,
+    "longitudeE7": -418881230
+  },
+  "terrain": {
+    "altitudeM": 720,
+    "verticalDropM": 650
+  },
+  "windQuadrants": [
+    "E",
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/cambuci-rampa-de-cambuci-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/cambuci-rampa-de-cambuci-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2990,
+  "slug": "ararangua-rampa-do-morro-dos-conventos-sc",
+  "name": "RAMPA DO MORRO DOS CONVENTOS",
+  "city": "ARARANGUÁ",
+  "state": "SC",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -289395290,
+    "longitudeE7": -493658440
+  },
+  "terrain": {
+    "altitudeM": 80,
+    "verticalDropM": 80
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/ararangua-rampa-do-morro-dos-conventos-sc/",
+    "referenceUrl": "https://guia4ventos.com.br/ararangua-rampa-do-morro-dos-conventos-sc/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

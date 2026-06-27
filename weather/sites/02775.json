@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2775,
+  "slug": "tomazina-rampa-do-cruzeiro-pr",
+  "name": "RAMPA DO CRUZEIRO",
+  "city": "TOMAZINA",
+  "state": "PR",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -237803730,
+    "longitudeE7": -499667630
+  },
+  "terrain": {
+    "altitudeM": 600,
+    "verticalDropM": 181
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/tomazina-rampa-do-cruzeiro-pr/",
+    "referenceUrl": "https://guia4ventos.com.br/tomazina-rampa-do-cruzeiro-pr/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

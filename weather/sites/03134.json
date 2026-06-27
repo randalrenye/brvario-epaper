@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3134,
+  "slug": "porto-uniao-morro-do-carvao-sc",
+  "name": "MORRO DO CARVÃO",
+  "city": "PORTO UNIÃO",
+  "state": "SC",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -263313910,
+    "longitudeE7": -509320620
+  },
+  "terrain": {
+    "altitudeM": 1070,
+    "verticalDropM": 270
+  },
+  "windQuadrants": [
+    "N",
+    "NW",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/porto-uniao-morro-do-carvao-sc/",
+    "referenceUrl": "https://guia4ventos.com.br/porto-uniao-morro-do-carvao-sc/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

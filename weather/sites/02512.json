@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2512,
+  "slug": "sapiranga-rampa-no-morro-do-ferrabraz-rs",
+  "name": "RAMPA NO MORRO DO FERRABRAZ",
+  "city": "SAPIRANGA",
+  "state": "RS",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -296043340,
+    "longitudeE7": -509691270
+  },
+  "terrain": {
+    "altitudeM": 575,
+    "verticalDropM": 526
+  },
+  "windQuadrants": [
+    "S",
+    "SE",
+    "SW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/sapiranga-rampa-no-morro-do-ferrabraz-rs/",
+    "referenceUrl": "https://guia4ventos.com.br/sapiranga-rampa-no-morro-do-ferrabraz-rs/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

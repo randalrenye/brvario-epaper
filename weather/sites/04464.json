@@ -1,0 +1,35 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4464,
+  "slug": "campos-dos-goytacazes-rampa-do-morro-do-itaoca-rj",
+  "name": "RAMPA DO MORRO DO ITAÓCA",
+  "city": "CAMPOS DOS GOYTACAZES",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -217942090,
+    "longitudeE7": -414475830
+  },
+  "terrain": {
+    "altitudeM": 414,
+    "verticalDropM": 328
+  },
+  "windQuadrants": [
+    "N",
+    "NE",
+    "NW",
+    "S",
+    "SE",
+    "SW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/campos-dos-goytacazes-rampa-do-morro-do-itaoca-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/campos-dos-goytacazes-rampa-do-morro-do-itaoca-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

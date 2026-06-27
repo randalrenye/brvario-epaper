@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3969,
+  "slug": "taquaritinga-rampas-na-serra-do-jaboticabal-sp",
+  "name": "RAMPAS NA SERRA DO JABOTICABAL",
+  "city": "TAQUARITINGA",
+  "state": "SP",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -213605560,
+    "longitudeE7": -485286110
+  },
+  "terrain": {
+    "altitudeM": 950,
+    "verticalDropM": 110
+  },
+  "windQuadrants": [
+    "N",
+    "S",
+    "SW",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/taquaritinga-rampas-na-serra-do-jaboticabal-sp/",
+    "referenceUrl": "https://guia4ventos.com.br/taquaritinga-rampas-na-serra-do-jaboticabal-sp/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

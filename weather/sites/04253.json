@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4253,
+  "slug": "teresopolis-rampa-da-granja-mafra-rj",
+  "name": "RAMPA DA GRANJA MAFRA",
+  "city": "TERESÓPOLIS",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -223025370,
+    "longitudeE7": -429118250
+  },
+  "terrain": {
+    "altitudeM": 1200,
+    "verticalDropM": 300
+  },
+  "windQuadrants": [
+    "N",
+    "NE",
+    "NW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/teresopolis-rampa-da-granja-mafra-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/teresopolis-rampa-da-granja-mafra-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

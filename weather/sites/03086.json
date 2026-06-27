@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3086,
+  "slug": "salete-rampa-do-ipva-sc",
+  "name": "RAMPA DO IPVA",
+  "city": "SALETE",
+  "state": "SC",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -269844040,
+    "longitudeE7": -500446610
+  },
+  "terrain": {
+    "altitudeM": 850,
+    "verticalDropM": 390
+  },
+  "windQuadrants": [
+    "E",
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/salete-rampa-do-ipva-sc/",
+    "referenceUrl": "https://guia4ventos.com.br/salete-rampa-do-ipva-sc/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

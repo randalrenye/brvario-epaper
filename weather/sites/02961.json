@@ -1,0 +1,30 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2961,
+  "slug": "florianopolis-rampa-de-praia-mole-sc",
+  "name": "RAMPA DE PRAIA MOLE",
+  "city": "FLORIANÓPOLIS",
+  "state": "SC",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -276085900,
+    "longitudeE7": -484377340
+  },
+  "terrain": {
+    "altitudeM": 85,
+    "verticalDropM": 85
+  },
+  "windQuadrants": [
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/florianopolis-rampa-de-praia-mole-sc/",
+    "referenceUrl": "https://guia4ventos.com.br/florianopolis-rampa-de-praia-mole-sc/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3758,
+  "slug": "inhapim-rampa-dona-quinquinha-mg",
+  "name": "RAMPA DONA QUINQUINHA",
+  "city": "INHAPIM",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -195013910,
+    "longitudeE7": -420648330
+  },
+  "terrain": {
+    "altitudeM": 822,
+    "verticalDropM": 468
+  },
+  "windQuadrants": [
+    "N",
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/inhapim-rampa-dona-quinquinha-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/inhapim-rampa-dona-quinquinha-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

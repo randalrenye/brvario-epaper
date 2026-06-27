@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4453,
+  "slug": "rio-de-janeiro-paciencia-rampa-rio-rural-rj",
+  "name": "PACIÊNCIA - RAMPA RIO RURAL",
+  "city": "RIO DE JANEIRO",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -229407100,
+    "longitudeE7": -436319970
+  },
+  "terrain": {
+    "altitudeM": 183,
+    "verticalDropM": 183
+  },
+  "windQuadrants": [
+    "N",
+    "NW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/rio-de-janeiro-paciencia-rampa-rio-rural-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/rio-de-janeiro-paciencia-rampa-rio-rural-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 1639,
+  "slug": "tibau-do-sul-praia-da-pipa-rn",
+  "name": "PRAIA DA PIPA",
+  "city": "TIBAU DO SUL",
+  "state": "RN",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -62284459,
+    "longitudeE7": -350433826
+  },
+  "terrain": {
+    "altitudeM": 50,
+    "verticalDropM": 50
+  },
+  "windQuadrants": [
+    "E"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/tibau-do-sul-praia-da-pipa-rn/",
+    "referenceUrl": "https://guia4ventos.com.br/tibau-do-sul-praia-da-pipa-rn/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2966,
+  "slug": "garopaba-rampa-do-morro-do-ferraz-sc",
+  "name": "RAMPA DO MORRO DO FERRAZ",
+  "city": "GAROPABA",
+  "state": "SC",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -280193520,
+    "longitudeE7": -486357190
+  },
+  "terrain": {
+    "altitudeM": 130,
+    "verticalDropM": 130
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/garopaba-rampa-do-morro-do-ferraz-sc/",
+    "referenceUrl": "https://guia4ventos.com.br/garopaba-rampa-do-morro-do-ferraz-sc/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

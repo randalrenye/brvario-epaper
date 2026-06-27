@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"path": "../../Downloads/Weather-Monitor-LilyGo-T5-4.7in-e-paper-master"
+		},
+		{
+			"name": "LilyGo-EPD-4-7-OWM-Weather-Display-web",
+			"path": "../../Downloads/LilyGo-EPD-4-7-OWM-Weather-Display-web"
+		},
+		{
+			"name": "LilyGo-EPD47-esp32s3",
+			"path": "../../Downloads/LilyGo-EPD47-esp32s3"
+		},
+		{
+			"name": "brvariodisplay",
+			"path": "../PlatformIO/Projects/brvariodisplay"
+		},
+		{
+			"name": "BRVARIO-EPAPER",
+			"path": "."
+		},
+		{
+			"name": "touch epaper",
+			"path": "../touch epaper"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "BRVARIO-EPAPER"
+	}
+}

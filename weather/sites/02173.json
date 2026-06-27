@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2173,
+  "slug": "nova-almeida-rampa-da-falesia-serra-es",
+  "name": "RAMPA DA FALÉSIA - SERRA",
+  "city": "NOVA ALMEIDA",
+  "state": "ES",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -200687050,
+    "longitudeE7": -401800090
+  },
+  "terrain": {
+    "altitudeM": 20,
+    "verticalDropM": 20
+  },
+  "windQuadrants": [
+    "E",
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/nova-almeida-rampa-da-falesia-serra-es/",
+    "referenceUrl": "https://guia4ventos.com.br/nova-almeida-rampa-da-falesia-serra-es/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

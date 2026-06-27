@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4460,
+  "slug": "sumidouro-rampa-de-caramandu-rj",
+  "name": "RAMPA DE CARAMANDU",
+  "city": "SUMIDOURO",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -221268408,
+    "longitudeE7": -426655170
+  },
+  "terrain": {
+    "altitudeM": 1080,
+    "verticalDropM": 420
+  },
+  "windQuadrants": [
+    "N",
+    "NE",
+    "NW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/sumidouro-rampa-de-caramandu-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/sumidouro-rampa-de-caramandu-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

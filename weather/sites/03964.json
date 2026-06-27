@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3964,
+  "slug": "guaruja-praia-da-enseada-rampa-do-morro-do-maluf-sp",
+  "name": "PRAIA DA ENSEADA - RAMPA DO MORRO DO MA",
+  "city": "GUARUJÁ",
+  "state": "SP",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -239941800,
+    "longitudeE7": -462481100
+  },
+  "terrain": {
+    "altitudeM": 100,
+    "verticalDropM": 100
+  },
+  "windQuadrants": [
+    "E",
+    "S"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/guaruja-praia-da-enseada-rampa-do-morro-do-maluf-sp/",
+    "referenceUrl": "https://guia4ventos.com.br/guaruja-praia-da-enseada-rampa-do-morro-do-maluf-sp/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

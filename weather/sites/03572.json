@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3572,
+  "slug": "extrema-rampa-do-pico-do-lobo-guara-mg",
+  "name": "RAMPA DO PICO DO LOBO GUARÁ",
+  "city": "EXTREMA",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -228161900,
+    "longitudeE7": -462492240
+  },
+  "terrain": {
+    "altitudeM": 1350,
+    "verticalDropM": 540
+  },
+  "windQuadrants": [
+    "S",
+    "SE",
+    "SW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/extrema-rampa-do-pico-do-lobo-guara-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/extrema-rampa-do-pico-do-lobo-guara-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

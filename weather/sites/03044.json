@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3044,
+  "slug": "ascurra-rampa-de-serra-leoa-sc",
+  "name": "RAMPA DE SERRA LEOA",
+  "city": "ASCURRA",
+  "state": "SC",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -269131130,
+    "longitudeE7": -494235990
+  },
+  "terrain": {
+    "altitudeM": 950,
+    "verticalDropM": 850
+  },
+  "windQuadrants": [
+    "E",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/ascurra-rampa-de-serra-leoa-sc/",
+    "referenceUrl": "https://guia4ventos.com.br/ascurra-rampa-de-serra-leoa-sc/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

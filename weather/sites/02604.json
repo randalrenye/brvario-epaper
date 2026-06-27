@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2604,
+  "slug": "roca-sales-morro-do-bicudo-rs",
+  "name": "MORRO DO BICUDO",
+  "city": "ROCA SALES",
+  "state": "RS",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -293257340,
+    "longitudeE7": -518575310
+  },
+  "terrain": {
+    "altitudeM": 450,
+    "verticalDropM": 400
+  },
+  "windQuadrants": [
+    "N",
+    "NE",
+    "NW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/roca-sales-morro-do-bicudo-rs/",
+    "referenceUrl": "https://guia4ventos.com.br/roca-sales-morro-do-bicudo-rs/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

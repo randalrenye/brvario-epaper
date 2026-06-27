@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3671,
+  "slug": "alto-caparao-rampa-de-monte-castelo-mg",
+  "name": "RAMPA DE MONTE CASTELO",
+  "city": "ALTO CAPARAÓ",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -204898410,
+    "longitudeE7": -418523420
+  },
+  "terrain": {
+    "altitudeM": 1570,
+    "verticalDropM": 650
+  },
+  "windQuadrants": [
+    "N",
+    "NE",
+    "NW",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/alto-caparao-rampa-de-monte-castelo-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/alto-caparao-rampa-de-monte-castelo-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

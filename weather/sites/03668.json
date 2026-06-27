@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3668,
+  "slug": "bicas-rampa-de-machados-mg",
+  "name": "RAMPA DE MACHADOS",
+  "city": "BICAS",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -216733220,
+    "longitudeE7": -431364870
+  },
+  "terrain": {
+    "altitudeM": 770,
+    "verticalDropM": 380
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/bicas-rampa-de-machados-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/bicas-rampa-de-machados-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

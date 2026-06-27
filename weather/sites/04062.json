@@ -1,0 +1,30 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4062,
+  "slug": "ubatuba-rampa-de-ubatuba-sp",
+  "name": "RAMPA DE UBATUBA",
+  "city": "UBATUBA",
+  "state": "SP",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -233585400,
+    "longitudeE7": -449440290
+  },
+  "terrain": {
+    "altitudeM": 120,
+    "verticalDropM": 119
+  },
+  "windQuadrants": [
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/ubatuba-rampa-de-ubatuba-sp/",
+    "referenceUrl": "https://guia4ventos.com.br/ubatuba-rampa-de-ubatuba-sp/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

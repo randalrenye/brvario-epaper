@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 1645,
+  "slug": "areia-branca-rampa-da-praia-da-ponta-do-mel-rn",
+  "name": "RAMPA DA PRAIA DA PONTA DO MEL",
+  "city": "AREIA BRANCA",
+  "state": "RN",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -49608550,
+    "longitudeE7": -368754150
+  },
+  "terrain": {
+    "altitudeM": 120,
+    "verticalDropM": 120
+  },
+  "windQuadrants": [
+    "N",
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/areia-branca-rampa-da-praia-da-ponta-do-mel-rn/",
+    "referenceUrl": "https://guia4ventos.com.br/areia-branca-rampa-da-praia-da-ponta-do-mel-rn/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 417,
+  "slug": "sao-bento-do-sapucai-rampa-da-pedra-do-bau-sp",
+  "name": "RAMPA DA PEDRA DO BAÚ",
+  "city": "SÃO BENTO DO SAPUCAÍ",
+  "state": "SP",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -226804700,
+    "longitudeE7": -456504250
+  },
+  "terrain": {
+    "altitudeM": 1810,
+    "verticalDropM": 890
+  },
+  "windQuadrants": [
+    "N",
+    "NE",
+    "NW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/sao-bento-do-sapucai-rampa-da-pedra-do-bau-sp/",
+    "referenceUrl": "https://guia4ventos.com.br/sao-bento-do-sapucai-rampa-da-pedra-do-bau-sp/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

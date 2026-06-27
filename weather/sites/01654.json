@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 1654,
+  "slug": "aracaju-rampa-no-morro-do-urubu-se",
+  "name": "RAMPA NO MORRO DO URUBU",
+  "city": "ARACAJU",
+  "state": "SE",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -108454451,
+    "longitudeE7": -370168877
+  },
+  "terrain": {
+    "altitudeM": 88,
+    "verticalDropM": 88
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/aracaju-rampa-no-morro-do-urubu-se/",
+    "referenceUrl": "https://guia4ventos.com.br/aracaju-rampa-no-morro-do-urubu-se/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

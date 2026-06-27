@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 1480,
+  "slug": "rampa-barra-do-garcas-mt",
+  "name": "RAMPA NORTE",
+  "city": "BARRA DO GARÇAS",
+  "state": "MT",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -158413762,
+    "longitudeE7": -522790735
+  },
+  "terrain": {
+    "altitudeM": 705,
+    "verticalDropM": 330
+  },
+  "windQuadrants": [
+    "N",
+    "NW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/rampa-barra-do-garcas-mt/",
+    "referenceUrl": "https://guia4ventos.com.br/rampa-barra-do-garcas-mt/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

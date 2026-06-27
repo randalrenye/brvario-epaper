@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2559,
+  "slug": "morrinhos-do-sul-rampa-morro-do-fornol-rs",
+  "name": "RAMPA DE MORRO DO FORNO",
+  "city": "MORRINHOS DO SUL",
+  "state": "RS",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -293387130,
+    "longitudeE7": -499667470
+  },
+  "terrain": {
+    "altitudeM": 455,
+    "verticalDropM": 443
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/morrinhos-do-sul-rampa-morro-do-fornol-rs/",
+    "referenceUrl": "https://guia4ventos.com.br/morrinhos-do-sul-rampa-morro-do-fornol-rs/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

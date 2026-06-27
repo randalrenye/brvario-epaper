@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 1503,
+  "slug": "chapada-dos-guimaraes-rampa-do-mirante-geodesico-mt",
+  "name": "RAMPA DO MIRANTE GEODÉSICO",
+  "city": "CHAPADA DOS GUIMARÃES",
+  "state": "MT",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -154802860,
+    "longitudeE7": -556877180
+  },
+  "terrain": {
+    "altitudeM": 750,
+    "verticalDropM": 690
+  },
+  "windQuadrants": [
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/chapada-dos-guimaraes-rampa-do-mirante-geodesico-mt/",
+    "referenceUrl": "https://guia4ventos.com.br/chapada-dos-guimaraes-rampa-do-mirante-geodesico-mt/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

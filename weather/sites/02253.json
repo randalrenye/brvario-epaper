@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2253,
+  "slug": "jardim-rampa-cruzeiro-da-mae-baioca-ce",
+  "name": "RAMPA CRUZEIRO DA MÃE BAIOCA",
+  "city": "JARDIM",
+  "state": "CE",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -76085210,
+    "longitudeE7": -392764940
+  },
+  "terrain": {
+    "altitudeM": 880,
+    "verticalDropM": 220
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/jardim-rampa-cruzeiro-da-mae-baioca-ce/",
+    "referenceUrl": "https://guia4ventos.com.br/jardim-rampa-cruzeiro-da-mae-baioca-ce/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4452,
+  "slug": "duque-de-caxias-jardim-amapa-rj",
+  "name": "RAMPA DO JARDIM AMAPÁ",
+  "city": "DUQUE DE CAXIAS",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -226677990,
+    "longitudeE7": -433469010
+  },
+  "terrain": {
+    "altitudeM": 80,
+    "verticalDropM": 70
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NW",
+    "S",
+    "SE",
+    "SW",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/duque-de-caxias-jardim-amapa-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/duque-de-caxias-jardim-amapa-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

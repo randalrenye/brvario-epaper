@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4312,
+  "slug": "paraty-rampa-do-morro-do-jacu-rj",
+  "name": "RAMPA DO MORRO DO JACU",
+  "city": "PARATY",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -232139770,
+    "longitudeE7": -447635700
+  },
+  "terrain": {
+    "altitudeM": 270,
+    "verticalDropM": 250
+  },
+  "windQuadrants": [
+    "E",
+    "S",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/paraty-rampa-do-morro-do-jacu-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/paraty-rampa-do-morro-do-jacu-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

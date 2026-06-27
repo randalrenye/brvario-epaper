@@ -1,0 +1,37 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2024,
+  "slug": "rio-negro-rampa-de-rio-negro-ms",
+  "name": "RAMPA DE RIO NEGRO",
+  "city": "RIO NEGRO",
+  "state": "MS",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -196500000,
+    "longitudeE7": -549166667
+  },
+  "terrain": {
+    "altitudeM": 600,
+    "verticalDropM": 185
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE",
+    "NW",
+    "S",
+    "SE",
+    "SW",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/rio-negro-rampa-de-rio-negro-ms/",
+    "referenceUrl": "https://guia4ventos.com.br/rio-negro-rampa-de-rio-negro-ms/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

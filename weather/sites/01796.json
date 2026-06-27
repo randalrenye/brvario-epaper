@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 1796,
+  "slug": "arraial-dajuda-rampa-de-taipe-pitinga-ba",
+  "name": "RAMPA DE TAÍPE / PITINGA",
+  "city": "ARRAIAL D’AJUDA",
+  "state": "BA",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -165321830,
+    "longitudeE7": -390823560
+  },
+  "terrain": {
+    "altitudeM": 40,
+    "verticalDropM": 40
+  },
+  "windQuadrants": [
+    "E",
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/arraial-dajuda-rampa-de-taipe-pitinga-ba/",
+    "referenceUrl": "https://guia4ventos.com.br/arraial-dajuda-rampa-de-taipe-pitinga-ba/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

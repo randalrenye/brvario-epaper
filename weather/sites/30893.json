@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 30893,
+  "slug": "petrolina-rampa-de-voo-livre-de-petrolina-pe",
+  "name": "RAMPA DE VOO LIVRE DE PETROLINA",
+  "city": "PETROLINA",
+  "state": "PE",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -92320810,
+    "longitudeE7": -406897420
+  },
+  "terrain": {
+    "altitudeM": 625,
+    "verticalDropM": 150
+  },
+  "windQuadrants": [
+    "E",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/petrolina-rampa-de-voo-livre-de-petrolina-pe/",
+    "referenceUrl": "https://guia4ventos.com.br/petrolina-rampa-de-voo-livre-de-petrolina-pe/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

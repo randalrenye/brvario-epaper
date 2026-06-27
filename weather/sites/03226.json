@@ -1,0 +1,35 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3226,
+  "slug": "rampa-do-pico-da-ibituruna-mg",
+  "name": "RAMPA DO PICO DA IBITURUNA",
+  "city": "GOVERNADOR VALADARES",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -188861375,
+    "longitudeE7": -419151753
+  },
+  "terrain": {
+    "altitudeM": 1123,
+    "verticalDropM": 860
+  },
+  "windQuadrants": [
+    "N",
+    "NE",
+    "NW",
+    "S",
+    "SE",
+    "SW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/rampa-do-pico-da-ibituruna-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/rampa-do-pico-da-ibituruna-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

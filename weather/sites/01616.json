@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 1616,
+  "slug": "sao-jose-de-ribamar-rampa-de-panaquatira-paco-do-lumiar-ma",
+  "name": "RAMPA DE PANAQUATIRA - PAÇO DO LUMIAR",
+  "city": "SÃO JOSÉ DE RIBAMAR",
+  "state": "MA",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -25540540,
+    "longitudeE7": -440381810
+  },
+  "terrain": {
+    "altitudeM": 30,
+    "verticalDropM": 25
+  },
+  "windQuadrants": [
+    "E",
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/sao-jose-de-ribamar-rampa-de-panaquatira-paco-do-lumiar-ma/",
+    "referenceUrl": "https://guia4ventos.com.br/sao-jose-de-ribamar-rampa-de-panaquatira-paco-do-lumiar-ma/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

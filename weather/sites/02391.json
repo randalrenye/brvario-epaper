@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2391,
+  "slug": "ipu-rampa-de-ipu-ce",
+  "name": "RAMPA DE IPÚ",
+  "city": "IPÚ",
+  "state": "CE",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -42984350,
+    "longitudeE7": -407161530
+  },
+  "terrain": {
+    "altitudeM": 460,
+    "verticalDropM": 350
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/ipu-rampa-de-ipu-ce/",
+    "referenceUrl": "https://guia4ventos.com.br/ipu-rampa-de-ipu-ce/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

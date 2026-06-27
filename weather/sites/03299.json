@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3299,
+  "slug": "brumadinho-rampa-da-serra-da-moeda-mg",
+  "name": "RAMPA DA SERRA DA MOEDA",
+  "city": "BRUMADINHO",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -201953266,
+    "longitudeE7": -439789152
+  },
+  "terrain": {
+    "altitudeM": 1450,
+    "verticalDropM": 580
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "NW",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/brumadinho-rampa-da-serra-da-moeda-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/brumadinho-rampa-da-serra-da-moeda-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

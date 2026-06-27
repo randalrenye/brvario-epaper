@@ -1,0 +1,37 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3809,
+  "slug": "passa-quatro-pedra-da-mina-mg",
+  "name": "PEDRA DA MINA",
+  "city": "PASSA QUATRO",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -224280300,
+    "longitudeE7": -448430640
+  },
+  "terrain": {
+    "altitudeM": 2789,
+    "verticalDropM": 1500
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE",
+    "NW",
+    "S",
+    "SE",
+    "SW",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/passa-quatro-pedra-da-mina-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/passa-quatro-pedra-da-mina-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

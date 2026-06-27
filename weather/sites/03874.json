@@ -1,0 +1,30 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3874,
+  "slug": "carrancas-rampa-de-carrancas-mg",
+  "name": "RAMPA DE CARRANCAS",
+  "city": "CARRANCAS",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -214481260,
+    "longitudeE7": -446670520
+  },
+  "terrain": {
+    "altitudeM": 220,
+    "verticalDropM": 180
+  },
+  "windQuadrants": [
+    "N"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/carrancas-rampa-de-carrancas-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/carrancas-rampa-de-carrancas-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3240,
+  "slug": "conceicao-de-ibitipoca-rampa-de-ibitipoca-mg",
+  "name": "RAMPA DE IBITIPOCA",
+  "city": "CONCEIÇÃO DE IBITIPOCA",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -217329020,
+    "longitudeE7": -439196380
+  },
+  "terrain": {
+    "altitudeM": 1220,
+    "verticalDropM": 400
+  },
+  "windQuadrants": [
+    "S",
+    "SE",
+    "SW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/conceicao-de-ibitipoca-rampa-de-ibitipoca-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/conceicao-de-ibitipoca-rampa-de-ibitipoca-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

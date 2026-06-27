@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3973,
+  "slug": "pedra-bela-rampa-arara-dos-binos-sp",
+  "name": "RAMPA ARARA DOS BINOS",
+  "city": "PEDRA BELA",
+  "state": "SP",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -228087820,
+    "longitudeE7": -465041400
+  },
+  "terrain": {
+    "altitudeM": 1050,
+    "verticalDropM": 240
+  },
+  "windQuadrants": [
+    "S",
+    "SE",
+    "SW"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/pedra-bela-rampa-arara-dos-binos-sp/",
+    "referenceUrl": "https://guia4ventos.com.br/pedra-bela-rampa-arara-dos-binos-sp/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 2397,
+  "slug": "guaraciaba-do-norte-urubu-ecoparque-ce",
+  "name": "URUBU ECOPARQUE",
+  "city": "GUARACIABA DO NORTE",
+  "state": "CE",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -41577050,
+    "longitudeE7": -407045490
+  },
+  "terrain": {
+    "altitudeM": 998,
+    "verticalDropM": 650
+  },
+  "windQuadrants": [
+    "E",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/guaraciaba-do-norte-urubu-ecoparque-ce/",
+    "referenceUrl": "https://guia4ventos.com.br/guaraciaba-do-norte-urubu-ecoparque-ce/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

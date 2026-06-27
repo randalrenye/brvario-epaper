@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3807,
+  "slug": "varzea-da-palma-rampa-do-carmo-mg",
+  "name": "RAMPA DO CARMO",
+  "city": "VÁRZEA DA PALMA",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -174330140,
+    "longitudeE7": -445621860
+  },
+  "terrain": {
+    "altitudeM": 770,
+    "verticalDropM": 200
+  },
+  "windQuadrants": [
+    "E",
+    "NE",
+    "SE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/varzea-da-palma-rampa-do-carmo-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/varzea-da-palma-rampa-do-carmo-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4249,
+  "slug": "valenca-rampa-do-morro-da-torre-rj",
+  "name": "RAMPA DO MORRO DA TORRE",
+  "city": "VALENÇA",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -222627000,
+    "longitudeE7": -436931370
+  },
+  "terrain": {
+    "altitudeM": 960,
+    "verticalDropM": 435
+  },
+  "windQuadrants": [
+    "N",
+    "NE"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/valenca-rampa-do-morro-da-torre-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/valenca-rampa-do-morro-da-torre-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

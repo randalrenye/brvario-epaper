@@ -1,0 +1,36 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 4467,
+  "slug": "nova-friburgo-rampa-da-pedra-da-catarina-rj",
+  "name": "RAMPA DA PEDRA DA CATARINA",
+  "city": "NOVA FRIBURGO",
+  "state": "RJ",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -222947750,
+    "longitudeE7": -425586750
+  },
+  "terrain": {
+    "altitudeM": 1500,
+    "verticalDropM": 560
+  },
+  "windQuadrants": [
+    "E",
+    "N",
+    "NE",
+    "NW",
+    "S",
+    "SE",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/nova-friburgo-rampa-da-pedra-da-catarina-rj/",
+    "referenceUrl": "https://guia4ventos.com.br/nova-friburgo-rampa-da-pedra-da-catarina-rj/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

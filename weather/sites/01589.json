@@ -1,0 +1,32 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 1589,
+  "slug": "ouro-preto-do-oeste-rampa-no-morro-chico-mendes-ro",
+  "name": "RAMPA NO MORRO CHICO MENDES",
+  "city": "OURO PRETO DO OESTE",
+  "state": "RO",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -107297930,
+    "longitudeE7": -622208870
+  },
+  "terrain": {
+    "altitudeM": 400,
+    "verticalDropM": 199
+  },
+  "windQuadrants": [
+    "E",
+    "NW",
+    "S"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/ouro-preto-do-oeste-rampa-no-morro-chico-mendes-ro/",
+    "referenceUrl": "https://guia4ventos.com.br/ouro-preto-do-oeste-rampa-no-morro-chico-mendes-ro/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema": "brvario.flight-site",
+  "schemaVersion": 1,
+  "id": 3870,
+  "slug": "brasopolis-rampa-do-mirante-vo-cotinha-mg",
+  "name": "RAMPA DO MIRANTE VÓ COTINHA",
+  "city": "BRASÓPOLIS",
+  "state": "MG",
+  "country": "BR",
+  "coordinates": {
+    "latitudeE7": -225183850,
+    "longitudeE7": -455977680
+  },
+  "terrain": {
+    "altitudeM": 1520,
+    "verticalDropM": 650
+  },
+  "windQuadrants": [
+    "E",
+    "S",
+    "SE",
+    "W"
+  ],
+  "provenance": {
+    "dataOwner": "BRVARIO",
+    "sourceName": "Guia 4 Ventos - referência factual",
+    "sourceUrl": "https://guia4ventos.com.br/brasopolis-rampa-do-mirante-vo-cotinha-mg/",
+    "referenceUrl": "https://guia4ventos.com.br/brasopolis-rampa-do-mirante-vo-cotinha-mg/",
+    "license": "NOASSERTION - somente fatos objetivos, sem conteúdo editorial",
+    "contributedBy": "Importador factual BRVARIO",
+    "lastVerified": "2026-06-19"
+  }
+}
