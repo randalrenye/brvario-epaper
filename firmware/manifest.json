@@ -1,0 +1,13 @@
+{
+    "schema":  "brvario.firmware",
+    "schemaVersion":  1,
+    "channel":  "stable",
+    "board":  "T5-ePaper-S3",
+    "version":  "0.1.1",
+    "build":  2,
+    "url":  "https://randalrenye.github.io/brvario-epaper/firmware/brvario-epaper-T5-ePaper-S3-v0.1.1.bin",
+    "size":  2138688,
+    "sha256":  "2453eaa004f8377d8e35b5a1c5fb547f044c080211b14a93bc81b904bd82e851",
+    "mandatory":  false,
+    "notes":  "Teste inicial do atualizador OTA do BRVARIO"
+}
