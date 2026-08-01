@@ -1,0 +1,46 @@
+name: Relatar problema
+description: Informe um problema no firmware ou nos dados públicos do BRVARIO.
+title: "[Problema] "
+labels:
+  - bug
+body:
+  - type: dropdown
+    id: area
+    attributes:
+      label: Área afetada
+      options:
+        - Firmware
+        - Mapa offline
+        - Rampas ou meteorologia
+        - Atualização OTA
+        - Documentação
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: Versão do firmware
+      placeholder: Exemplo: 0.1.1 build 2
+
+  - type: textarea
+    id: description
+    attributes:
+      label: O que aconteceu?
+      description: Explique o resultado observado e o resultado esperado.
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Como reproduzir
+      description: Liste os passos, a região do mapa ou a rampa envolvida.
+
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Privacidade
+      options:
+        - label: Não incluí senha Wi-Fi, chave de API ou tracklog pessoal.
+          required: true
