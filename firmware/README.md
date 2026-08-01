@@ -7,3 +7,6 @@ Arquivos publicados para atualizacao remota da LilyGo T5 EPD47 S3.
 
 O dispositivo aceita somente builds maiores, destinados a `T5-ePaper-S3`, e valida
 o tamanho e o SHA-256 antes de reiniciar.
+
+O procedimento completo de publicação está em
+[`docs/firmware-update.md`](../docs/firmware-update.md).

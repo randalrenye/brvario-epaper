@@ -1,0 +1,15 @@
+* text=auto eol=lf
+
+*.bin binary
+*.brmap binary
+*.bmp binary
+*.gif binary
+*.jpg binary
+*.jpeg binary
+*.png binary
+
+*.json text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
