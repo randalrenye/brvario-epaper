@@ -93,7 +93,7 @@ def validate_maps(validation: Validation) -> int:
         region_id = entry["id"]
         file_name = entry["file"]
         validation.require(
-            isinstance(region_id, str) and re.fullmatch(r"[a-z]{2}_[0-9]{3}", region_id) is not None,
+            isinstance(region_id, str) and re.fullmatch(r"[a-z]{2}_[0-9]{3,5}", region_id) is not None,
             f"{label}: id inválido: {region_id!r}",
         )
         validation.require(region_id not in ids, f"{label}: id duplicado: {region_id}")
@@ -101,7 +101,7 @@ def validate_maps(validation: Validation) -> int:
 
         validation.require(
             isinstance(file_name, str)
-            and re.fullmatch(r"[a-z]{2}_[0-9]{3}\.brmap", file_name) is not None,
+            and re.fullmatch(r"[a-z]{2}_[0-9]{3,5}\.brmap", file_name) is not None,
             f"{label}: nome de arquivo inválido: {file_name!r}",
         )
         validation.require(file_name not in files, f"{label}: arquivo duplicado: {file_name}")
